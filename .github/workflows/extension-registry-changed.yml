@@ -1,0 +1,30 @@
+name: extension-registry-changed
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [extension-registry-changed]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download
+        run: curl -sL -o registry.json https://registry.k6.io/registry.json
+
+      - name: Update
+        run: |
+          if ! git diff -s --exit-code registry.json; then
+            git config --local user.email 'wayback[bot]@users.noreply.github.com'
+            git config --local user.name 'wayback[bot]'
+            git add registry.json
+            git commit -a -m "Automatic update"
+            git push
+          fi

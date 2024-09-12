@@ -1,0 +1,3060 @@
+[
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Load-test Mongo no-SQL databases",
+    "imports": [
+      "k6/x/mongo"
+    ],
+    "module": "github.com/GhMartingit/xk6-mongo",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/GhMartingit/xk6-mongo.git",
+      "homepage": "https://github.com/GhMartingit/xk6-mongo",
+      "license": "Apache-2.0",
+      "name": "xk6-mongo",
+      "owner": "GhMartingit",
+      "public": true,
+      "stars": 5,
+      "timestamp": 1723643782,
+      "topics": [
+        "extension",
+        "k6",
+        "load-testing",
+        "mongo",
+        "performance-testing",
+        "xk6"
+      ],
+      "url": "https://github.com/GhMartingit/xk6-mongo"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.3",
+      "v1.0.2",
+      "v1.0.1",
+      "v1.0.0",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.5",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Enables real-time input from prometheus",
+    "imports": [
+      "k6/x/prometheusread"
+    ],
+    "module": "github.com/JorTurFer/xk6-input-prometheus",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/JorTurFer/xk6-input-prometheus.git",
+      "description": "Read data from Prometheus",
+      "homepage": "https://github.com/JorTurFer/xk6-input-prometheus",
+      "license": "Apache-2.0",
+      "name": "xk6-input-prometheus",
+      "owner": "JorTurFer",
+      "public": true,
+      "timestamp": 1718041047,
+      "topics": [
+        "prometheus",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/JorTurFer/xk6-input-prometheus"
+    },
+    "tier": "community",
+    "versions": [
+      "0.0.2",
+      "0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Support for input arguments via UI.",
+    "imports": [
+      "k6/x/prompt"
+    ],
+    "module": "github.com/Juandavi1/xk6-prompt",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/Juandavi1/xk6-prompt.git",
+      "description": "k6 extension that adds support for input arguments via UI",
+      "homepage": "https://github.com/Juandavi1/xk6-prompt",
+      "license": "MIT",
+      "name": "xk6-prompt",
+      "owner": "Juandavi1",
+      "public": true,
+      "stars": 14,
+      "timestamp": 1718008041,
+      "topics": [
+        "go",
+        "prompt",
+        "terminal-ui",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/Juandavi1/xk6-prompt"
+    },
+    "tier": "community",
+    "versions": [
+      "0.0.2",
+      "0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "observability"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Enables real-time output of test metrics to a StatsD service",
+    "module": "github.com/LeonAdato/xk6-output-statsd",
+    "outputs": [
+      "output-statsd"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/LeonAdato/xk6-output-statsd.git",
+      "description": "k6 extension to output real-time test metrics using StatsD.",
+      "homepage": "https://github.com/LeonAdato/xk6-output-statsd",
+      "license": "Apache-2.0",
+      "name": "xk6-output-statsd",
+      "owner": "LeonAdato",
+      "public": true,
+      "stars": 21,
+      "timestamp": 1724858619,
+      "topics": [
+        "k6-extension",
+        "k6-out",
+        "statsd-metrics",
+        "xk6"
+      ],
+      "url": "https://github.com/LeonAdato/xk6-output-statsd"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "observability"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Export results to ClickHouse",
+    "module": "github.com/Maksimall89/xk6-output-clickhouse",
+    "outputs": [
+      "clickhouse"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/Maksimall89/xk6-output-clickhouse.git",
+      "description": " k6 clickhouse output extension ",
+      "homepage": "https://github.com/Maksimall89/xk6-output-clickhouse",
+      "license": "Apache-2.0",
+      "name": "xk6-output-clickhouse",
+      "owner": "Maksimall89",
+      "public": true,
+      "stars": 5,
+      "timestamp": 1718012683,
+      "topics": [
+        "clickhouse",
+        "k6",
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/Maksimall89/xk6-output-clickhouse"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Add a dynamic proxy support to k6. Allow changing the HTTP proxy settings in the script.",
+    "imports": [
+      "k6/x/proxy"
+    ],
+    "module": "github.com/SYM01/xk6-proxy",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/SYM01/xk6-proxy.git",
+      "description": "Allow k6 to manipulate the env",
+      "homepage": "https://github.com/SYM01/xk6-proxy",
+      "license": "Apache-2.0",
+      "name": "xk6-proxy",
+      "owner": "SYM01",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1718022106,
+      "topics": [
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/SYM01/xk6-proxy"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Read files and directories",
+    "imports": [
+      "k6/x/read"
+    ],
+    "module": "github.com/acuenca-facephi/xk6-read",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/acuenca-facephi/xk6-read.git",
+      "description": "k6 extension for reading files",
+      "homepage": "https://github.com/acuenca-facephi/xk6-read",
+      "license": "Apache-2.0",
+      "name": "xk6-read",
+      "owner": "acuenca-facephi",
+      "public": true,
+      "stars": 2,
+      "timestamp": 1721983985,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/acuenca-facephi/xk6-read"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.0",
+      "v1.0.0-rc1"
+    ]
+  },
+  {
+    "categories": [
+      "messaging",
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Interact with Nostr relays",
+    "imports": [
+      "k6/x/nostr"
+    ],
+    "module": "github.com/akiomik/xk6-nostr",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/akiomik/xk6-nostr.git",
+      "description": "An xk6 extension for nostr",
+      "homepage": "https://bolt.fun/project/xk6-nostr",
+      "license": "Apache-2.0",
+      "name": "xk6-nostr",
+      "owner": "akiomik",
+      "public": true,
+      "stars": 6,
+      "timestamp": 1718012857,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "load-testing",
+        "nostr",
+        "xk6"
+      ],
+      "url": "https://github.com/akiomik/xk6-nostr"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Test Action Cable and AnyCable functionality",
+    "imports": [
+      "k6/x/cable"
+    ],
+    "module": "github.com/anycable/xk6-cable",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/anycable/xk6-cable.git",
+      "description": "A k6 extension for testing Action Cable and AnyCable functionality",
+      "homepage": "https://github.com/anycable/xk6-cable",
+      "license": "MIT",
+      "name": "xk6-cable",
+      "owner": "anycable",
+      "public": true,
+      "stars": 25,
+      "timestamp": 1719249094,
+      "topics": [
+        "anycable",
+        "benchmarking",
+        "hacktoberfest",
+        "k6",
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/anycable/xk6-cable"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.8.0",
+      "v0.7.0",
+      "v0.6.0",
+      "v0.5.0",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.0",
+      "v0.1.0",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Write files",
+    "imports": [
+      "k6/x/file"
+    ],
+    "module": "github.com/avitalique/xk6-file",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/avitalique/xk6-file.git",
+      "description": "k6 extension for writing files",
+      "homepage": "https://github.com/avitalique/xk6-file",
+      "license": "Apache-2.0",
+      "name": "xk6-file",
+      "owner": "avitalique",
+      "public": true,
+      "stars": 23,
+      "timestamp": 1725288002,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/avitalique/xk6-file"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.4.0",
+      "v1.3.1",
+      "v1.3.0",
+      "v1.2.3",
+      "v1.2.1",
+      "v1.2.0",
+      "v1.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "A k6 extension for Google Cloud Platform services.",
+    "imports": [
+      "k6/x/gcp"
+    ],
+    "module": "github.com/deejiw/xk6-gcp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/deejiw/xk6-gcp.git",
+      "description": "A k6 extension for Google Cloud Platform services.",
+      "homepage": "https://github.com/deejiw/xk6-gcp",
+      "license": "Apache-2.0",
+      "name": "xk6-gcp",
+      "owner": "deejiw",
+      "public": true,
+      "stars": 4,
+      "timestamp": 1720766307,
+      "topics": [
+        "gcp",
+        "xk6"
+      ],
+      "url": "https://github.com/deejiw/xk6-gcp"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.7",
+      "v0.2.6",
+      "v0.2.5",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.4",
+      "v0.0.4-rc1",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Interpret Go code",
+    "imports": [
+      "k6/x/interpret"
+    ],
+    "module": "github.com/deejiw/xk6-interpret",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/deejiw/xk6-interpret.git",
+      "description": "A k6 extension to interpret Go code from literal string.",
+      "homepage": "https://github.com/deejiw/xk6-interpret",
+      "license": "Apache-2.0",
+      "name": "xk6-interpret",
+      "owner": "deejiw",
+      "public": true,
+      "timestamp": 1720766350,
+      "topics": [
+        "golang",
+        "interpreter",
+        "xk6"
+      ],
+      "url": "https://github.com/deejiw/xk6-interpret"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.6"
+    ]
+  },
+  {
+    "categories": [
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "K6 extension for ethereum protocols",
+    "imports": [
+      "k6/x/ethereum"
+    ],
+    "module": "github.com/distribworks/xk6-ethereum",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/distribworks/xk6-ethereum.git",
+      "description": "K6 extension for ethereum protocols",
+      "homepage": "https://github.com/distribworks/xk6-ethereum",
+      "license": "MIT",
+      "name": "xk6-ethereum",
+      "owner": "distribworks",
+      "public": true,
+      "stars": 10,
+      "timestamp": 1722240862,
+      "topics": [
+        "blockchain",
+        "ethereum",
+        "xk6"
+      ],
+      "url": "https://github.com/distribworks/xk6-ethereum"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.4",
+      "v1.0.3",
+      "v1.0.2",
+      "v1.0.1",
+      "v1.0.0"
+    ]
+  },
+  {
+    "categories": [
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Enable RPS increase \u0026 file streaming on HTTP/1.1 requests",
+    "imports": [
+      "k6/x/fasthttp"
+    ],
+    "module": "github.com/domsolutions/xk6-fasthttp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/domsolutions/xk6-fasthttp.git",
+      "description": "A k6 extension using fasthttp library for improved speed of HTTP/1.1 requests",
+      "homepage": "https://github.com/domsolutions/xk6-fasthttp",
+      "license": "Apache-2.0",
+      "name": "xk6-fasthttp",
+      "owner": "domsolutions",
+      "public": true,
+      "stars": 2,
+      "timestamp": 1725871278,
+      "topics": [
+        "fasthttpclient",
+        "http-client",
+        "k6",
+        "load-testing",
+        "xk6"
+      ],
+      "url": "https://github.com/domsolutions/xk6-fasthttp"
+    },
+    "tier": "community",
+    "versions": [
+      "0.1.0",
+      "0.0.2",
+      "0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Export results to Elasticsearch 8.x",
+    "module": "github.com/elastic/xk6-output-elasticsearch",
+    "outputs": [
+      "output-elasticsearch"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/elastic/xk6-output-elasticsearch.git",
+      "homepage": "https://github.com/elastic/xk6-output-elasticsearch",
+      "license": "Apache-2.0",
+      "name": "xk6-output-elasticsearch",
+      "owner": "elastic",
+      "public": true,
+      "stars": 18,
+      "timestamp": 1725858787,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/elastic/xk6-output-elasticsearch"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.3.0",
+      "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "authentication"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Generate OAuth PKCE code verifier and code challenge",
+    "imports": [
+      "k6/x/oauth-pkce"
+    ],
+    "module": "github.com/frankhefeng/xk6-oauth-pkce",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/frankhefeng/xk6-oauth-pkce.git",
+      "description": "OAuth PKCE extension for K6",
+      "homepage": "https://github.com/frankhefeng/xk6-oauth-pkce",
+      "license": "GPL-3.0",
+      "name": "xk6-oauth-pkce",
+      "owner": "frankhefeng",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1718018024,
+      "topics": [
+        "k6",
+        "oauth2",
+        "pkce",
+        "pkce-authentication",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/frankhefeng/xk6-oauth-pkce"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Simple MLLP sender for k6",
+    "imports": [
+      "k6/x/mllp"
+    ],
+    "module": "github.com/gjergjsheldija/xk6-mllp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/gjergjsheldija/xk6-mllp.git",
+      "description": "Simple MLLP sender for K6",
+      "homepage": "https://github.com/gjergjsheldija/xk6-mllp",
+      "license": "MIT",
+      "name": "xk6-mllp",
+      "owner": "gjergjsheldija",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1718193530,
+      "topics": [
+        "hl7",
+        "mllp-sender",
+        "xk6",
+        "xk6-hl7",
+        "xk6-mllp"
+      ],
+      "url": "https://github.com/gjergjsheldija/xk6-mllp"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.8",
+      "v0.0.7",
+      "v0.0.6",
+      "v0.0.5",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "messaging",
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Interact with Constrained Application Protocol endpoints.",
+    "imports": [
+      "k6/x/coap"
+    ],
+    "module": "github.com/golioth/xk6-coap",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/golioth/xk6-coap.git",
+      "description": "A k6 extension for CoAP.",
+      "homepage": "https://github.com/golioth/xk6-coap",
+      "license": "Apache-2.0",
+      "name": "xk6-coap",
+      "owner": "golioth",
+      "public": true,
+      "stars": 12,
+      "timestamp": 1718012802,
+      "topics": [
+        "coap",
+        "k6",
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/golioth/xk6-coap"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Aggregate HTTP requests into an HTML report",
+    "imports": [
+      "k6/x/httpagg"
+    ],
+    "module": "github.com/gpiechnik2/xk6-httpagg",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/gpiechnik2/xk6-httpagg.git",
+      "description": "k6 extension that allows you to aggregate the results of HTTP requests and view them one by one using a generated .html report. Implemented using xk6.",
+      "homepage": "https://github.com/gpiechnik2/xk6-httpagg",
+      "license": "Apache-2.0",
+      "name": "xk6-httpagg",
+      "owner": "gpiechnik2",
+      "public": true,
+      "stars": 7,
+      "timestamp": 1718012384,
+      "topics": [
+        "aggregate",
+        "html",
+        "http",
+        "k6",
+        "k6-extension",
+        "results",
+        "xk6"
+      ],
+      "url": "https://github.com/gpiechnik2/xk6-httpagg"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.0",
+      "1.0.0"
+    ]
+  },
+  {
+    "categories": [
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Use SMTP protocol to send emails",
+    "imports": [
+      "k6/x/smtp"
+    ],
+    "module": "github.com/gpiechnik2/xk6-smtp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/gpiechnik2/xk6-smtp.git",
+      "description": "k6 extension to k6 extension to use smtp protocol (sending emails). Implemented using the xk6 system.",
+      "homepage": "https://github.com/gpiechnik2/xk6-smtp",
+      "license": "Apache-2.0",
+      "name": "xk6-smtp",
+      "owner": "gpiechnik2",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1718012389,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "mail",
+        "smtp",
+        "smtp-client",
+        "smtp-protocol",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/gpiechnik2/xk6-smtp"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.0"
+    ]
+  },
+  {
+    "categories": [
+      "observability"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Test Prometheus Remote Write performance",
+    "imports": [
+      "k6/x/remotewrite"
+    ],
+    "module": "github.com/grafana/xk6-client-prometheus-remote",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-client-prometheus-remote.git",
+      "description": "A k6 extension for testing Prometheus Remote Write endpoints",
+      "homepage": "https://github.com/grafana/xk6-client-prometheus-remote",
+      "license": "Apache-2.0",
+      "name": "xk6-client-prometheus-remote",
+      "owner": "grafana",
+      "public": true,
+      "stars": 24,
+      "timestamp": 1718976971,
+      "topics": [
+        "prometheus",
+        "remote-write",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-client-prometheus-remote"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.3.2",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.2.4",
+      "v0.2.3",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.0",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "observability"
+    ],
+    "compliance": {
+      "grade": "B",
+      "level": 92
+    },
+    "description": "Client for load testing distributed tracing backends",
+    "imports": [
+      "k6/x/tracing"
+    ],
+    "module": "github.com/grafana/xk6-client-tracing",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-client-tracing.git",
+      "description": "A k6 extension for testing distributed tracing backends",
+      "homepage": "https://github.com/grafana/xk6-client-tracing",
+      "license": "AGPL-3.0",
+      "name": "xk6-client-tracing",
+      "owner": "grafana",
+      "public": true,
+      "stars": 39,
+      "timestamp": 1719329534,
+      "topics": [
+        "distributed-tracing",
+        "k6",
+        "opentelemetry",
+        "tracing",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-client-tracing"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.0.5",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "observability"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Create a web-based metrics dashboard",
+    "module": "github.com/grafana/xk6-dashboard",
+    "outputs": [
+      "dashboard"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-dashboard.git",
+      "description": "A k6 extension that makes k6 metrics available on a web-based dashboard.",
+      "homepage": "https://github.com/grafana/xk6-dashboard",
+      "license": "AGPL-3.0",
+      "name": "xk6-dashboard",
+      "owner": "grafana",
+      "public": true,
+      "stars": 331,
+      "timestamp": 1719907965,
+      "topics": [
+        "xk6",
+        "xk6-official",
+        "xk6-output-dashboard"
+      ],
+      "url": "https://github.com/grafana/xk6-dashboard"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.7.5",
+      "v0.7.4",
+      "v0.7.3",
+      "v0.7.3-alpha.1",
+      "v0.7.2",
+      "v0.7.1",
+      "v0.7.0",
+      "v0.7.0-apha.3",
+      "v0.7.0-alpha.5",
+      "v0.7.0-alpha.4",
+      "v0.7.0-alpha.3",
+      "v0.7.0-alpha.2",
+      "v0.7.0-alpha.1",
+      "v0.6.1",
+      "v0.6.0",
+      "v0.5.5",
+      "v0.5.4",
+      "v0.5.3",
+      "v0.5.2",
+      "v0.5.1",
+      "v0.5.0",
+      "v0.4.4",
+      "v0.4.3",
+      "v0.4.2",
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.2",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.2.0",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "kubernetes"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Inject faults to test 💣",
+    "imports": [
+      "k6/x/disruptor"
+    ],
+    "module": "github.com/grafana/xk6-disruptor",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-disruptor.git",
+      "description": "Extension for injecting faults into k6 tests",
+      "homepage": "https://k6.io/docs/javascript-api/xk6-disruptor/",
+      "license": "AGPL-3.0",
+      "name": "xk6-disruptor",
+      "owner": "grafana",
+      "public": true,
+      "stars": 91,
+      "timestamp": 1726092645,
+      "topics": [
+        "chaos-engineering",
+        "fault-injection",
+        "k6",
+        "testing",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-disruptor"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.3.11",
+      "v0.3.10",
+      "v0.3.9",
+      "v0.3.8",
+      "v0.3.7",
+      "v0.3.6",
+      "v0.3.5",
+      "v0.3.5-rc2",
+      "v0.3.5-rc1",
+      "v0.3.4",
+      "v0.3.3",
+      "v0.3.2",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Run external commands",
+    "imports": [
+      "k6/x/exec"
+    ],
+    "module": "github.com/grafana/xk6-exec",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-exec.git",
+      "description": "A k6 extension for running external commands. ",
+      "homepage": "https://github.com/grafana/xk6-exec",
+      "license": "Apache-2.0",
+      "name": "xk6-exec",
+      "owner": "grafana",
+      "public": true,
+      "stars": 20,
+      "timestamp": 1725464620,
+      "topics": [
+        "exec",
+        "k6",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-exec"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.0",
+      "v0.1.0",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "kubernetes"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Interact with Kubernetes clusters",
+    "imports": [
+      "k6/x/kubernetes"
+    ],
+    "module": "github.com/grafana/xk6-kubernetes",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-kubernetes.git",
+      "description": "Client extension for interacting with Kubernetes clusters from your k6 tests.",
+      "homepage": "https://github.com/grafana/xk6-kubernetes",
+      "license": "Apache-2.0",
+      "name": "xk6-kubernetes",
+      "owner": "grafana",
+      "public": true,
+      "stars": 62,
+      "timestamp": 1722251942,
+      "topics": [
+        "kubernetes",
+        "kubernetes-client",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-kubernetes"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.10.0",
+      "v0.9.0",
+      "v0.8.0",
+      "v0.7.0",
+      "v0.6.0",
+      "v0.5.0",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.5",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "observability",
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "B",
+      "level": 92
+    },
+    "description": "Client for load testing Loki",
+    "imports": [
+      "k6/x/loki"
+    ],
+    "module": "github.com/grafana/xk6-loki",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-loki.git",
+      "description": "k6 extension for Loki",
+      "homepage": "https://github.com/grafana/xk6-loki",
+      "license": "Apache-2.0",
+      "name": "xk6-loki",
+      "owner": "grafana",
+      "public": true,
+      "stars": 38,
+      "timestamp": 1724212557,
+      "topics": [
+        "k6",
+        "loki",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-loki"
+    },
+    "tier": "official",
+    "versions": [
+      "v1.0.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Create notifications",
+    "imports": [
+      "k6/x/notification"
+    ],
+    "module": "github.com/grafana/xk6-notification",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-notification.git",
+      "description": "A k6 extension for creating notifications. ",
+      "homepage": "https://github.com/grafana/xk6-notification",
+      "license": "Apache-2.0",
+      "name": "xk6-notification",
+      "owner": "grafana",
+      "public": true,
+      "stars": 18,
+      "timestamp": 1718008202,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "shoutrrr",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-notification"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Export results to InfluxDB v2",
+    "module": "github.com/grafana/xk6-output-influxdb",
+    "outputs": [
+      "xk6-influxdb"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-output-influxdb.git",
+      "description": "k6 extension to output real-time test metrics to an InfluxDB 2.x database.",
+      "homepage": "https://github.com/grafana/xk6-output-influxdb",
+      "license": "Apache-2.0",
+      "name": "xk6-output-influxdb",
+      "owner": "grafana",
+      "public": true,
+      "stars": 62,
+      "timestamp": 1724921925,
+      "topics": [
+        "grafana-dashboard",
+        "influxdb",
+        "k6",
+        "k6-output",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-output-influxdb"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.5.0",
+      "v0.4.3",
+      "v0.4.2",
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Export k6 results in real-time to Kafka",
+    "module": "github.com/grafana/xk6-output-kafka",
+    "outputs": [
+      "xk6-kafka"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-output-kafka.git",
+      "description": "k6 extension to output real-time test metrics to a Kafka topic.",
+      "homepage": "https://github.com/grafana/xk6-output-kafka",
+      "license": "Apache-2.0",
+      "name": "xk6-output-kafka",
+      "owner": "grafana",
+      "public": true,
+      "stars": 20,
+      "timestamp": 1718012070,
+      "topics": [
+        "k6",
+        "k6-output",
+        "kafka",
+        "kafka-streams",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-output-kafka"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.7.1",
+      "v0.7.0",
+      "v0.6.0",
+      "v0.5.0",
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Export k6 results to TimescaleDB",
+    "module": "github.com/grafana/xk6-output-timescaledb",
+    "outputs": [
+      "timescaledb"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-output-timescaledb.git",
+      "description": "k6 extension to output real-time test metrics to TimescaleDB.",
+      "homepage": "https://github.com/grafana/xk6-output-timescaledb",
+      "license": "Apache-2.0",
+      "name": "xk6-output-timescaledb",
+      "owner": "grafana",
+      "public": true,
+      "stars": 29,
+      "timestamp": 1718012137,
+      "topics": [
+        "grafana-dashboard",
+        "k6",
+        "k6-output",
+        "timescaledb",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-output-timescaledb"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now)",
+    "imports": [
+      "k6/x/sql"
+    ],
+    "module": "github.com/grafana/xk6-sql",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql.git",
+      "description": "k6 extension to load test RDBMSs (PostgreSQL, MySQL, MS SQL and SQLite3)",
+      "homepage": "https://github.com/grafana/xk6-sql",
+      "license": "Apache-2.0",
+      "name": "xk6-sql",
+      "owner": "grafana",
+      "public": true,
+      "stars": 107,
+      "timestamp": 1725979901,
+      "topics": [
+        "k6",
+        "sql",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-sql"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "SSH",
+    "imports": [
+      "k6/x/ssh"
+    ],
+    "module": "github.com/grafana/xk6-ssh",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-ssh.git",
+      "description": "Client extension for interacting with a host over SSH as part of your k6 test.",
+      "homepage": "https://github.com/grafana/xk6-ssh",
+      "license": "Apache-2.0",
+      "name": "xk6-ssh",
+      "owner": "grafana",
+      "public": true,
+      "stars": 9,
+      "timestamp": 1718011915,
+      "topics": [
+        "ssh",
+        "ssh-client",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-ssh"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Add TypeScript support for k6",
+    "imports": [
+      "k6/x/ts"
+    ],
+    "module": "github.com/grafana/xk6-ts",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-ts.git",
+      "description": "TypeScript support for k6",
+      "homepage": "https://github.com/grafana/xk6-ts",
+      "license": "AGPL-3.0",
+      "name": "xk6-ts",
+      "owner": "grafana",
+      "public": true,
+      "stars": 18,
+      "timestamp": 1718014622,
+      "topics": [
+        "typescript",
+        "xk6",
+        "xk6-other"
+      ],
+      "url": "https://github.com/grafana/xk6-ts"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.6",
+      "v0.2.5",
+      "v0.2.4",
+      "v0.2.3",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "messaging",
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Add support for webtransport protocol",
+    "imports": [
+      "k6/x/webtransport"
+    ],
+    "module": "github.com/kelseyaubrecht/xk6-webtransport",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/kelseyaubrecht/xk6-webtransport.git",
+      "description": "Extension for k6 to support webtransport",
+      "homepage": "https://github.com/kelseyaubrecht/xk6-webtransport",
+      "license": "Apache-2.0",
+      "name": "xk6-webtransport",
+      "owner": "kelseyaubrecht",
+      "public": true,
+      "stars": 4,
+      "timestamp": 1718104962,
+      "topics": [
+        "http3",
+        "k6",
+        "k6-extension",
+        "k6-performancetest",
+        "webtransport",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/kelseyaubrecht/xk6-webtransport"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "observability"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Support for Tracetest test execution and tracing client",
+    "module": "github.com/kubeshop/xk6-tracetest",
+    "outputs": [
+      "tracetest"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/kubeshop/xk6-tracetest.git",
+      "homepage": "https://github.com/kubeshop/xk6-tracetest",
+      "license": "Apache-2.0",
+      "name": "xk6-tracetest",
+      "owner": "kubeshop",
+      "public": true,
+      "stars": 9,
+      "timestamp": 1718008005,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/kubeshop/xk6-tracetest"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.10",
+      "v0.1.9",
+      "v0.1.8",
+      "v0.1.7",
+      "v0.1.6",
+      "v0.1.5",
+      "v0.1.4",
+      "v0.1.4-rc.1",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Export results to AWS Timestream",
+    "module": "github.com/leonyork/xk6-output-timestream",
+    "outputs": [
+      "timestream"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/leonyork/xk6-output-timestream.git",
+      "description": "Output metrics from K6 to AWS Timestream",
+      "homepage": "https://github.com/leonyork/xk6-output-timestream",
+      "license": "AGPL-3.0",
+      "name": "xk6-output-timestream",
+      "owner": "leonyork",
+      "public": true,
+      "stars": 17,
+      "timestamp": 1726086334,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "k6-output",
+        "timestream",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/leonyork/xk6-output-timestream"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.9.46",
+      "v0.9.45",
+      "v0.9.44",
+      "v0.9.43",
+      "v0.9.42",
+      "v0.9.41",
+      "v0.9.40",
+      "v0.9.39",
+      "v0.9.38",
+      "v0.9.37",
+      "v0.9.36",
+      "v0.9.35",
+      "v0.9.34",
+      "v0.9.33",
+      "v0.9.32",
+      "v0.9.31",
+      "v0.9.30",
+      "v0.9.29",
+      "v0.9.28",
+      "v0.9.27",
+      "v0.9.26",
+      "v0.9.25",
+      "v0.9.24",
+      "v0.9.23",
+      "v0.9.22",
+      "v0.9.21",
+      "v0.9.20",
+      "v0.9.19",
+      "v0.9.18",
+      "v0.9.17",
+      "v0.9.16",
+      "v0.9.15",
+      "v0.9.14",
+      "v0.9.13",
+      "v0.9.12",
+      "v0.9.11",
+      "v0.9.10",
+      "v0.9.9",
+      "v0.9.8",
+      "v0.9.7",
+      "v0.9.6",
+      "v0.9.5",
+      "v0.9.4",
+      "v0.9.3",
+      "v0.9.2",
+      "v0.9.1",
+      "v0.9.0",
+      "v0.8.70",
+      "v0.8.69",
+      "v0.8.68",
+      "v0.8.67",
+      "v0.8.66",
+      "v0.8.65",
+      "v0.8.64",
+      "v0.8.63",
+      "v0.8.62",
+      "v0.8.61",
+      "v0.8.60",
+      "v0.8.59",
+      "v0.8.58",
+      "v0.8.57",
+      "v0.8.56",
+      "v0.8.55",
+      "v0.8.54",
+      "v0.8.53",
+      "v0.8.52",
+      "v0.8.51",
+      "v0.8.50",
+      "v0.8.49",
+      "v0.8.48",
+      "v0.8.47",
+      "v0.8.46",
+      "v0.8.45",
+      "v0.8.44",
+      "v0.8.43",
+      "v0.8.42",
+      "v0.8.41",
+      "v0.8.40",
+      "v0.8.39",
+      "v0.8.38",
+      "v0.8.37",
+      "v0.8.36",
+      "v0.8.35",
+      "v0.8.34",
+      "v0.8.33",
+      "v0.8.32",
+      "v0.8.31",
+      "v0.8.30",
+      "v0.8.29",
+      "v0.8.28",
+      "v0.8.27",
+      "v0.8.26",
+      "v0.8.25",
+      "v0.8.24",
+      "v0.8.23",
+      "v0.8.22",
+      "v0.8.21",
+      "v0.8.20",
+      "v0.8.19",
+      "v0.8.18"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Interact with Telegram Bots",
+    "imports": [
+      "k6/x/telegram"
+    ],
+    "module": "github.com/maksimall89/xk6-telegram",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/Maksimall89/xk6-telegram.git",
+      "description": "A k6 extension for creating telegram notifications.",
+      "homepage": "https://github.com/Maksimall89/xk6-telegram",
+      "license": "Apache-2.0",
+      "name": "xk6-telegram",
+      "owner": "Maksimall89",
+      "public": true,
+      "stars": 7,
+      "timestamp": 1718012139,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/Maksimall89/xk6-telegram"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "observability",
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Export results to Prometheus pushgateway",
+    "imports": [
+      "k6/x/output-prometheus-pushgateway"
+    ],
+    "module": "github.com/martymarron/xk6-output-prometheus-pushgateway",
+    "outputs": [
+      "output-prometheus-pushgateway"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/martymarron/xk6-output-prometheus-pushgateway.git",
+      "description": "This is a k6 extension for publishing test-run metrics to Prometheus via Pushgateway.",
+      "homepage": "https://github.com/martymarron/xk6-output-prometheus-pushgateway",
+      "license": "Apache-2.0",
+      "name": "xk6-output-prometheus-pushgateway",
+      "owner": "martymarron",
+      "public": true,
+      "stars": 10,
+      "timestamp": 1722231073,
+      "topics": [
+        "grafana",
+        "k6",
+        "k6-extension",
+        "load-testing",
+        "performance-testing",
+        "prometheus",
+        "pushgateway",
+        "xk6"
+      ],
+      "url": "https://github.com/martymarron/xk6-output-prometheus-pushgateway"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.4",
+      "v0.2.3",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Load-test Apache Kafka. Includes support for Avro messages",
+    "imports": [
+      "k6/x/kafka"
+    ],
+    "module": "github.com/mostafa/xk6-kafka",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/mostafa/xk6-kafka.git",
+      "description": "k6 extension to load test Apache Kafka with support for various serialization formats, SASL, TLS, compression, Schema Registry client and beyond",
+      "homepage": "https://github.com/mostafa/xk6-kafka",
+      "license": "Apache-2.0",
+      "name": "xk6-kafka",
+      "owner": "mostafa",
+      "public": true,
+      "stars": 146,
+      "timestamp": 1726066295,
+      "topics": [
+        "apache-kafka",
+        "avro",
+        "extension",
+        "json-schema",
+        "jsonschema",
+        "k6",
+        "kafka",
+        "load-testing",
+        "performance-testing",
+        "sasl",
+        "schema-registry",
+        "xk6"
+      ],
+      "url": "https://github.com/mostafa/xk6-kafka"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.27.0",
+      "v0.26.0",
+      "v0.25.1",
+      "v0.25.0",
+      "v0.24.2",
+      "v0.24.1",
+      "v0.24.0",
+      "v0.23.1",
+      "v0.23.0",
+      "v0.22.0",
+      "v0.21.1",
+      "v0.21.0",
+      "v0.20.2",
+      "v0.20.1",
+      "v0.20.0",
+      "v0.19.1",
+      "v0.19.0",
+      "v0.18.2",
+      "v0.18.1",
+      "v0.18.0",
+      "v0.17.0",
+      "v0.16.1",
+      "v0.16.0",
+      "v0.15.1",
+      "v0.15.0",
+      "v0.14.2",
+      "v0.14.1",
+      "v0.14.0",
+      "v0.13.1",
+      "v0.13.0",
+      "v0.12.0",
+      "v0.11.0",
+      "v0.10.0",
+      "v0.9.0",
+      "v0.8.0",
+      "v0.7.0",
+      "v0.6.0",
+      "v0.5.0",
+      "v0.4.0",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "browser"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Browser automation and end-to-end web testing using Playwright",
+    "imports": [
+      "k6/x/playwright"
+    ],
+    "module": "github.com/nicholasvuono/xk6-playwright",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/nicholasvuono/xk6-playwright.git",
+      "description": "k6 extension that adds support for browser automation and end-to-end web testing using playwright-go",
+      "homepage": "https://github.com/nicholasvuono/xk6-playwright",
+      "license": "Apache-2.0",
+      "name": "xk6-playwright",
+      "owner": "nicholasvuono",
+      "public": true,
+      "stars": 43,
+      "timestamp": 1718038324,
+      "topics": [
+        "browser-automation",
+        "end-to-end-testing",
+        "k6",
+        "playwright",
+        "xk6",
+        "xk6-playwright"
+      ],
+      "url": "https://github.com/nicholasvuono/xk6-playwright"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.3.3",
+      "v0.3.2",
+      "v0.3.1",
+      "v0.2.5",
+      "v0.2.4",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0",
+      "0.2.3"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Share key-value data between VUs",
+    "imports": [
+      "k6/x/kv"
+    ],
+    "module": "github.com/oleiade/xk6-kv",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/oleiade/xk6-kv.git",
+      "description": "A key-value store extension for k6",
+      "homepage": "https://github.com/oleiade/xk6-kv",
+      "license": "AGPL-3.0",
+      "name": "xk6-kv",
+      "owner": "oleiade",
+      "public": true,
+      "stars": 12,
+      "timestamp": 1724242047,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "key-value-store",
+        "load-testing",
+        "performance-testing",
+        "xk6"
+      ],
+      "url": "https://github.com/oleiade/xk6-kv"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.1.0",
+      "v1.0.0"
+    ]
+  },
+  {
+    "categories": [
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "A k6 extension for Server-Sent Events (SSE)",
+    "imports": [
+      "k6/x/sse"
+    ],
+    "module": "github.com/phymbert/xk6-sse",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/phymbert/xk6-sse.git",
+      "description": "A k6 extension for Server-Sent Events (SSE)",
+      "homepage": "https://github.com/phymbert/xk6-sse",
+      "license": "Apache-2.0",
+      "name": "xk6-sse",
+      "owner": "phymbert",
+      "public": true,
+      "stars": 12,
+      "timestamp": 1724110241,
+      "topics": [
+        "k6",
+        "sse",
+        "sse-client",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/phymbert/xk6-sse"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "messaging"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "MQTT extension",
+    "imports": [
+      "k6/x/mqtt"
+    ],
+    "module": "github.com/pmalhaire/xk6-mqtt",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/pmalhaire/xk6-mqtt.git",
+      "description": "k6 mqtt extension",
+      "homepage": "https://github.com/pmalhaire/xk6-mqtt",
+      "license": "Apache-2.0",
+      "name": "xk6-mqtt",
+      "owner": "pmalhaire",
+      "public": true,
+      "stars": 47,
+      "timestamp": 1721382725,
+      "topics": [
+        "mqtt",
+        "xk6"
+      ],
+      "url": "https://github.com/pmalhaire/xk6-mqtt"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.40.0",
+      "v0.39.2",
+      "v0.39.1",
+      "v0.39.0",
+      "v0.38.0",
+      "v0.37.0",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "data",
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Clone Git repositories from tests",
+    "imports": [
+      "k6/x/git"
+    ],
+    "module": "github.com/skibum55/xk6-git",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/skibum55/xk6-git.git",
+      "description": "Load testing extension for GIt with K6",
+      "homepage": "https://github.com/skibum55/xk6-git",
+      "license": "Apache-2.0",
+      "name": "xk6-git",
+      "owner": "skibum55",
+      "public": true,
+      "timestamp": 1718012390,
+      "topics": [
+        "git",
+        "hacktoberfest",
+        "k6",
+        "k6-extension",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/skibum55/xk6-git"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.8",
+      "v0.0.7",
+      "v0.0.6",
+      "v0.0.5",
+      "v0.0.4",
+      "0.0.3"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Encrypt and decrypt Ansible Vault",
+    "imports": [
+      "k6/x/ansible-vault"
+    ],
+    "module": "github.com/szkiba/xk6-ansible-vault",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-ansible-vault.git",
+      "description": "A k6 extension enables to encrypt and decrypt ansible vaults",
+      "homepage": "https://github.com/szkiba/xk6-ansible-vault",
+      "license": "MIT",
+      "name": "xk6-ansible-vault",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1718015219,
+      "topics": [
+        "xk6",
+        "xk6-javascript-k6-x-ansible--vault"
+      ],
+      "url": "https://github.com/szkiba/xk6-ansible-vault"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Enable vendoring remote HTTP modules to a single source-control-friendly file",
+    "module": "github.com/szkiba/xk6-cache",
+    "outputs": [
+      "cache"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-cache.git",
+      "description": "A k6 extension enables vendoring remote HTTP modules to single file.",
+      "homepage": "https://github.com/szkiba/xk6-cache",
+      "license": "MIT",
+      "name": "xk6-cache",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1718017543,
+      "topics": [
+        "xk6",
+        "xk6-output-cache"
+      ],
+      "url": "https://github.com/szkiba/xk6-cache"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Embed k6chaijs into the k6 binary",
+    "imports": [
+      "k6/x/chai"
+    ],
+    "module": "github.com/szkiba/xk6-chai",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-chai.git",
+      "description": "Embed Chai.js (k6chaijs) into the k6 binary",
+      "homepage": "https://github.com/szkiba/xk6-chai",
+      "license": "Apache-2.0",
+      "name": "xk6-chai",
+      "owner": "szkiba",
+      "public": true,
+      "timestamp": 1718016705,
+      "topics": [
+        "chaijs",
+        "xk6",
+        "xk6-javascript-k6-x-chai"
+      ],
+      "url": "https://github.com/szkiba/xk6-chai"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Parse CSV values",
+    "imports": [
+      "k6/x/csv"
+    ],
+    "module": "github.com/szkiba/xk6-csv",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-csv.git",
+      "description": "A k6 extension enables to parse CSV values",
+      "homepage": "https://github.com/szkiba/xk6-csv",
+      "license": "MIT",
+      "name": "xk6-csv",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 5,
+      "timestamp": 1725026444,
+      "topics": [
+        "xk6",
+        "xk6-imports-k6-x-csv"
+      ],
+      "url": "https://github.com/szkiba/xk6-csv"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.4",
+      "v0.1.3",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Load env vars from a .env file",
+    "imports": [
+      "k6/x/dotenv"
+    ],
+    "module": "github.com/szkiba/xk6-dotenv",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-dotenv.git",
+      "description": "A k6 extension that loads env vars from a .env file.",
+      "homepage": "https://github.com/szkiba/xk6-dotenv",
+      "license": "MIT",
+      "name": "xk6-dotenv",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 27,
+      "timestamp": 1718015289,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/szkiba/xk6-dotenv"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.0",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Generate random fake data",
+    "imports": [
+      "k6/x/faker"
+    ],
+    "module": "github.com/grafana/xk6-faker",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-faker.git",
+      "description": "Random fake data generator for k6.",
+      "homepage": "https://faker.x.k6.io",
+      "license": "AGPL-3.0",
+      "name": "xk6-faker",
+      "owner": "grafana",
+      "public": true,
+      "stars": 50,
+      "timestamp": 1725533453,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-faker"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.4.0",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.3.0-alpha.1",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Write k6 tests in golang",
+    "imports": [
+      "k6/x/g0"
+    ],
+    "module": "github.com/szkiba/xk6-g0",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-g0.git",
+      "description": "Write k6 tests in golang",
+      "homepage": "https://github.com/szkiba/xk6-g0",
+      "license": "MIT",
+      "name": "xk6-g0",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 24,
+      "timestamp": 1718016684,
+      "topics": [
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/szkiba/xk6-g0"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.5",
+      "v0.1.4",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Mock HTTP(S) servers",
+    "imports": [
+      "k6/x/mock"
+    ],
+    "module": "github.com/szkiba/xk6-mock",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-mock.git",
+      "description": "A k6 extension for mocking HTTP(S) servers during test development.",
+      "homepage": "http://ivan.szkiba.hu/xk6-mock/",
+      "license": "MIT",
+      "name": "xk6-mock",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 14,
+      "timestamp": 1724232268,
+      "topics": [
+        "k6-extension",
+        "xk6"
+      ],
+      "url": "https://github.com/szkiba/xk6-mock"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.2",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Write k6 output extension as a dynamically loadable plugin using your favorite programming language",
+    "module": "github.com/szkiba/xk6-output-plugin",
+    "outputs": [
+      "plugin"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-output-plugin.git",
+      "description": "Write k6 output extension as a dynamically loadable plugin using your favorite programming language",
+      "homepage": "https://github.com/szkiba/xk6-output-plugin",
+      "license": "MIT",
+      "name": "xk6-output-plugin",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 7,
+      "timestamp": 1718015464,
+      "topics": [
+        "xk6",
+        "xk6-output-plugin"
+      ],
+      "url": "https://github.com/szkiba/xk6-output-plugin"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "observability"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Prometheus HTTP exporter for k6",
+    "module": "github.com/szkiba/xk6-prometheus",
+    "outputs": [
+      "prometheus"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-prometheus.git",
+      "description": "Prometheus HTTP exporter for k6",
+      "homepage": "https://github.com/szkiba/xk6-prometheus",
+      "license": "MIT",
+      "name": "xk6-prometheus",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 48,
+      "timestamp": 1718015257,
+      "topics": [
+        "prometheus",
+        "prometheus-exporter",
+        "xk6",
+        "xk6-output-prometheus"
+      ],
+      "url": "https://github.com/szkiba/xk6-prometheus"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.5",
+      "v0.1.4",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Encode and decode TOML values",
+    "imports": [
+      "k6/x/toml"
+    ],
+    "module": "github.com/szkiba/xk6-toml",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-toml.git",
+      "description": "A k6 extension enables to encode and decode TOML values",
+      "homepage": "https://github.com/szkiba/xk6-toml",
+      "license": "MIT",
+      "name": "xk6-toml",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 2,
+      "timestamp": 1724232641,
+      "topics": [
+        "xk6",
+        "xk6-javascript-k6-x-toml"
+      ],
+      "url": "https://github.com/szkiba/xk6-toml"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.4",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
+      "observability"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Updating the current k6 metrics summaries on the terminal during the test run",
+    "module": "github.com/szkiba/xk6-top",
+    "outputs": [
+      "top"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-top.git",
+      "description": "A k6 extension that makes k6 metrics available on a terminal-based dashboard.",
+      "homepage": "https://github.com/szkiba/xk6-top",
+      "license": "AGPL-3.0",
+      "name": "xk6-top",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 26,
+      "timestamp": 1718648112,
+      "topics": [
+        "xk6",
+        "xk6-output-top"
+      ],
+      "url": "https://github.com/szkiba/xk6-top"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Encode and decode YAML values",
+    "imports": [
+      "k6/x/yaml"
+    ],
+    "module": "github.com/szkiba/xk6-yaml",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/szkiba/xk6-yaml.git",
+      "description": "A k6 extension enables to encode and decode YAML values",
+      "homepage": "https://github.com/szkiba/xk6-yaml",
+      "license": "MIT",
+      "name": "xk6-yaml",
+      "owner": "szkiba",
+      "public": true,
+      "stars": 5,
+      "timestamp": 1723714154,
+      "topics": [
+        "xk6",
+        "xk6-javascript-k6-x-yaml"
+      ],
+      "url": "https://github.com/szkiba/xk6-yaml"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.4",
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "observability"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Generate OpenTelemetry signals from within your test scripts",
+    "imports": [
+      "k6/x/opentelemetry"
+    ],
+    "module": "github.com/thmshmm/xk6-opentelemetry",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/thmshmm/xk6-opentelemetry.git",
+      "description": "k6 extension to generate OpenTelemetry signals for load testing",
+      "homepage": "https://github.com/thmshmm/xk6-opentelemetry",
+      "license": "Apache-2.0",
+      "name": "xk6-opentelemetry",
+      "owner": "thmshmm",
+      "public": true,
+      "stars": 25,
+      "timestamp": 1719392155,
+      "topics": [
+        "k6",
+        "k6-extension",
+        "opentelemetry",
+        "xk6"
+      ],
+      "url": "https://github.com/thmshmm/xk6-opentelemetry"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Load-test Couchbase no-SQL databases",
+    "imports": [
+      "k6/x/couchbase"
+    ],
+    "module": "github.com/thotasrinath/xk6-couchbase",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/thotasrinath/xk6-couchbase.git",
+      "description": "K6 extension to test Couchbase DB",
+      "homepage": "https://github.com/thotasrinath/xk6-couchbase",
+      "license": "Apache-2.0",
+      "name": "xk6-couchbase",
+      "owner": "thotasrinath",
+      "public": true,
+      "stars": 5,
+      "timestamp": 1726067942,
+      "topics": [
+        "couchbase",
+        "k6",
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/thotasrinath/xk6-couchbase"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.8",
+      "v0.0.7",
+      "v0.0.6",
+      "v0.0.5",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "authentication"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Get a cognito access token using USER_SRP_AUTH flow",
+    "imports": [
+      "k6/x/cognito"
+    ],
+    "module": "github.com/tmieulet/xk6-cognito",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/tmieulet/xk6-cognito.git",
+      "description": "An example module for https://k6.io/ to get a cognito access token using USER_SRP_AUTH flow.",
+      "homepage": "https://github.com/tmieulet/xk6-cognito",
+      "license": "Apache-2.0",
+      "name": "xk6-cognito",
+      "owner": "tmieulet",
+      "public": true,
+      "stars": 2,
+      "timestamp": 1718012150,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/tmieulet/xk6-cognito"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "messaging",
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Client for STOMP protocol",
+    "imports": [
+      "k6/x/stomp"
+    ],
+    "module": "github.com/walterwanderley/xk6-stomp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/walterwanderley/xk6-stomp.git",
+      "description": "A STOMP protocol client library for k6",
+      "homepage": "https://github.com/walterwanderley/xk6-stomp",
+      "license": "Apache-2.0",
+      "name": "xk6-stomp",
+      "owner": "walterwanderley",
+      "public": true,
+      "stars": 5,
+      "timestamp": 1718067144,
+      "topics": [
+        "k6",
+        "stomp",
+        "xk6"
+      ],
+      "url": "https://github.com/walterwanderley/xk6-stomp"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.3",
+      "v0.1.2",
+      "v0.1.1",
+      "v0.1.0",
+      "v0.0.26",
+      "v0.0.25",
+      "v0.0.23",
+      "v0.0.21",
+      "v0.0.20",
+      "v0.0.19",
+      "v0.0.18",
+      "v0.0.16",
+      "v0.0.15",
+      "v0.0.14",
+      "v0.0.13",
+      "v0.0.12",
+      "v0.0.11",
+      "v0.0.10",
+      "v0.0.9",
+      "v0.0.8",
+      "v0.0.7",
+      "v0.0.6",
+      "v0.0.5",
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Print ASCII art banner from k6 test",
+    "imports": [
+      "k6/x/banner"
+    ],
+    "module": "gitlab.com/szkiba/xk6-banner",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://gitlab.com/szkiba/xk6-banner.git",
+      "description": "Print ASCII art banner from k6 test.",
+      "homepage": "https://gitlab.com/szkiba/xk6-banner",
+      "license": "MIT",
+      "name": "xk6-banner",
+      "owner": "szkiba",
+      "public": true,
+      "timestamp": 1725896396,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://gitlab.com/szkiba/xk6-banner"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "description": "A modern load testing tool, using Go and JavaScript",
+    "imports": [
+      "k6"
+    ],
+    "module": "go.k6.io/k6",
+    "products": [
+      "cloud",
+      "oss"
+    ],
+    "repo": {
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "homepage": "https://github.com/grafana/k6",
+      "license": "AGPL-3.0",
+      "name": "k6",
+      "owner": "grafana",
+      "public": true,
+      "topics": [
+        "es6",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "javascript",
+        "load-generator",
+        "load-testing",
+        "performance"
+      ],
+      "url": "https://github.com/grafana/k6"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.53.0",
+      "v0.52.0",
+      "v0.51.0",
+      "v0.50.0",
+      "v0.49.0",
+      "v0.48.0",
+      "v0.47.0",
+      "v0.46.0",
+      "v0.45.1",
+      "v0.45.0",
+      "v0.44.1",
+      "v0.44.0",
+      "v0.43.1",
+      "v0.43.0",
+      "v0.42.0",
+      "v0.41.0",
+      "v0.40.0",
+      "v0.39.0",
+      "v0.38.3",
+      "v0.38.2",
+      "v0.38.1",
+      "v0.38.0",
+      "v0.37.0",
+      "v0.36.0",
+      "v0.35.0",
+      "v0.34.1",
+      "v0.34.0",
+      "v0.33.0",
+      "v0.32.0",
+      "v0.31.1",
+      "v0.31.0",
+      "v0.30.0",
+      "v0.29.0",
+      "v0.28.0",
+      "v0.27.1",
+      "v0.27.0",
+      "v0.26.2",
+      "v0.26.1",
+      "v0.26.0",
+      "v0.25.1",
+      "v0.25.0",
+      "v0.24.0",
+      "v0.23.1",
+      "v0.23.0",
+      "v0.22.1",
+      "v0.22.0",
+      "v0.21.1",
+      "v0.21.0",
+      "v0.20.0",
+      "v0.19.0",
+      "v0.18.2",
+      "v0.18.1",
+      "v0.18.0",
+      "v0.17.2",
+      "v0.17.1",
+      "v0.17.0",
+      "v0.16.0",
+      "v0.15.0",
+      "v0.14.0",
+      "v0.13.0",
+      "v0.12.2",
+      "v0.12.1",
+      "v0.11.0",
+      "v0.10.0",
+      "v0.9.3",
+      "v0.9.2",
+      "v0.9.1",
+      "v0.9.0",
+      "v0.8.5",
+      "v0.8.4",
+      "v0.8.3",
+      "v0.8.2",
+      "v0.8.1",
+      "v0.8.0",
+      "v0.7.0",
+      "v0.6.0",
+      "v0.5.2",
+      "v0.5.1",
+      "v0.5.0",
+      "v0.4.5",
+      "v0.4.4",
+      "v0.4.3",
+      "v0.4.2",
+      "v0.4.1",
+      "v0.4.0",
+      "v0.3.0",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  }
+]
