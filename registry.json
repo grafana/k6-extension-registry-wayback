@@ -1643,7 +1643,7 @@
       "owner": "kubeshop",
       "public": true,
       "stars": 9,
-      "timestamp": 1718008005,
+      "timestamp": 1726248322,
       "topics": [
         "xk6"
       ],
@@ -1651,6 +1651,7 @@
     },
     "tier": "community",
     "versions": [
+      "v1.0.0",
       "v0.1.10",
       "v0.1.9",
       "v0.1.8",
