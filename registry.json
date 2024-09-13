@@ -2694,7 +2694,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 5,
-      "timestamp": 1723714154,
+      "timestamp": 1726232740,
       "topics": [
         "xk6",
         "xk6-javascript-k6-x-yaml"
@@ -2703,6 +2703,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.5",
       "v0.1.4",
       "v0.1.3",
       "v0.1.2",
