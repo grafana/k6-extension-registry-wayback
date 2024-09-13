@@ -969,7 +969,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 333,
+      "stars": 334,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -2615,7 +2615,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 2,
-      "timestamp": 1724232641,
+      "timestamp": 1726219878,
       "topics": [
         "xk6",
         "xk6-javascript-k6-x-toml"
@@ -2624,6 +2624,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.5",
       "v0.1.4",
       "v0.1.0"
     ]
