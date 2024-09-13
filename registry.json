@@ -97,7 +97,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "Support for input arguments via UI.",
+    "description": "Support for input arguments via UI",
     "imports": [
       "k6/x/prompt"
     ],
@@ -221,7 +221,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "Add a dynamic proxy support to k6. Allow changing the HTTP proxy settings in the script.",
+    "description": "Dynamic proxy support, allow changing the HTTP proxy settings in the script",
     "imports": [
       "k6/x/proxy"
     ],
@@ -734,7 +734,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "Interact with Constrained Application Protocol endpoints.",
+    "description": "Interact with Constrained Application Protocol endpoints",
     "imports": [
       "k6/x/coap"
     ],
@@ -1120,6 +1120,49 @@
   },
   {
     "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Generate random fake data",
+    "imports": [
+      "k6/x/faker"
+    ],
+    "module": "github.com/grafana/xk6-faker",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-faker.git",
+      "description": "Random fake data generator for k6.",
+      "homepage": "https://faker.x.k6.io",
+      "license": "AGPL-3.0",
+      "name": "xk6-faker",
+      "owner": "grafana",
+      "public": true,
+      "stars": 51,
+      "timestamp": 1725533453,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-faker"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.4.0",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.3.0-alpha.1",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
       "kubernetes"
     ],
     "compliance": {
@@ -1408,7 +1451,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now)",
+    "description": "Load-test SQL Servers",
     "imports": [
       "k6/x/sql"
     ],
@@ -1865,7 +1908,7 @@
       "grade": "C",
       "level": 80
     },
-    "description": "Load-test Apache Kafka. Includes support for Avro messages",
+    "description": "Load test Apache Kafka. Includes support for Avro messages.",
     "imports": [
       "k6/x/kafka"
     ],
@@ -2054,7 +2097,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "A k6 extension for Server-Sent Events (SSE)",
+    "description": "Server Sent Event",
     "imports": [
       "k6/x/sse"
     ],
@@ -2382,49 +2425,6 @@
   },
   {
     "categories": [
-      "data"
-    ],
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
-    "description": "Generate random fake data",
-    "imports": [
-      "k6/x/faker"
-    ],
-    "module": "github.com/grafana/xk6-faker",
-    "products": [
-      "oss"
-    ],
-    "repo": {
-      "clone_url": "https://github.com/grafana/xk6-faker.git",
-      "description": "Random fake data generator for k6.",
-      "homepage": "https://faker.x.k6.io",
-      "license": "AGPL-3.0",
-      "name": "xk6-faker",
-      "owner": "grafana",
-      "public": true,
-      "stars": 51,
-      "timestamp": 1725533453,
-      "topics": [
-        "xk6"
-      ],
-      "url": "https://github.com/grafana/xk6-faker"
-    },
-    "tier": "official",
-    "versions": [
-      "v0.4.0",
-      "v0.3.1",
-      "v0.3.0",
-      "v0.3.0-alpha.1",
-      "v0.2.2",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.0"
-    ]
-  },
-  {
-    "categories": [
       "misc"
     ],
     "compliance": {
@@ -2514,7 +2514,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "Write k6 output extension as a dynamically loadable plugin using your favorite programming language",
+    "description": "Dynamic output extension using your favorite programming language",
     "module": "github.com/szkiba/xk6-output-plugin",
     "outputs": [
       "plugin"
@@ -2718,7 +2718,7 @@
       "grade": "A",
       "level": 100
     },
-    "description": "Generate OpenTelemetry signals from within your test scripts",
+    "description": "Generate OpenTelemetry signals from k6 tests",
     "imports": [
       "k6/x/opentelemetry"
     ],
