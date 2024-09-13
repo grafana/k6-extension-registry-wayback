@@ -924,7 +924,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 39,
+      "stars": 40,
       "timestamp": 1719329534,
       "topics": [
         "distributed-tracing",
@@ -969,7 +969,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 331,
+      "stars": 333,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1041,7 +1041,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 91,
-      "timestamp": 1726092645,
+      "timestamp": 1726129058,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -2325,7 +2325,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 5,
-      "timestamp": 1725026444,
+      "timestamp": 1726152342,
       "topics": [
         "xk6",
         "xk6-imports-k6-x-csv"
@@ -2334,6 +2334,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.5",
       "v0.1.4",
       "v0.1.3",
       "v0.1.0"
@@ -2403,7 +2404,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 50,
+      "stars": 51,
       "timestamp": 1725533453,
       "topics": [
         "xk6"
