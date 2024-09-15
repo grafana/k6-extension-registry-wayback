@@ -582,7 +582,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 2,
-      "timestamp": 1725871278,
+      "timestamp": 1726395724,
       "topics": [
         "fasthttpclient",
         "http-client",
@@ -594,6 +594,7 @@
     },
     "tier": "community",
     "versions": [
+      "0.1.1",
       "0.1.0",
       "0.0.2",
       "0.0.1"
