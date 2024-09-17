@@ -1399,6 +1399,48 @@
   {
     "categories": [
       "reporting",
+      "observability"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Export k6 results in OpenTelemetry format",
+    "module": "github.com/grafana/xk6-output-opentelemetry",
+    "outputs": [
+      "opentelemetry"
+    ],
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-output-opentelemetry.git",
+      "description": "A k6 extension to output real-time test metrics in OpenTelemetry format.",
+      "homepage": "https://github.com/grafana/xk6-output-opentelemetry",
+      "license": "AGPL-3.0",
+      "name": "xk6-output-opentelemetry",
+      "owner": "grafana",
+      "public": true,
+      "stars": 8,
+      "timestamp": 1725275530,
+      "topics": [
+        "k6",
+        "k6-output",
+        "opentelemetry",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-output-opentelemetry"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.2.0",
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "reporting",
       "data"
     ],
     "compliance": {
