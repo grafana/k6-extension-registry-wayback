@@ -623,7 +623,7 @@
       "name": "xk6-output-elasticsearch",
       "owner": "elastic",
       "public": true,
-      "stars": 18,
+      "stars": 19,
       "timestamp": 1725858787,
       "topics": [
         "xk6"
@@ -970,7 +970,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 334,
+      "stars": 335,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1735,7 +1735,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 17,
-      "timestamp": 1726532627,
+      "timestamp": 1726601189,
       "topics": [
         "k6",
         "k6-extension",
