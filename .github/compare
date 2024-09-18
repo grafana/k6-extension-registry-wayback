@@ -1,0 +1,75 @@
+#!/usr/bin/env python3
+
+import json
+import sys
+
+
+def load(filename):
+    file = open(filename)
+    data = {}
+    for ext in json.load(file):
+        if not "repo" in ext:
+            ext["repo"] = {}
+        data[ext["module"]] = ext
+    file.close()
+    return data
+
+
+def keys(a, b):
+    return sorted(list(set(a.keys()) | set(b.keys())))
+
+
+def compare(prev_registry, next_registry):
+    canceled_registrations = []
+    new_registrations = []
+    updated_registrations = []
+
+    for module, next in prev_registry.items():
+        if not module in next_registry:
+            canceled_registrations.append(module)
+
+    for module, next in next_registry.items():
+        if not module in prev_registry:
+            new_registrations.append(module)
+            continue
+        if next != prev_registry[module]:
+            updated_registrations.append((module, prev_registry[module], next))
+
+    if len(new_registrations) > 0:
+        print("new registrations")
+        print("-----------------")
+        for module in new_registrations:
+            print(" - %s" % module)
+        print()
+
+    if len(canceled_registrations) > 0:
+        print("canceled registrations")
+        print("----------------------")
+        for module in canceled_registrations:
+            print(" - %s" % module)
+        print()
+
+    if len(updated_registrations) > 0:
+        print("updated registrations")
+        print("---------------------")
+        for module, prev, next in updated_registrations:
+            print(" - %s" % module)
+            for key in keys(next, prev):
+                if prev[key] != next[key]:
+                    print("   - %s" % key)
+                    if key == "repo":
+                        for rkey in keys(next["repo"], prev["repo"]):
+                            if next["repo"][rkey] != prev["repo"][rkey]:
+                                print("     - %s" % rkey)
+            print()
+
+
+def main(argv):
+    if len(argv) != 2:
+        print("usage: compare <prev-file> <next-file>")
+        sys.exit(2)
+
+    compare(load(argv[0]), load(argv[1]))
+
+
+main(sys.argv[1:])
