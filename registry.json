@@ -1041,7 +1041,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 91,
+      "stars": 92,
       "timestamp": 1726129058,
       "topics": [
         "chaos-engineering",
@@ -1143,7 +1143,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 51,
+      "stars": 52,
       "timestamp": 1725533453,
       "topics": [
         "xk6"
@@ -1371,7 +1371,7 @@
       "name": "xk6-output-kafka",
       "owner": "grafana",
       "public": true,
-      "stars": 20,
+      "stars": 21,
       "timestamp": 1718012070,
       "topics": [
         "k6",
@@ -1421,7 +1421,7 @@
       "name": "xk6-output-opentelemetry",
       "owner": "grafana",
       "public": true,
-      "stars": 8,
+      "stars": 9,
       "timestamp": 1725275530,
       "topics": [
         "k6",
@@ -1510,7 +1510,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 107,
+      "stars": 108,
       "timestamp": 1725979901,
       "topics": [
         "k6",
@@ -2294,7 +2294,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 1,
-      "timestamp": 1718015219,
+      "timestamp": 1726673309,
       "topics": [
         "xk6",
         "xk6-javascript-k6-x-ansible--vault"
@@ -2303,6 +2303,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.4",
       "v0.1.3",
       "v0.1.2",
       "v0.1.1",
