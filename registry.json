@@ -2335,7 +2335,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 1,
-      "timestamp": 1718017543,
+      "timestamp": 1726681539,
       "topics": [
         "xk6",
         "xk6-output-cache"
@@ -2344,6 +2344,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.2.2",
       "v0.2.1",
       "v0.2.0",
       "v0.1.1",
