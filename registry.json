@@ -925,7 +925,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 41,
+      "stars": 42,
       "timestamp": 1719329534,
       "topics": [
         "distributed-tracing",
@@ -970,7 +970,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 335,
+      "stars": 336,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -2614,7 +2614,7 @@
       "name": "xk6-prometheus",
       "owner": "szkiba",
       "public": true,
-      "stars": 48,
+      "stars": 49,
       "timestamp": 1718015257,
       "topics": [
         "prometheus",
