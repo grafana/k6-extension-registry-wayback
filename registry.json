@@ -2375,7 +2375,7 @@
       "name": "xk6-chai",
       "owner": "szkiba",
       "public": true,
-      "timestamp": 1718016705,
+      "timestamp": 1726763510,
       "topics": [
         "chaijs",
         "xk6",
@@ -2385,6 +2385,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.2",
       "v0.1.1",
       "v0.1.0"
     ]
