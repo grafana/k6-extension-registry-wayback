@@ -970,7 +970,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 342,
+      "stars": 343,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1968,7 +1968,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 147,
+      "stars": 148,
       "timestamp": 1726066295,
       "topics": [
         "apache-kafka",
