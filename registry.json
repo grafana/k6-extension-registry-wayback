@@ -624,7 +624,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 19,
-      "timestamp": 1725858787,
+      "timestamp": 1727708804,
       "topics": [
         "xk6"
       ],
@@ -1421,7 +1421,7 @@
       "name": "xk6-output-opentelemetry",
       "owner": "grafana",
       "public": true,
-      "stars": 10,
+      "stars": 11,
       "timestamp": 1725275530,
       "topics": [
         "k6",
@@ -1735,7 +1735,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1727703108,
+      "timestamp": 1727713236,
       "topics": [
         "k6",
         "k6-extension",
