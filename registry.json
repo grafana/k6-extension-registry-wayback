@@ -1919,7 +1919,7 @@
       "name": "xk6-output-prometheus-pushgateway",
       "owner": "martymarron",
       "public": true,
-      "stars": 10,
+      "stars": 11,
       "timestamp": 1722231073,
       "topics": [
         "grafana",
