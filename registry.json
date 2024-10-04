@@ -936,7 +936,7 @@
       ],
       "url": "https://github.com/grafana/xk6-client-tracing"
     },
-    "tier": "official",
+    "tier": "community",
     "versions": [
       "v0.0.5",
       "v0.0.4",
