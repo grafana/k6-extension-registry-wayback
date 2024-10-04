@@ -22,7 +22,7 @@
       "name": "xk6-mongo",
       "owner": "GhMartingit",
       "public": true,
-      "stars": 6,
+      "stars": 7,
       "timestamp": 1723643782,
       "topics": [
         "extension",
@@ -1042,7 +1042,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 93,
-      "timestamp": 1728031129,
+      "timestamp": 1728033717,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1054,6 +1054,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.3.12",
       "v0.3.11",
       "v0.3.10",
       "v0.3.9",
