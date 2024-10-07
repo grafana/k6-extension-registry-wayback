@@ -1134,7 +1134,8 @@
     ],
     "module": "github.com/grafana/xk6-faker",
     "products": [
-      "oss"
+      "cloud",
+      "synthetic"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-faker.git",
