@@ -1042,7 +1042,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 93,
-      "timestamp": 1728309861,
+      "timestamp": 1728487398,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1189,7 +1189,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 62,
-      "timestamp": 1722251942,
+      "timestamp": 1728487514,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -2498,7 +2498,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 24,
-      "timestamp": 1718016684,
+      "timestamp": 1728489459,
       "topics": [
         "k6-extension",
         "xk6"
@@ -2507,6 +2507,9 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.8",
+      "v0.1.7",
+      "v0.1.6",
       "v0.1.5",
       "v0.1.4",
       "v0.1.3",
