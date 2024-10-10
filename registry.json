@@ -868,7 +868,8 @@
     ],
     "module": "github.com/grafana/xk6-client-prometheus-remote",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-client-prometheus-remote.git",
@@ -1136,6 +1137,7 @@
     ],
     "module": "github.com/grafana/xk6-faker",
     "products": [
+      "oss",
       "cloud",
       "synthetic"
     ],
@@ -1236,7 +1238,8 @@
     ],
     "module": "github.com/grafana/xk6-loki",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-loki.git",
@@ -1549,7 +1552,8 @@
     ],
     "module": "github.com/grafana/xk6-ssh",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-ssh.git",
