@@ -406,7 +406,7 @@
       "owner": "avitalique",
       "public": true,
       "stars": 23,
-      "timestamp": 1725288002,
+      "timestamp": 1728561446,
       "topics": [
         "k6",
         "k6-extension",
@@ -416,6 +416,8 @@
     },
     "tier": "community",
     "versions": [
+      "v1.4.2",
+      "v1.4.1",
       "v1.4.0",
       "v1.3.1",
       "v1.3.0",
