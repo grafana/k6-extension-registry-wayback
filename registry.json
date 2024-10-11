@@ -1495,6 +1495,42 @@
   },
   {
     "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "Write k6 tests in Python",
+    "imports": [
+      "k6/x/python"
+    ],
+    "module": "github.com/grafana/xk6-python",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-python.git",
+      "description": "Write k6 tests in Python",
+      "homepage": "https://grafana.github.io/xk6-python",
+      "license": "AGPL-3.0",
+      "name": "xk6-python",
+      "owner": "grafana",
+      "public": true,
+      "stars": 6,
+      "timestamp": 1726647316,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-python"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
       "data"
     ],
     "compliance": {
