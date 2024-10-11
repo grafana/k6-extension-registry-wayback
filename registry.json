@@ -1531,6 +1531,41 @@
   },
   {
     "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "level": 80
+    },
+    "description": "Output extension for Synthetic Monitoring",
+    "module": "github.com/grafana/xk6-sm",
+    "outputs": [
+      "sm"
+    ],
+    "products": [
+      "synthetic"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sm.git",
+      "description": "k6 output extension for Synthetic Monitoring",
+      "homepage": "https://github.com/grafana/xk6-sm",
+      "license": "AGPL-3.0",
+      "name": "xk6-sm",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1728394840,
+      "url": "https://github.com/grafana/xk6-sm"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.0.3",
+      "v0.0.3-pre",
+      "v0.0.2",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
       "data"
     ],
     "compliance": {
@@ -2128,12 +2163,12 @@
       "v0.3.1",
       "v0.2.5",
       "v0.2.4",
+      "0.2.3",
       "v0.2.2",
       "v0.2.1",
       "v0.2.0",
       "v0.1.1",
-      "v0.1.0",
-      "0.2.3"
+      "v0.1.0"
     ]
   },
   {
