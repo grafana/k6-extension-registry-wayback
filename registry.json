@@ -501,6 +501,7 @@
       "name": "xk6-interpret",
       "owner": "deejiw",
       "public": true,
+      "stars": 1,
       "timestamp": 1720766350,
       "topics": [
         "golang",
@@ -626,7 +627,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 19,
-      "timestamp": 1728632193,
+      "timestamp": 1728977381,
       "topics": [
         "xk6"
       ],
@@ -973,7 +974,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 346,
+      "stars": 347,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1192,7 +1193,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 62,
+      "stars": 63,
       "timestamp": 1728487514,
       "topics": [
         "kubernetes",
@@ -1287,7 +1288,7 @@
       "name": "xk6-notification",
       "owner": "grafana",
       "public": true,
-      "stars": 18,
+      "stars": 19,
       "timestamp": 1718008202,
       "topics": [
         "k6",
@@ -1429,7 +1430,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 11,
-      "timestamp": 1725275530,
+      "timestamp": 1729084386,
       "topics": [
         "k6",
         "k6-output",
@@ -1588,8 +1589,8 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 111,
-      "timestamp": 1728908186,
+      "stars": 112,
+      "timestamp": 1729071331,
       "topics": [
         "k6",
         "sql",
@@ -1814,7 +1815,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1728424003,
+      "timestamp": 1729124271,
       "topics": [
         "k6",
         "k6-extension",
@@ -1827,6 +1828,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.58",
       "v0.9.57",
       "v0.9.56",
       "v0.9.55",
@@ -1925,8 +1927,7 @@
       "v0.8.33",
       "v0.8.32",
       "v0.8.31",
-      "v0.8.30",
-      "v0.8.29"
+      "v0.8.30"
     ]
   },
   {
@@ -2195,7 +2196,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 12,
+      "stars": 13,
       "timestamp": 1724242047,
       "topics": [
         "k6",
@@ -2574,7 +2575,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 24,
+      "stars": 25,
       "timestamp": 1728489459,
       "topics": [
         "k6-extension",
