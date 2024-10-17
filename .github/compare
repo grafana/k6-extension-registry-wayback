@@ -19,6 +19,10 @@ def keys(a, b):
     return sorted(list(set(a.keys()) | set(b.keys())))
 
 
+def equal(a, b, key):
+    return (key in a.keys()) and (key in b.keys()) and (a[key] == b[key])
+
+
 def compare(prev_registry, next_registry):
     canceled_registrations = []
     new_registrations = []
@@ -55,11 +59,11 @@ def compare(prev_registry, next_registry):
         for module, prev, next in updated_registrations:
             print(" - %s" % module)
             for key in keys(next, prev):
-                if prev[key] != next[key]:
+                if not equal(prev, next, key):
                     print("   - %s" % key)
-                    if key == "repo":
+                    if (key == "repo") and (key in next.keys()) and (key in prev.keys()):
                         for rkey in keys(next["repo"], prev["repo"]):
-                            if next["repo"][rkey] != prev["repo"][rkey]:
+                            if not equal(next["repo"], prev["repo"], rkey):
                                 print("     - %s" % rkey)
             print()
 
