@@ -1590,7 +1590,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 112,
-      "timestamp": 1729155318,
+      "timestamp": 1729175084,
       "topics": [
         "k6",
         "sql",
@@ -1600,6 +1600,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.5.0-alpha.3",
       "v0.5.0-alpha.1",
       "v0.4.1",
       "v0.4.0",
