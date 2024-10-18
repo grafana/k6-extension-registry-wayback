@@ -1583,14 +1583,14 @@
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql.git",
-      "description": "k6 extension to load test RDBMSs (PostgreSQL, MySQL, MS SQL and SQLite3)",
+      "description": "Use SQL databases from k6 tests.",
       "homepage": "https://github.com/grafana/xk6-sql",
       "license": "Apache-2.0",
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
       "stars": 112,
-      "timestamp": 1729175084,
+      "timestamp": 1729235410,
       "topics": [
         "k6",
         "sql",
@@ -2198,7 +2198,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 13,
+      "stars": 14,
       "timestamp": 1724242047,
       "topics": [
         "k6",
