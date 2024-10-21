@@ -1046,7 +1046,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 94,
-      "timestamp": 1728492971,
+      "timestamp": 1729516933,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1584,13 +1584,13 @@
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql.git",
       "description": "Use SQL databases from k6 tests.",
-      "homepage": "https://github.com/grafana/xk6-sql",
+      "homepage": "http://sql.x.k6.io",
       "license": "Apache-2.0",
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
       "stars": 112,
-      "timestamp": 1729490237,
+      "timestamp": 1729517304,
       "topics": [
         "k6",
         "sql",
