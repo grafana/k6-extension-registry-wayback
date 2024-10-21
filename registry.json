@@ -929,7 +929,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 44,
+      "stars": 45,
       "timestamp": 1728593820,
       "topics": [
         "distributed-tracing",
