@@ -974,7 +974,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 347,
+      "stars": 348,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1046,7 +1046,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 95,
-      "timestamp": 1729709825,
+      "timestamp": 1729787923,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -2199,7 +2199,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 14,
+      "stars": 15,
       "timestamp": 1724242047,
       "topics": [
         "k6",
@@ -2538,7 +2538,7 @@
       "name": "xk6-dotenv",
       "owner": "szkiba",
       "public": true,
-      "stars": 27,
+      "stars": 28,
       "timestamp": 1718015289,
       "topics": [
         "xk6"
