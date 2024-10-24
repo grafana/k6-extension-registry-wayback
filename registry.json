@@ -2912,7 +2912,7 @@
       "owner": "thotasrinath",
       "public": true,
       "stars": 5,
-      "timestamp": 1729773199,
+      "timestamp": 1729792207,
       "topics": [
         "couchbase",
         "k6",
@@ -2923,6 +2923,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.0.9",
       "v0.0.8",
       "v0.0.7",
       "v0.0.6",
