@@ -451,7 +451,7 @@
       "name": "xk6-gcp",
       "owner": "deejiw",
       "public": true,
-      "stars": 5,
+      "stars": 6,
       "timestamp": 1720766307,
       "topics": [
         "gcp",
@@ -974,7 +974,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 348,
+      "stars": 349,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -2051,7 +2051,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 150,
+      "stars": 151,
       "timestamp": 1727782348,
       "topics": [
         "apache-kafka",
