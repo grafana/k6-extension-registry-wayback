@@ -1430,7 +1430,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 11,
-      "timestamp": 1729084386,
+      "timestamp": 1730106941,
       "topics": [
         "k6",
         "k6-output",
@@ -1441,6 +1441,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.3.0",
       "v0.2.0",
       "v0.1.1",
       "v0.1.0"
