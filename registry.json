@@ -1045,7 +1045,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 95,
+      "stars": 96,
       "timestamp": 1729787923,
       "topics": [
         "chaos-engineering",
