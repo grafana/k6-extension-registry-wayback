@@ -974,7 +974,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 350,
+      "stars": 351,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1329,7 +1329,7 @@
       "name": "xk6-output-influxdb",
       "owner": "grafana",
       "public": true,
-      "stars": 64,
+      "stars": 65,
       "timestamp": 1724921925,
       "topics": [
         "grafana-dashboard",
