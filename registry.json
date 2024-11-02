@@ -929,7 +929,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 45,
+      "stars": 44,
       "timestamp": 1728593820,
       "topics": [
         "distributed-tracing",
@@ -974,7 +974,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 351,
+      "stars": 350,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1045,7 +1045,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 96,
+      "stars": 95,
       "timestamp": 1729787923,
       "topics": [
         "chaos-engineering",
@@ -1193,7 +1193,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 64,
+      "stars": 63,
       "timestamp": 1728487514,
       "topics": [
         "kubernetes",
@@ -1680,7 +1680,7 @@
       "name": "xk6-ts",
       "owner": "grafana",
       "public": true,
-      "stars": 19,
+      "stars": 18,
       "timestamp": 1718014622,
       "topics": [
         "typescript",
@@ -1820,7 +1820,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1730260427,
+      "timestamp": 1730551639,
       "topics": [
         "k6",
         "k6-extension",
