@@ -929,7 +929,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 44,
+      "stars": 45,
       "timestamp": 1728593820,
       "topics": [
         "distributed-tracing",
@@ -1046,7 +1046,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 95,
-      "timestamp": 1729787923,
+      "timestamp": 1730724625,
       "topics": [
         "chaos-engineering",
         "fault-injection",
