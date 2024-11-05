@@ -793,7 +793,7 @@
       "name": "xk6-httpagg",
       "owner": "gpiechnik2",
       "public": true,
-      "stars": 7,
+      "stars": 8,
       "timestamp": 1718012384,
       "topics": [
         "aggregate",
@@ -974,7 +974,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 350,
+      "stars": 351,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1591,7 +1591,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 115,
+      "stars": 116,
       "timestamp": 1729611857,
       "topics": [
         "k6",
@@ -2500,7 +2500,7 @@
       "name": "xk6-csv",
       "owner": "szkiba",
       "public": true,
-      "stars": 5,
+      "stars": 6,
       "timestamp": 1726152342,
       "topics": [
         "xk6",
