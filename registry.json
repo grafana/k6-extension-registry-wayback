@@ -1615,6 +1615,235 @@
   },
   {
     "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
+    "imports": [
+      "k6/x/sql/driver/azuresql"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-azuresql",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-azuresql.git",
+      "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-azuresql",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-azuresql",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817984,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-azuresql"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0",
+      "v0.1.0-alpha.2",
+      "v0.1.0-alpha.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for ClickHouse database support",
+    "imports": [
+      "k6/x/sql/driver/clickhouse"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-clickhouse",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-clickhouse.git",
+      "description": "xk6-sql driver extension for ClickHouse database support",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-clickhouse",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-clickhouse",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817985,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-clickhouse"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0",
+      "v0.1.0-alpha.2",
+      "v0.1.0-alpha.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for MySQL database support",
+    "imports": [
+      "k6/x/sql/driver/mysql"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-mysql",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-mysql.git",
+      "description": "xk6-sql driver extension for MySQL database support",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-mysql",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-mysql",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817986,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-mysql"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.0",
+      "v0.1.0-alpha.2",
+      "v0.1.0-alpha.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for Postgres database support",
+    "imports": [
+      "k6/x/sql/driver/postgres"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-postgres",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-postgres.git",
+      "description": "xk6-sql driver extension for Postgres database support",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-postgres",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-postgres",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817988,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-postgres"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.0",
+      "v0.1.0-alpha.2",
+      "v0.1.0-alpha.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "cgo": true,
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for SQLite v3 database support",
+    "imports": [
+      "k6/x/sql/driver/sqlite3"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-sqlite3",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-sqlite3.git",
+      "description": "xk6-sql driver extension for SQLite v3 database support",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-sqlite3",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-sqlite3",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817989,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-sqlite3"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.0",
+      "v0.1.0-alpha.2",
+      "v0.1.0-alpha.1"
+    ]
+  },
+  {
+    "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for Microsoft SQL Server database support",
+    "imports": [
+      "k6/x/sql/driver/sqlserver"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-sqlserver",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-sqlserver.git",
+      "description": "xk6-sql driver extension for Microsoft SQL Server database support",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-sqlserver",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-sqlserver",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817991,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-sqlserver"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0",
+      "v0.1.0-alpha.2",
+      "v0.1.0-alpha.1"
+    ]
+  },
+  {
+    "categories": [
       "misc"
     ],
     "compliance": {
