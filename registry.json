@@ -1046,7 +1046,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 95,
-      "timestamp": 1730946022,
+      "timestamp": 1731004672,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -3017,7 +3017,7 @@
       "name": "xk6-top",
       "owner": "szkiba",
       "public": true,
-      "stars": 26,
+      "stars": 27,
       "timestamp": 1726477804,
       "topics": [
         "xk6",
