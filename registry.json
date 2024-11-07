@@ -627,7 +627,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 19,
-      "timestamp": 1729800104,
+      "timestamp": 1730946035,
       "topics": [
         "xk6"
       ],
@@ -1046,7 +1046,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 95,
-      "timestamp": 1730813007,
+      "timestamp": 1730946022,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -2047,7 +2047,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1730932031,
+      "timestamp": 1730944104,
       "topics": [
         "k6",
         "k6-extension",
