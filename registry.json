@@ -626,7 +626,7 @@
       "name": "xk6-output-elasticsearch",
       "owner": "elastic",
       "public": true,
-      "stars": 19,
+      "stars": 20,
       "timestamp": 1731045011,
       "topics": [
         "xk6"
