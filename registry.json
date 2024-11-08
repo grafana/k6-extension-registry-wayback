@@ -565,8 +565,8 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "Enable RPS increase & file streaming on HTTP/1.1 requests",
     "imports": [
@@ -608,8 +608,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "Export results to Elasticsearch 8.x",
     "module": "github.com/elastic/xk6-output-elasticsearch",
@@ -1026,8 +1026,8 @@
       "kubernetes"
     ],
     "compliance": {
-      "grade": "C",
-      "level": 80
+      "grade": "D",
+      "level": 68
     },
     "description": "Inject faults to test 💣",
     "imports": [
@@ -1572,8 +1572,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "Load-test SQL Servers",
     "imports": [
@@ -1618,8 +1618,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
     "imports": [
@@ -1656,8 +1656,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "xk6-sql driver extension for ClickHouse database support",
     "imports": [
@@ -1694,8 +1694,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "xk6-sql driver extension for MySQL database support",
     "imports": [
@@ -1732,8 +1732,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "xk6-sql driver extension for Postgres database support",
     "imports": [
@@ -1771,8 +1771,8 @@
     ],
     "cgo": true,
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "xk6-sql driver extension for SQLite v3 database support",
     "imports": [
@@ -1809,8 +1809,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "C",
+      "level": 75
     },
     "description": "xk6-sql driver extension for Microsoft SQL Server database support",
     "imports": [
@@ -2027,8 +2027,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "C",
-      "level": 80
+      "grade": "D",
+      "level": 68
     },
     "description": "Export results to AWS Timestream",
     "module": "github.com/leonyork/xk6-output-timestream",
