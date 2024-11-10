@@ -154,7 +154,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 22,
+      "stars": 23,
       "timestamp": 1724858619,
       "topics": [
         "k6-extension",
@@ -1329,7 +1329,7 @@
       "name": "xk6-output-influxdb",
       "owner": "grafana",
       "public": true,
-      "stars": 65,
+      "stars": 66,
       "timestamp": 1724921925,
       "topics": [
         "grafana-dashboard",
@@ -2047,7 +2047,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1731088677,
+      "timestamp": 1731267543,
       "topics": [
         "k6",
         "k6-extension",
