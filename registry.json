@@ -154,7 +154,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 23,
+      "stars": 24,
       "timestamp": 1724858619,
       "topics": [
         "k6-extension",
@@ -585,7 +585,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 2,
-      "timestamp": 1730711495,
+      "timestamp": 1731314148,
       "topics": [
         "fasthttpclient",
         "http-client",
