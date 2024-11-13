@@ -436,7 +436,7 @@
       "name": "xk6-file",
       "owner": "avitalique",
       "public": true,
-      "stars": 23,
+      "stars": 24,
       "timestamp": 1728561446,
       "topics": [
         "k6",
@@ -1672,7 +1672,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1731515804,
+      "timestamp": 1731529635,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
