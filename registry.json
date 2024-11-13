@@ -2447,7 +2447,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 152,
+      "stars": 153,
       "timestamp": 1727782348,
       "topics": [
         "apache-kafka",
@@ -2547,7 +2547,7 @@
       "name": "xk6-playwright",
       "owner": "nicholasvuono",
       "public": true,
-      "stars": 45,
+      "stars": 46,
       "timestamp": 1718038324,
       "topics": [
         "browser-automation",
