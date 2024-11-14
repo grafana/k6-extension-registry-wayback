@@ -1639,7 +1639,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 8,
+      "stars": 9,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1680,7 +1680,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1731601732,
+      "timestamp": 1731616072,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
