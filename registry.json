@@ -1050,7 +1050,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 354,
+      "stars": 355,
       "timestamp": 1719907965,
       "topics": [
         "xk6",
@@ -1125,7 +1125,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 95,
+      "stars": 96,
       "timestamp": 1731517192,
       "topics": [
         "chaos-engineering",
@@ -1672,7 +1672,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1731529635,
+      "timestamp": 1731544522,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
