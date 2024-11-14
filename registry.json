@@ -4,11 +4,12 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Load-test Mongo no-SQL databases",
     "imports": [
@@ -61,10 +62,11 @@
     "compliance": {
       "grade": "C",
       "issues": [
+        "smoke",
         "examples",
-        "smoke"
+        "types"
       ],
-      "level": 86
+      "level": 80
     },
     "description": "Enables real-time input from prometheus",
     "imports": [
@@ -101,11 +103,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Support for input arguments via UI",
     "imports": [
@@ -145,11 +148,8 @@
       "observability"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Enables real-time output of test metrics to a StatsD service",
     "module": "github.com/LeonAdato/xk6-output-statsd",
@@ -191,11 +191,8 @@
       "observability"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Export results to ClickHouse",
     "module": "github.com/Maksimall89/xk6-output-clickhouse",
@@ -234,11 +231,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Dynamic proxy support, allow changing the HTTP proxy settings in the script",
     "imports": [
@@ -274,11 +272,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Read files and directories",
     "imports": [
@@ -317,11 +316,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Interact with Nostr relays",
     "imports": [
@@ -360,11 +360,12 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Test Action Cable and AnyCable functionality",
     "imports": [
@@ -414,11 +415,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Write files",
     "imports": [
@@ -463,11 +465,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "A k6 extension for Google Cloud Platform services.",
     "imports": [
@@ -518,10 +521,11 @@
     "compliance": {
       "grade": "C",
       "issues": [
+        "smoke",
         "examples",
-        "smoke"
+        "types"
       ],
-      "level": 86
+      "level": 80
     },
     "description": "Interpret Go code",
     "imports": [
@@ -561,11 +565,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "K6 extension for ethereum protocols",
     "imports": [
@@ -608,10 +613,10 @@
     "compliance": {
       "grade": "C",
       "issues": [
-        "build",
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 75
+      "level": 87
     },
     "description": "Enable RPS increase & file streaming on HTTP/1.1 requests",
     "imports": [
@@ -653,11 +658,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Export results to Elasticsearch 8.x",
     "module": "github.com/elastic/xk6-output-elasticsearch",
@@ -693,11 +695,12 @@
       "authentication"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Generate OAuth PKCE code verifier and code challenge",
     "imports": [
@@ -738,11 +741,12 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Simple MLLP sender for k6",
     "imports": [
@@ -789,12 +793,14 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "D",
       "issues": [
         "build",
-        "smoke"
+        "smoke",
+        "examples",
+        "types"
       ],
-      "level": 75
+      "level": 64
     },
     "description": "Interact with Constrained Application Protocol endpoints",
     "imports": [
@@ -832,11 +838,12 @@
       "reporting"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Aggregate HTTP requests into an HTML report",
     "imports": [
@@ -878,11 +885,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Use SMTP protocol to send emails",
     "imports": [
@@ -924,11 +932,12 @@
       "observability"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Test Prometheus Remote Write performance",
     "imports": [
@@ -977,13 +986,15 @@
       "observability"
     ],
     "compliance": {
-      "grade": "D",
+      "grade": "E",
       "issues": [
         "replace",
         "build",
-        "smoke"
+        "smoke",
+        "examples",
+        "types"
       ],
-      "level": 68
+      "level": 58
     },
     "description": "Client for load testing distributed tracing backends",
     "imports": [
@@ -1027,12 +1038,8 @@
       "observability"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Create a web-based metrics dashboard",
     "module": "github.com/grafana/xk6-dashboard",
@@ -1104,10 +1111,11 @@
     "compliance": {
       "grade": "C",
       "issues": [
+        "smoke",
         "examples",
-        "smoke"
+        "types"
       ],
-      "level": 86
+      "level": 81
     },
     "description": "Inject faults to test 💣",
     "imports": [
@@ -1166,11 +1174,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Run external commands",
     "imports": [
@@ -1260,11 +1269,12 @@
       "kubernetes"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Interact with Kubernetes clusters",
     "imports": [
@@ -1322,9 +1332,11 @@
       "grade": "C",
       "issues": [
         "replace",
-        "smoke"
+        "smoke",
+        "types",
+        "codeowners"
       ],
-      "level": 86
+      "level": 75
     },
     "description": "Client for load testing Loki",
     "imports": [
@@ -1362,11 +1374,13 @@
       "reporting"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types",
+        "codeowners"
       ],
-      "level": 93
+      "level": 81
     },
     "description": "Create notifications",
     "imports": [
@@ -1406,12 +1420,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Export results to InfluxDB v2",
     "module": "github.com/grafana/xk6-output-influxdb",
@@ -1462,7 +1472,7 @@
     "compliance": {
       "grade": "B",
       "issues": [
-        "smoke"
+        "codeowners"
       ],
       "level": 93
     },
@@ -1513,11 +1523,8 @@
       "observability"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Export k6 results in OpenTelemetry format",
     "module": "github.com/grafana/xk6-output-opentelemetry",
@@ -1559,12 +1566,11 @@
       "data"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "B",
       "issues": [
-        "examples",
-        "smoke"
+        "codeowners"
       ],
-      "level": 86
+      "level": 93
     },
     "description": "Export k6 results to TimescaleDB",
     "module": "github.com/grafana/xk6-output-timescaledb",
@@ -1610,11 +1616,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Write k6 tests in Python",
     "imports": [
@@ -1651,10 +1658,11 @@
     "compliance": {
       "grade": "C",
       "issues": [
+        "smoke",
         "examples",
-        "smoke"
+        "types"
       ],
-      "level": 86
+      "level": 81
     },
     "description": "Output extension for Synthetic Monitoring",
     "module": "github.com/grafana/xk6-sm",
@@ -1739,11 +1747,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
     "imports": [
@@ -1780,11 +1785,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "xk6-sql driver extension for ClickHouse database support",
     "imports": [
@@ -1821,11 +1823,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "xk6-sql driver extension for MySQL database support",
     "imports": [
@@ -1862,11 +1861,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "xk6-sql driver extension for Postgres database support",
     "imports": [
@@ -1904,11 +1900,8 @@
     ],
     "cgo": true,
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "xk6-sql driver extension for SQLite v3 database support",
     "imports": [
@@ -1945,11 +1938,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "xk6-sql driver extension for Microsoft SQL Server database support",
     "imports": [
@@ -1986,11 +1976,13 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types",
+        "codeowners"
       ],
-      "level": 93
+      "level": 81
     },
     "description": "SSH",
     "imports": [
@@ -2030,11 +2022,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Add TypeScript support for k6",
     "imports": [
@@ -2080,11 +2073,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Add support for webtransport protocol",
     "imports": [
@@ -2127,12 +2121,14 @@
       "observability"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "D",
       "issues": [
         "build",
-        "smoke"
+        "smoke",
+        "examples",
+        "types"
       ],
-      "level": 75
+      "level": 64
     },
     "description": "Support for Tracetest test execution and tracing client",
     "module": "github.com/kubeshop/xk6-tracetest",
@@ -2179,12 +2175,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Export results to AWS Timestream",
     "module": "github.com/leonyork/xk6-output-timestream",
@@ -2324,11 +2316,12 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Interact with Telegram Bots",
     "imports": [
@@ -2368,12 +2361,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Export results to Prometheus pushgateway",
     "imports": [
@@ -2424,13 +2413,12 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "D",
+      "grade": "C",
       "issues": [
-        "examples",
-        "build",
-        "smoke"
+        "smoke",
+        "examples"
       ],
-      "level": 68
+      "level": 87
     },
     "description": "Load test Apache Kafka. Includes support for Avro messages.",
     "imports": [
@@ -2526,11 +2514,12 @@
       "browser"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Browser automation and end-to-end web testing using Playwright",
     "imports": [
@@ -2580,11 +2569,12 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Share key-value data between VUs",
     "imports": [
@@ -2625,11 +2615,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Server Sent Event",
     "imports": [
@@ -2670,11 +2661,12 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "MQTT extension",
     "imports": [
@@ -2724,10 +2716,11 @@
     "compliance": {
       "grade": "C",
       "issues": [
+        "smoke",
         "examples",
-        "smoke"
+        "types"
       ],
-      "level": 86
+      "level": 80
     },
     "description": "Clone Git repositories from tests",
     "imports": [
@@ -2773,10 +2766,10 @@
     "compliance": {
       "grade": "C",
       "issues": [
-        "examples",
-        "smoke"
+        "smoke",
+        "examples"
       ],
-      "level": 86
+      "level": 87
     },
     "description": "Encrypt and decrypt Ansible Vault",
     "imports": [
@@ -2816,12 +2809,8 @@
       "misc"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Enable vendoring remote HTTP modules to a single source-control-friendly file",
     "module": "github.com/szkiba/xk6-cache",
@@ -2863,11 +2852,12 @@
     "compliance": {
       "grade": "D",
       "issues": [
-        "examples",
         "build",
-        "smoke"
+        "smoke",
+        "examples",
+        "types"
       ],
-      "level": 68
+      "level": 64
     },
     "description": "Embed k6chaijs into the k6 binary",
     "imports": [
@@ -2907,10 +2897,10 @@
     "compliance": {
       "grade": "C",
       "issues": [
-        "examples",
-        "smoke"
+        "smoke",
+        "examples"
       ],
-      "level": 86
+      "level": 87
     },
     "description": "Parse CSV values",
     "imports": [
@@ -2949,12 +2939,8 @@
       "misc"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Load env vars from a .env file",
     "imports": [
@@ -2995,10 +2981,11 @@
     "compliance": {
       "grade": "C",
       "issues": [
+        "smoke",
         "examples",
-        "smoke"
+        "types"
       ],
-      "level": 86
+      "level": 80
     },
     "description": "Write k6 tests in golang",
     "imports": [
@@ -3044,11 +3031,12 @@
     "compliance": {
       "grade": "D",
       "issues": [
-        "examples",
         "build",
-        "smoke"
+        "smoke",
+        "examples",
+        "types"
       ],
-      "level": 68
+      "level": 64
     },
     "description": "Mock HTTP(S) servers",
     "imports": [
@@ -3088,11 +3076,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Dynamic output extension using your favorite programming language",
     "module": "github.com/szkiba/xk6-output-plugin",
@@ -3129,12 +3114,8 @@
       "observability"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Prometheus HTTP exporter for k6",
     "module": "github.com/szkiba/xk6-prometheus",
@@ -3181,10 +3162,10 @@
     "compliance": {
       "grade": "C",
       "issues": [
-        "examples",
-        "smoke"
+        "smoke",
+        "examples"
       ],
-      "level": 86
+      "level": 87
     },
     "description": "Encode and decode TOML values",
     "imports": [
@@ -3223,12 +3204,8 @@
       "observability"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "examples",
-        "smoke"
-      ],
-      "level": 86
+      "grade": "A",
+      "level": 100
     },
     "description": "Updating the current k6 metrics summaries on the terminal during the test run",
     "module": "github.com/szkiba/xk6-top",
@@ -3269,10 +3246,10 @@
     "compliance": {
       "grade": "C",
       "issues": [
-        "examples",
-        "smoke"
+        "smoke",
+        "examples"
       ],
-      "level": 86
+      "level": 87
     },
     "description": "Encode and decode YAML values",
     "imports": [
@@ -3312,11 +3289,12 @@
       "observability"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Generate OpenTelemetry signals from k6 tests",
     "imports": [
@@ -3357,11 +3335,12 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Load-test Couchbase no-SQL databases",
     "imports": [
@@ -3407,11 +3386,12 @@
       "authentication"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Get a cognito access token using USER_SRP_AUTH flow",
     "imports": [
@@ -3447,11 +3427,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Client for STOMP protocol",
     "imports": [
@@ -3514,11 +3495,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "B",
+      "grade": "C",
       "issues": [
-        "smoke"
+        "smoke",
+        "types"
       ],
-      "level": 93
+      "level": 87
     },
     "description": "Print ASCII art banner from k6 test",
     "imports": [
