@@ -1134,7 +1134,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 96,
-      "timestamp": 1731852493,
+      "timestamp": 1731861370,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1246,7 +1246,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 59,
-      "timestamp": 1728898421,
+      "timestamp": 1731860453,
       "topics": [
         "xk6"
       ],
@@ -1680,7 +1680,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1731846610,
+      "timestamp": 1731860927,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1721,7 +1721,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 119,
-      "timestamp": 1730817041,
+      "timestamp": 1731860369,
       "topics": [
         "k6",
         "sql",
