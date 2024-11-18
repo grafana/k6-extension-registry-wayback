@@ -1973,6 +1973,43 @@
   },
   {
     "categories": [
+      "data"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
+    "description": "xk6-sql driver extension for RamSQL database support",
+    "imports": [
+      "k6/x/sql/driver/ramsql"
+    ],
+    "module": "github.com/grafana/xk6-sql-driver-ramsql",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-sql-driver-ramsql.git",
+      "description": "Repository template for creating xk6-sql driver repositories",
+      "homepage": "https://github.com/grafana/xk6-sql-driver-ramsql",
+      "license": "AGPL-3.0",
+      "name": "xk6-sql-driver-ramsql",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1730817900,
+      "topics": [
+        "xk6",
+        "xk6-sql-driver"
+      ],
+      "url": "https://github.com/grafana/xk6-sql-driver-ramsql"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.1",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
       "misc"
     ],
     "compliance": {
