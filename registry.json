@@ -1134,7 +1134,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 96,
-      "timestamp": 1731930110,
+      "timestamp": 1731948268,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1639,7 +1639,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 9,
+      "stars": 10,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
