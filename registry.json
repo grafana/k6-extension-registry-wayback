@@ -2875,51 +2875,6 @@
   },
   {
     "categories": [
-      "misc"
-    ],
-    "compliance": {
-      "grade": "D",
-      "issues": [
-        "build",
-        "smoke",
-        "examples",
-        "types"
-      ],
-      "level": 64
-    },
-    "description": "Embed k6chaijs into the k6 binary",
-    "imports": [
-      "k6/x/chai"
-    ],
-    "module": "github.com/szkiba/xk6-chai",
-    "products": [
-      "oss"
-    ],
-    "repo": {
-      "clone_url": "https://github.com/szkiba/xk6-chai.git",
-      "description": "Embed Chai.js (k6chaijs) into the k6 binary",
-      "homepage": "https://github.com/szkiba/xk6-chai",
-      "license": "Apache-2.0",
-      "name": "xk6-chai",
-      "owner": "szkiba",
-      "public": true,
-      "timestamp": 1727620057,
-      "topics": [
-        "chaijs",
-        "xk6",
-        "xk6-javascript-k6-x-chai"
-      ],
-      "url": "https://github.com/szkiba/xk6-chai"
-    },
-    "tier": "community",
-    "versions": [
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
-    ]
-  },
-  {
-    "categories": [
       "data"
     ],
     "compliance": {
@@ -3049,52 +3004,6 @@
       "v0.1.3",
       "v0.1.2",
       "v0.1.1",
-      "v0.1.0"
-    ]
-  },
-  {
-    "categories": [
-      "misc"
-    ],
-    "compliance": {
-      "grade": "D",
-      "issues": [
-        "build",
-        "smoke",
-        "examples",
-        "types"
-      ],
-      "level": 64
-    },
-    "description": "Mock HTTP(S) servers",
-    "imports": [
-      "k6/x/mock"
-    ],
-    "module": "github.com/szkiba/xk6-mock",
-    "products": [
-      "oss"
-    ],
-    "repo": {
-      "clone_url": "https://github.com/szkiba/xk6-mock.git",
-      "description": "A k6 extension for mocking HTTP(S) servers during test development.",
-      "homepage": "http://ivan.szkiba.hu/xk6-mock/",
-      "license": "MIT",
-      "name": "xk6-mock",
-      "owner": "szkiba",
-      "public": true,
-      "stars": 14,
-      "timestamp": 1724232268,
-      "topics": [
-        "k6-extension",
-        "xk6"
-      ],
-      "url": "https://github.com/szkiba/xk6-mock"
-    },
-    "tier": "community",
-    "versions": [
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.2",
       "v0.1.0"
     ]
   },
