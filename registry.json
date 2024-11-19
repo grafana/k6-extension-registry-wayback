@@ -1134,7 +1134,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 96,
-      "timestamp": 1732040502,
+      "timestamp": 1732042813,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1146,7 +1146,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.3.13-rc1",
+      "v0.3.13",
       "v0.3.12",
       "v0.3.11",
       "v0.3.10",
