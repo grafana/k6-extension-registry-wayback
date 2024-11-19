@@ -1680,7 +1680,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1731961664,
+      "timestamp": 1732019447,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2039,7 +2039,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 9,
-      "timestamp": 1718011915,
+      "timestamp": 1732020382,
       "topics": [
         "ssh",
         "ssh-client",
