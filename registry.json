@@ -1377,10 +1377,9 @@
       "grade": "C",
       "issues": [
         "smoke",
-        "types",
-        "codeowners"
+        "types"
       ],
-      "level": 81
+      "level": 87
     },
     "description": "Create notifications",
     "imports": [
@@ -1470,11 +1469,8 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "codeowners"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Export k6 results in real-time to Kafka",
     "module": "github.com/grafana/xk6-output-kafka",
@@ -1566,11 +1562,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "codeowners"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Export k6 results to TimescaleDB",
     "module": "github.com/grafana/xk6-output-timescaledb",
