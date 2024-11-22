@@ -1397,7 +1397,7 @@
       "name": "xk6-notification",
       "owner": "grafana",
       "public": true,
-      "stars": 19,
+      "stars": 20,
       "timestamp": 1718008202,
       "topics": [
         "k6",
@@ -1632,7 +1632,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 10,
+      "stars": 11,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1673,7 +1673,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1732267250,
+      "timestamp": 1732307368,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
