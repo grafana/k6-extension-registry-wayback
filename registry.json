@@ -635,7 +635,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 2,
-      "timestamp": 1731920651,
+      "timestamp": 1732522658,
       "topics": [
         "fasthttpclient",
         "http-client",
@@ -1247,7 +1247,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 59,
-      "timestamp": 1732466221,
+      "timestamp": 1732518036,
       "topics": [
         "xk6"
       ],
@@ -1714,7 +1714,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 120,
-      "timestamp": 1732466445,
+      "timestamp": 1732518064,
       "topics": [
         "k6",
         "sql",
@@ -2465,7 +2465,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 154,
+      "stars": 155,
       "timestamp": 1731709943,
       "topics": [
         "apache-kafka",
