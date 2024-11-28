@@ -1247,7 +1247,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 59,
-      "timestamp": 1732518036,
+      "timestamp": 1732772952,
       "topics": [
         "xk6"
       ],
@@ -1714,7 +1714,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 120,
-      "timestamp": 1732518064,
+      "timestamp": 1732774059,
       "topics": [
         "k6",
         "sql",
@@ -1988,6 +1988,7 @@
       "name": "xk6-sql-driver-ramsql",
       "owner": "grafana",
       "public": true,
+      "stars": 1,
       "timestamp": 1730817900,
       "topics": [
         "xk6",
