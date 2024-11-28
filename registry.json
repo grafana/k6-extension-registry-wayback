@@ -1247,7 +1247,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 59,
-      "timestamp": 1732772952,
+      "timestamp": 1732810661,
       "topics": [
         "xk6"
       ],
@@ -1673,7 +1673,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1732797343,
+      "timestamp": 1732811330,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1714,7 +1714,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 120,
-      "timestamp": 1732774059,
+      "timestamp": 1732810671,
       "topics": [
         "k6",
         "sql",
@@ -2624,7 +2624,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 15,
+      "stars": 16,
       "timestamp": 1724242047,
       "topics": [
         "k6",
@@ -2670,7 +2670,7 @@
       "name": "xk6-sse",
       "owner": "phymbert",
       "public": true,
-      "stars": 17,
+      "stars": 18,
       "timestamp": 1728849015,
       "topics": [
         "k6",
