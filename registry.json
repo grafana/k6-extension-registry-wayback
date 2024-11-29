@@ -1673,7 +1673,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1732897729,
+      "timestamp": 1732912078,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1874,7 +1874,7 @@
       "name": "xk6-sql-driver-postgres",
       "owner": "grafana",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1730817988,
       "topics": [
         "xk6",
