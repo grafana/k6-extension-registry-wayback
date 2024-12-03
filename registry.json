@@ -2718,7 +2718,7 @@
       "owner": "pmalhaire",
       "public": true,
       "stars": 51,
-      "timestamp": 1730146796,
+      "timestamp": 1733250514,
       "topics": [
         "mqtt",
         "xk6"
@@ -2727,6 +2727,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.40.1",
       "v0.40.0",
       "v0.39.2",
       "v0.39.1",
