@@ -26,7 +26,7 @@
       "name": "xk6-mongo",
       "owner": "GhMartingit",
       "public": true,
-      "stars": 8,
+      "stars": 9,
       "timestamp": 1723643782,
       "topics": [
         "extension",
@@ -1057,7 +1057,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 364,
+      "stars": 365,
       "timestamp": 1731922735,
       "topics": [
         "xk6",
@@ -1673,7 +1673,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1733229044,
+      "timestamp": 1733243357,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
