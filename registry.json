@@ -1632,7 +1632,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 13,
+      "stars": 14,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -2469,7 +2469,7 @@
       "owner": "mostafa",
       "public": true,
       "stars": 156,
-      "timestamp": 1733223292,
+      "timestamp": 1733321416,
       "topics": [
         "apache-kafka",
         "avro",
