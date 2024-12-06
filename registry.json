@@ -383,7 +383,7 @@
       "name": "xk6-cable",
       "owner": "anycable",
       "public": true,
-      "stars": 26,
+      "stars": 27,
       "timestamp": 1719249094,
       "topics": [
         "anycable",
@@ -2227,7 +2227,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1733445456,
+      "timestamp": 1733458650,
       "topics": [
         "k6",
         "k6-extension",
