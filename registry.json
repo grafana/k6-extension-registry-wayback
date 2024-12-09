@@ -1539,7 +1539,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1730106941,
+      "timestamp": 1733752863,
       "topics": [
         "k6",
         "k6-output",
@@ -2569,7 +2569,7 @@
       "name": "xk6-playwright",
       "owner": "nicholasvuono",
       "public": true,
-      "stars": 46,
+      "stars": 47,
       "timestamp": 1718038324,
       "topics": [
         "browser-automation",
