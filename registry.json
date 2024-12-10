@@ -167,7 +167,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 24,
+      "stars": 23,
       "timestamp": 1724858619,
       "topics": [
         "k6-extension",
@@ -2227,7 +2227,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1733860489,
+      "timestamp": 1733868792,
       "topics": [
         "k6",
         "k6-extension",
