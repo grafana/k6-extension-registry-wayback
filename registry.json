@@ -677,7 +677,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 20,
-      "timestamp": 1734095179,
+      "timestamp": 1734188809,
       "topics": [
         "xk6"
       ],
@@ -1057,7 +1057,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 367,
+      "stars": 368,
       "timestamp": 1731922735,
       "topics": [
         "xk6",
@@ -2569,7 +2569,7 @@
       "name": "xk6-playwright",
       "owner": "nicholasvuono",
       "public": true,
-      "stars": 47,
+      "stars": 46,
       "timestamp": 1718038324,
       "topics": [
         "browser-automation",
