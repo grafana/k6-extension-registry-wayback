@@ -1134,7 +1134,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 99,
-      "timestamp": 1733824028,
+      "timestamp": 1734279700,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -2721,7 +2721,7 @@
       "name": "xk6-mqtt",
       "owner": "pmalhaire",
       "public": true,
-      "stars": 51,
+      "stars": 52,
       "timestamp": 1733250514,
       "topics": [
         "mqtt",
