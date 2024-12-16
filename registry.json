@@ -635,7 +635,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 4,
-      "timestamp": 1734337026,
+      "timestamp": 1734341068,
       "topics": [
         "fasthttpclient",
         "http-client",
@@ -818,7 +818,7 @@
       "name": "xk6-coap",
       "owner": "golioth",
       "public": true,
-      "stars": 12,
+      "stars": 13,
       "timestamp": 1718012802,
       "topics": [
         "coap",
