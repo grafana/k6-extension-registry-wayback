@@ -1198,7 +1198,7 @@
       "name": "xk6-exec",
       "owner": "grafana",
       "public": true,
-      "stars": 22,
+      "stars": 23,
       "timestamp": 1725464620,
       "topics": [
         "exec",
