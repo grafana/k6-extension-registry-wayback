@@ -1057,7 +1057,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 369,
+      "stars": 370,
       "timestamp": 1731922735,
       "topics": [
         "xk6",
@@ -1243,7 +1243,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 63,
+      "stars": 64,
       "timestamp": 1734513806,
       "topics": [
         "xk6"
@@ -2464,7 +2464,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 157,
+      "stars": 158,
       "timestamp": 1734524180,
       "topics": [
         "apache-kafka",
