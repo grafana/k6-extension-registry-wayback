@@ -1222,11 +1222,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Generate random fake data",
     "imports": [
@@ -1247,7 +1244,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 63,
-      "timestamp": 1734511018,
+      "timestamp": 1734513806,
       "topics": [
         "xk6"
       ],
@@ -1256,6 +1253,7 @@
     "tier": "official",
     "versions": [
       "v0.4.0",
+      "v0.3.2",
       "v0.3.1",
       "v0.3.0",
       "v0.3.0-alpha.1",
@@ -1691,11 +1689,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "B",
-      "issues": [
-        "smoke"
-      ],
-      "level": 93
+      "grade": "A",
+      "level": 100
     },
     "description": "Load-test SQL Servers",
     "imports": [
@@ -1713,8 +1708,8 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 120,
-      "timestamp": 1733736611,
+      "stars": 121,
+      "timestamp": 1734514590,
       "topics": [
         "k6",
         "sql",
@@ -1724,6 +1719,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.0.1",
       "v1.0.0",
       "v0.4.1",
       "v0.4.0",
