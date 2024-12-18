@@ -1353,7 +1353,7 @@
       "name": "xk6-loki",
       "owner": "grafana",
       "public": true,
-      "stars": 40,
+      "stars": 41,
       "timestamp": 1724212557,
       "topics": [
         "k6",
@@ -2465,7 +2465,7 @@
       "owner": "mostafa",
       "public": true,
       "stars": 157,
-      "timestamp": 1733963972,
+      "timestamp": 1734524180,
       "topics": [
         "apache-kafka",
         "avro",
@@ -2484,6 +2484,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.29.0",
       "v0.28.0",
       "v0.27.0",
       "v0.26.0",
