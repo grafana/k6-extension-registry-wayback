@@ -1536,7 +1536,7 @@
       "name": "xk6-output-opentelemetry",
       "owner": "grafana",
       "public": true,
-      "stars": 12,
+      "stars": 13,
       "timestamp": 1733752863,
       "topics": [
         "k6",
@@ -1708,7 +1708,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 125,
+      "stars": 126,
       "timestamp": 1734884967,
       "topics": [
         "k6",
@@ -2464,7 +2464,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 159,
+      "stars": 160,
       "timestamp": 1734787873,
       "topics": [
         "apache-kafka",
