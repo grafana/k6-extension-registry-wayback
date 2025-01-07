@@ -438,7 +438,7 @@
       "name": "xk6-file",
       "owner": "avitalique",
       "public": true,
-      "stars": 24,
+      "stars": 25,
       "timestamp": 1734096471,
       "topics": [
         "k6",
@@ -1133,8 +1133,8 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 100,
-      "timestamp": 1736267209,
+      "stars": 101,
+      "timestamp": 1736269375,
       "topics": [
         "chaos-engineering",
         "fault-injection",
