@@ -1708,7 +1708,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 127,
+      "stars": 128,
       "timestamp": 1736158898,
       "topics": [
         "k6",
@@ -3396,7 +3396,7 @@
       "owner": "walterwanderley",
       "public": true,
       "stars": 5,
-      "timestamp": 1718067144,
+      "timestamp": 1736515641,
       "topics": [
         "k6",
         "stomp",
