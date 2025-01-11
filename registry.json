@@ -677,7 +677,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 20,
-      "timestamp": 1736384106,
+      "timestamp": 1736569371,
       "topics": [
         "xk6"
       ],
@@ -2223,7 +2223,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1736564124,
+      "timestamp": 1736564538,
       "topics": [
         "k6",
         "k6-extension",
@@ -2236,6 +2236,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.72",
       "v0.9.71",
       "v0.9.70",
       "v0.9.69",
@@ -2334,8 +2335,7 @@
       "v0.8.47",
       "v0.8.46",
       "v0.8.45",
-      "v0.8.44",
-      "v0.8.43"
+      "v0.8.44"
     ]
   },
   {
