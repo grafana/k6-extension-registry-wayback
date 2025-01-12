@@ -1870,7 +1870,7 @@
       "name": "xk6-sql-driver-postgres",
       "owner": "grafana",
       "public": true,
-      "stars": 4,
+      "stars": 5,
       "timestamp": 1730817988,
       "topics": [
         "xk6",
