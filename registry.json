@@ -1057,7 +1057,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 372,
+      "stars": 373,
       "timestamp": 1731922735,
       "topics": [
         "xk6",
@@ -1870,7 +1870,7 @@
       "name": "xk6-sql-driver-postgres",
       "owner": "grafana",
       "public": true,
-      "stars": 5,
+      "stars": 4,
       "timestamp": 1730817988,
       "topics": [
         "xk6",
