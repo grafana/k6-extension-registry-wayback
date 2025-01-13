@@ -1134,7 +1134,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 101,
-      "timestamp": 1736763643,
+      "timestamp": 1736765856,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -3396,7 +3396,7 @@
       "owner": "walterwanderley",
       "public": true,
       "stars": 5,
-      "timestamp": 1736515641,
+      "timestamp": 1736770725,
       "topics": [
         "k6",
         "stomp",
@@ -3406,6 +3406,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.2.0",
       "v0.1.3",
       "v0.1.2",
       "v0.1.1",
