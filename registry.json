@@ -1647,13 +1647,8 @@
       "misc"
     ],
     "compliance": {
-      "grade": "C",
-      "issues": [
-        "smoke",
-        "examples",
-        "types"
-      ],
-      "level": 81
+      "grade": "A",
+      "level": 100
     },
     "description": "Output extension for Synthetic Monitoring",
     "module": "github.com/grafana/xk6-sm",
@@ -1671,7 +1666,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1736426659,
+      "timestamp": 1736848004,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
