@@ -1667,7 +1667,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1736902083,
+      "timestamp": 1736944369,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
