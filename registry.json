@@ -2002,12 +2002,11 @@
       "misc"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "B",
       "issues": [
-        "smoke",
         "types"
       ],
-      "level": 87
+      "level": 93
     },
     "description": "SSH",
     "imports": [
@@ -2027,7 +2026,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 9,
-      "timestamp": 1732025749,
+      "timestamp": 1737124537,
       "topics": [
         "ssh",
         "ssh-client",
