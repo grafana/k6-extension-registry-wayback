@@ -1667,7 +1667,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1737131798,
+      "timestamp": 1737145992,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2219,7 +2219,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1737090173,
+      "timestamp": 1737145727,
       "topics": [
         "k6",
         "k6-extension",
