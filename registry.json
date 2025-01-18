@@ -2219,7 +2219,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1737145727,
+      "timestamp": 1737161633,
       "topics": [
         "k6",
         "k6-extension",
@@ -2232,6 +2232,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.75",
       "v0.9.74",
       "v0.9.73",
       "v0.9.72",
@@ -2330,8 +2331,7 @@
       "v0.8.50",
       "v0.8.49",
       "v0.8.48",
-      "v0.8.47",
-      "v0.8.46"
+      "v0.8.47"
     ]
   },
   {
@@ -2665,7 +2665,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 19,
-      "timestamp": 1736205460,
+      "timestamp": 1737154798,
       "topics": [
         "k6",
         "sse",
@@ -2677,6 +2677,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.8",
       "v0.1.7",
       "v0.1.6",
       "v0.1.5",
