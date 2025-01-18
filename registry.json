@@ -295,7 +295,7 @@
       "name": "xk6-read",
       "owner": "acuenca-facephi",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1721983985,
       "topics": [
         "k6",
@@ -634,7 +634,7 @@
       "name": "xk6-fasthttp",
       "owner": "domsolutions",
       "public": true,
-      "stars": 4,
+      "stars": 5,
       "timestamp": 1736757725,
       "topics": [
         "fasthttpclient",
