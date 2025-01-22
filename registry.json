@@ -438,7 +438,7 @@
       "name": "xk6-file",
       "owner": "avitalique",
       "public": true,
-      "stars": 25,
+      "stars": 26,
       "timestamp": 1734096471,
       "topics": [
         "k6",
@@ -1705,7 +1705,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 129,
+      "stars": 131,
       "timestamp": 1736698462,
       "topics": [
         "k6",
@@ -1829,6 +1829,7 @@
       "name": "xk6-sql-driver-mysql",
       "owner": "grafana",
       "public": true,
+      "stars": 1,
       "timestamp": 1730817986,
       "topics": [
         "xk6",
@@ -2991,7 +2992,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 26,
+      "stars": 27,
       "timestamp": 1728489459,
       "topics": [
         "k6-extension",
