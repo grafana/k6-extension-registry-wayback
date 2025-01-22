@@ -677,7 +677,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 20,
-      "timestamp": 1737443913,
+      "timestamp": 1737541355,
       "topics": [
         "xk6"
       ],
@@ -1057,7 +1057,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 375,
+      "stars": 376,
       "timestamp": 1731922735,
       "topics": [
         "xk6",
