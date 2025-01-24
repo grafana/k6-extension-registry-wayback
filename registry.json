@@ -1243,7 +1243,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 68,
+      "stars": 69,
       "timestamp": 1736870746,
       "topics": [
         "xk6"
@@ -1667,7 +1667,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1737667713,
+      "timestamp": 1737679644,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
