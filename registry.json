@@ -340,7 +340,7 @@
       "owner": "akiomik",
       "public": true,
       "stars": 6,
-      "timestamp": 1718012857,
+      "timestamp": 1738085545,
       "topics": [
         "k6",
         "k6-extension",
@@ -588,7 +588,7 @@
       "name": "xk6-ethereum",
       "owner": "distribworks",
       "public": true,
-      "stars": 10,
+      "stars": 11,
       "timestamp": 1727599993,
       "topics": [
         "blockchain",
@@ -2070,7 +2070,7 @@
       "name": "xk6-ts",
       "owner": "grafana",
       "public": true,
-      "stars": 18,
+      "stars": 19,
       "timestamp": 1736156242,
       "topics": [
         "typescript",
@@ -2220,7 +2220,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1738071159,
+      "timestamp": 1738083156,
       "topics": [
         "k6",
         "k6-extension",
