@@ -1651,6 +1651,41 @@
       "grade": "A",
       "level": 100
     },
+    "description": "Web crawler API for k6",
+    "imports": [
+      "k6/x/crawler"
+    ],
+    "module": "github.com/grafana/xk6-crawler",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-crawler.git",
+      "description": "Web crawler API for k6",
+      "homepage": "https://crawler.x.k6.io",
+      "license": "AGPL-3.0",
+      "name": "xk6-crawler",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1738164417,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-crawler"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "A",
+      "level": 100
+    },
     "description": "Output extension for Synthetic Monitoring",
     "module": "github.com/grafana/xk6-sm",
     "outputs": [
