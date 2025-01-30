@@ -1667,6 +1667,7 @@
       "name": "xk6-crawler",
       "owner": "grafana",
       "public": true,
+      "stars": 1,
       "timestamp": 1738164417,
       "topics": [
         "xk6"
