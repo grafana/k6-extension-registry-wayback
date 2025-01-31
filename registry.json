@@ -1537,7 +1537,7 @@
       "name": "xk6-output-opentelemetry",
       "owner": "grafana",
       "public": true,
-      "stars": 13,
+      "stars": 14,
       "timestamp": 1733752863,
       "topics": [
         "k6",
