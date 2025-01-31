@@ -126,7 +126,7 @@
       "name": "xk6-prompt",
       "owner": "Juandavi1",
       "public": true,
-      "stars": 14,
+      "stars": 15,
       "timestamp": 1718008041,
       "topics": [
         "go",
@@ -488,7 +488,7 @@
       "name": "xk6-gcp",
       "owner": "deejiw",
       "public": true,
-      "stars": 6,
+      "stars": 7,
       "timestamp": 1720766307,
       "topics": [
         "gcp",
@@ -676,7 +676,7 @@
       "name": "xk6-output-elasticsearch",
       "owner": "elastic",
       "public": true,
-      "stars": 20,
+      "stars": 21,
       "timestamp": 1737541355,
       "topics": [
         "xk6"
@@ -1134,7 +1134,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 101,
-      "timestamp": 1737907535,
+      "timestamp": 1738320420,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1292,7 +1292,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 67,
+      "stars": 68,
       "timestamp": 1728487514,
       "topics": [
         "kubernetes",
@@ -1487,7 +1487,7 @@
       "name": "xk6-output-kafka",
       "owner": "grafana",
       "public": true,
-      "stars": 22,
+      "stars": 23,
       "timestamp": 1718012070,
       "topics": [
         "k6",
