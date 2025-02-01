@@ -1057,7 +1057,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 380,
+      "stars": 381,
       "timestamp": 1731922735,
       "topics": [
         "xk6",
@@ -1354,7 +1354,7 @@
       "name": "xk6-loki",
       "owner": "grafana",
       "public": true,
-      "stars": 41,
+      "stars": 42,
       "timestamp": 1724212557,
       "topics": [
         "k6",
@@ -1631,7 +1631,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 27,
+      "stars": 28,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -2497,7 +2497,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 163,
+      "stars": 164,
       "timestamp": 1736342127,
       "topics": [
         "apache-kafka",
@@ -3028,7 +3028,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 27,
+      "stars": 28,
       "timestamp": 1728489459,
       "topics": [
         "k6-extension",
@@ -3112,7 +3112,7 @@
       "name": "xk6-prometheus",
       "owner": "szkiba",
       "public": true,
-      "stars": 51,
+      "stars": 52,
       "timestamp": 1718015257,
       "topics": [
         "prometheus",
