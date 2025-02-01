@@ -1487,7 +1487,7 @@
       "name": "xk6-output-kafka",
       "owner": "grafana",
       "public": true,
-      "stars": 23,
+      "stars": 24,
       "timestamp": 1718012070,
       "topics": [
         "k6",
@@ -1537,7 +1537,7 @@
       "name": "xk6-output-opentelemetry",
       "owner": "grafana",
       "public": true,
-      "stars": 14,
+      "stars": 15,
       "timestamp": 1733752863,
       "topics": [
         "k6",
@@ -2062,7 +2062,7 @@
       "name": "xk6-ssh",
       "owner": "grafana",
       "public": true,
-      "stars": 9,
+      "stars": 10,
       "timestamp": 1737124537,
       "topics": [
         "ssh",
@@ -3246,7 +3246,7 @@
       "name": "xk6-yaml",
       "owner": "szkiba",
       "public": true,
-      "stars": 5,
+      "stars": 6,
       "timestamp": 1736184286,
       "topics": [
         "xk6",
@@ -3291,7 +3291,7 @@
       "name": "xk6-opentelemetry",
       "owner": "thmshmm",
       "public": true,
-      "stars": 25,
+      "stars": 26,
       "timestamp": 1719392155,
       "topics": [
         "k6",
