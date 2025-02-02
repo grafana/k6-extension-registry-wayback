@@ -1580,7 +1580,7 @@
       "name": "xk6-output-timescaledb",
       "owner": "grafana",
       "public": true,
-      "stars": 30,
+      "stars": 31,
       "timestamp": 1718012137,
       "topics": [
         "grafana-dashboard",
