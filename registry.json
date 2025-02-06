@@ -168,7 +168,7 @@
       "owner": "LeonAdato",
       "public": true,
       "stars": 23,
-      "timestamp": 1724858619,
+      "timestamp": 1738852265,
       "topics": [
         "k6-extension",
         "k6-out",
@@ -179,6 +179,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.2.1",
       "v0.2.0",
       "v0.1.1",
       "v0.1.0",
@@ -1438,7 +1439,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 70,
-      "timestamp": 1738837075,
+      "timestamp": 1738850171,
       "topics": [
         "grafana-dashboard",
         "influxdb",
