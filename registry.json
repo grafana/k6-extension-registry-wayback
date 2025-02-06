@@ -2445,7 +2445,7 @@
       "name": "xk6-output-prometheus-pushgateway",
       "owner": "martymarron",
       "public": true,
-      "stars": 11,
+      "stars": 12,
       "timestamp": 1722231073,
       "topics": [
         "grafana",
