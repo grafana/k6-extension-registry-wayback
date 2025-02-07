@@ -1244,7 +1244,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 70,
+      "stars": 71,
       "timestamp": 1736870746,
       "topics": [
         "xk6"
@@ -2656,7 +2656,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 17,
+      "stars": 18,
       "timestamp": 1724242047,
       "topics": [
         "k6",
