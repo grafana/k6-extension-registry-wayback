@@ -678,7 +678,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 21,
-      "timestamp": 1738807815,
+      "timestamp": 1738931890,
       "topics": [
         "xk6"
       ],
@@ -1704,7 +1704,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1738845856,
+      "timestamp": 1738930920,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
