@@ -1245,7 +1245,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 72,
-      "timestamp": 1739377934,
+      "timestamp": 1739379474,
       "topics": [
         "xk6"
       ],
@@ -1253,6 +1253,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.4.2",
       "v0.4.1",
       "v0.4.0",
       "v0.3.2",
