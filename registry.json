@@ -1295,7 +1295,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 68,
-      "timestamp": 1738836951,
+      "timestamp": 1739442009,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -1440,7 +1440,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 70,
-      "timestamp": 1739185391,
+      "timestamp": 1739442467,
       "topics": [
         "grafana-dashboard",
         "influxdb",
@@ -1452,6 +1452,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.6.0",
       "v0.5.0",
       "v0.4.3",
       "v0.4.2",
@@ -1705,7 +1706,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1739306006,
+      "timestamp": 1739450639,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -3546,6 +3547,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.57.0",
       "v0.56.0",
       "v0.55.2",
       "v0.55.1",
