@@ -1745,7 +1745,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 134,
-      "timestamp": 1739464944,
+      "timestamp": 1739466478,
       "topics": [
         "k6",
         "sql",
@@ -1755,6 +1755,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.0.2",
       "v1.0.1",
       "v1.0.0",
       "v0.4.1",
