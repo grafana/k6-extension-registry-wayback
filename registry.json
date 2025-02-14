@@ -819,7 +819,7 @@
       "name": "xk6-coap",
       "owner": "golioth",
       "public": true,
-      "stars": 13,
+      "stars": 14,
       "timestamp": 1718012802,
       "topics": [
         "coap",
@@ -1058,7 +1058,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 388,
+      "stars": 389,
       "timestamp": 1739457012,
       "topics": [
         "xk6",
