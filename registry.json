@@ -1111,13 +1111,14 @@
       "kubernetes"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "D",
       "issues": [
+        "build",
         "smoke",
         "examples",
         "types"
       ],
-      "level": 81
+      "level": 66
     },
     "description": "Inject faults to test 💣",
     "imports": [
@@ -1136,7 +1137,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 101,
-      "timestamp": 1739117503,
+      "timestamp": 1739723858,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1246,7 +1247,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 72,
-      "timestamp": 1739379474,
+      "timestamp": 1739721911,
       "topics": [
         "xk6"
       ],
@@ -1746,7 +1747,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 134,
-      "timestamp": 1739466478,
+      "timestamp": 1739723996,
       "topics": [
         "k6",
         "sql",
