@@ -1473,8 +1473,14 @@
       "messaging"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "D",
+      "issues": [
+        "build",
+        "smoke",
+        "examples",
+        "types"
+      ],
+      "level": 64
     },
     "description": "Export k6 results in real-time to Kafka",
     "module": "github.com/grafana/xk6-output-kafka",
@@ -1523,8 +1529,14 @@
       "observability"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "D",
+      "issues": [
+        "build",
+        "smoke",
+        "examples",
+        "types"
+      ],
+      "level": 66
     },
     "description": "Export k6 results in OpenTelemetry format",
     "module": "github.com/grafana/xk6-output-opentelemetry",
@@ -1708,7 +1720,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1739637358,
+      "timestamp": 1739798367,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2684,12 +2696,14 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "D",
       "issues": [
+        "build",
         "smoke",
+        "examples",
         "types"
       ],
-      "level": 87
+      "level": 64
     },
     "description": "Server Sent Event",
     "imports": [
