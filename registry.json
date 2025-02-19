@@ -1059,7 +1059,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 389,
+      "stars": 390,
       "timestamp": 1739457012,
       "topics": [
         "xk6",
@@ -1246,7 +1246,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 73,
+      "stars": 74,
       "timestamp": 1739721911,
       "topics": [
         "xk6"
@@ -1554,7 +1554,7 @@
       "name": "xk6-output-opentelemetry",
       "owner": "grafana",
       "public": true,
-      "stars": 15,
+      "stars": 16,
       "timestamp": 1733752863,
       "topics": [
         "k6",
@@ -2462,7 +2462,7 @@
       "name": "xk6-output-prometheus-pushgateway",
       "owner": "martymarron",
       "public": true,
-      "stars": 12,
+      "stars": 13,
       "timestamp": 1722231073,
       "topics": [
         "grafana",
@@ -2618,7 +2618,7 @@
       "name": "xk6-playwright",
       "owner": "nicholasvuono",
       "public": true,
-      "stars": 49,
+      "stars": 50,
       "timestamp": 1718038324,
       "topics": [
         "browser-automation",
@@ -3132,7 +3132,7 @@
       "name": "xk6-prometheus",
       "owner": "szkiba",
       "public": true,
-      "stars": 52,
+      "stars": 53,
       "timestamp": 1739889774,
       "topics": [
         "prometheus",
@@ -3311,7 +3311,7 @@
       "name": "xk6-opentelemetry",
       "owner": "thmshmm",
       "public": true,
-      "stars": 26,
+      "stars": 27,
       "timestamp": 1719392155,
       "topics": [
         "k6",
