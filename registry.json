@@ -2516,7 +2516,7 @@
       "owner": "mostafa",
       "public": true,
       "stars": 167,
-      "timestamp": 1739895171,
+      "timestamp": 1740047057,
       "topics": [
         "apache-kafka",
         "avro",
@@ -2535,6 +2535,8 @@
     },
     "tier": "community",
     "versions": [
+      "v0.31.1",
+      "v0.31.0",
       "v0.30.0",
       "v0.29.0",
       "v0.28.0",
