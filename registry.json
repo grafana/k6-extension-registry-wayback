@@ -1720,7 +1720,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1739798367,
+      "timestamp": 1740156839,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1759,7 +1759,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 135,
-      "timestamp": 1740155731,
+      "timestamp": 1740156837,
       "topics": [
         "k6",
         "sql",
@@ -1769,6 +1769,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.0.3",
       "v1.0.2",
       "v1.0.1",
       "v1.0.0",
