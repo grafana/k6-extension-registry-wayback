@@ -1091,14 +1091,13 @@
       "kubernetes"
     ],
     "compliance": {
-      "grade": "D",
+      "grade": "C",
       "issues": [
-        "build",
         "smoke",
         "examples",
         "types"
       ],
-      "level": 66
+      "level": 81
     },
     "constraints": ">=0.3.10",
     "description": "Inject faults to test 💣",
@@ -1118,7 +1117,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 101,
-      "timestamp": 1740409628,
+      "timestamp": 1740413790,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1517,7 +1516,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 31,
+      "stars": 32,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
