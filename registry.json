@@ -1,6 +1,49 @@
 [
   {
     "categories": [
+      "misc"
+    ],
+    "constraints": ">=0.55.0",
+    "description": "A modern load testing tool, using Go and JavaScript",
+    "imports": [
+      "k6"
+    ],
+    "module": "go.k6.io/k6",
+    "products": [
+      "cloud",
+      "synthetic",
+      "oss"
+    ],
+    "repo": {
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "homepage": "https://github.com/grafana/k6",
+      "license": "AGPL-3.0",
+      "name": "k6",
+      "owner": "grafana",
+      "public": true,
+      "topics": [
+        "es6",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "javascript",
+        "load-generator",
+        "load-testing",
+        "performance"
+      ],
+      "url": "https://github.com/grafana/k6"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.57.0",
+      "v0.56.0",
+      "v0.55.2",
+      "v0.55.1",
+      "v0.55.0"
+    ]
+  },
+  {
+    "categories": [
       "data"
     ],
     "compliance": {
@@ -11,6 +54,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=1.0.0",
     "description": "Load-test Mongo no-SQL databases",
     "imports": [
       "k6/x/mongo"
@@ -43,16 +87,7 @@
       "v1.0.3",
       "v1.0.2",
       "v1.0.1",
-      "v1.0.0",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.5",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v1.0.0"
     ]
   },
   {
@@ -368,6 +403,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.5.0",
     "description": "Test Action Cable and AnyCable functionality",
     "imports": [
       "k6/x/cable"
@@ -401,14 +437,7 @@
       "v0.8.0",
       "v0.7.0",
       "v0.6.0",
-      "v0.5.0",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.0",
-      "v0.1.0",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.5.0"
     ]
   },
   {
@@ -473,6 +502,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.3.0",
     "description": "A k6 extension for Google Cloud Platform services.",
     "imports": [
       "k6/x/gcp"
@@ -501,18 +531,7 @@
     "versions": [
       "v0.4.1",
       "v0.4.0",
-      "v0.3.0",
-      "v0.2.7",
-      "v0.2.6",
-      "v0.2.5",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.4",
-      "v0.0.4-rc1",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.3.0"
     ]
   },
   {
@@ -941,6 +960,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.3.0",
     "description": "Test Prometheus Remote Write performance",
     "imports": [
       "k6/x/remotewrite"
@@ -971,16 +991,7 @@
     "versions": [
       "v0.3.2",
       "v0.3.1",
-      "v0.3.0",
-      "v0.2.4",
-      "v0.2.3",
-      "v0.2.2",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.0",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.3.0"
     ]
   },
   {
@@ -1043,6 +1054,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.7.4",
     "description": "Create a web-based metrics dashboard",
     "module": "github.com/grafana/xk6-dashboard",
     "outputs": [
@@ -1071,39 +1083,7 @@
     "tier": "official",
     "versions": [
       "v0.7.5",
-      "v0.7.4",
-      "v0.7.3",
-      "v0.7.3-alpha.1",
-      "v0.7.2",
-      "v0.7.1",
-      "v0.7.0",
-      "v0.7.0-apha.3",
-      "v0.7.0-alpha.5",
-      "v0.7.0-alpha.4",
-      "v0.7.0-alpha.3",
-      "v0.7.0-alpha.2",
-      "v0.7.0-alpha.1",
-      "v0.6.1",
-      "v0.6.0",
-      "v0.5.5",
-      "v0.5.4",
-      "v0.5.3",
-      "v0.5.2",
-      "v0.5.1",
-      "v0.5.0",
-      "v0.4.4",
-      "v0.4.3",
-      "v0.4.2",
-      "v0.4.1",
-      "v0.4.0",
-      "v0.3.2",
-      "v0.3.1",
-      "v0.3.0",
-      "v0.2.0",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.7.4"
     ]
   },
   {
@@ -1120,6 +1100,7 @@
       ],
       "level": 66
     },
+    "constraints": ">=0.3.10",
     "description": "Inject faults to test 💣",
     "imports": [
       "k6/x/disruptor"
@@ -1137,7 +1118,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 101,
-      "timestamp": 1740408225,
+      "timestamp": 1740409628,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1152,25 +1133,7 @@
       "v0.3.13",
       "v0.3.12",
       "v0.3.11",
-      "v0.3.10",
-      "v0.3.9",
-      "v0.3.8",
-      "v0.3.7",
-      "v0.3.6",
-      "v0.3.5",
-      "v0.3.5-rc2",
-      "v0.3.5-rc1",
-      "v0.3.4",
-      "v0.3.3",
-      "v0.3.2",
-      "v0.3.1",
-      "v0.3.0",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.3.10"
     ]
   },
   {
@@ -1185,6 +1148,7 @@
       ],
       "level": 87
     },
+    "constraints": ">0.4.0",
     "description": "Run external commands",
     "imports": [
       "k6/x/exec"
@@ -1212,12 +1176,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.4.1",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.0",
-      "v0.1.0",
-      "v0.0.1"
+      "v0.4.1"
     ]
   },
   {
@@ -1228,6 +1187,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.4.0",
     "description": "Generate random fake data",
     "imports": [
       "k6/x/faker"
@@ -1257,15 +1217,7 @@
     "versions": [
       "v0.4.2",
       "v0.4.1",
-      "v0.4.0",
-      "v0.3.2",
-      "v0.3.1",
-      "v0.3.0",
-      "v0.3.0-alpha.1",
-      "v0.2.2",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.0"
+      "v0.4.0"
     ]
   },
   {
@@ -1280,6 +1232,7 @@
       ],
       "level": 87
     },
+    "constraints": ">0.9.0",
     "description": "Interact with Kubernetes clusters",
     "imports": [
       "k6/x/kubernetes"
@@ -1307,24 +1260,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.10.0",
-      "v0.9.0",
-      "v0.8.0",
-      "v0.7.0",
-      "v0.6.0",
-      "v0.5.0",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.2",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.5",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.10.0"
     ]
   },
   {
@@ -1425,6 +1361,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.5.0",
     "description": "Export results to InfluxDB v2",
     "module": "github.com/grafana/xk6-output-influxdb",
     "outputs": [
@@ -1455,16 +1392,7 @@
     "tier": "official",
     "versions": [
       "v0.6.0",
-      "v0.5.0",
-      "v0.4.3",
-      "v0.4.2",
-      "v0.4.1",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.2",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.0"
+      "v0.5.0"
     ]
   },
   {
@@ -1482,6 +1410,7 @@
       ],
       "level": 64
     },
+    "constraints": ">=0.5.0",
     "description": "Export k6 results in real-time to Kafka",
     "module": "github.com/grafana/xk6-output-kafka",
     "outputs": [
@@ -1514,13 +1443,7 @@
       "v0.7.1",
       "v0.7.0",
       "v0.6.0",
-      "v0.5.0",
-      "v0.4.1",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.5.0"
     ]
   },
   {
@@ -1532,6 +1455,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.2.0",
     "description": "Export k6 results to TimescaleDB",
     "module": "github.com/grafana/xk6-output-timescaledb",
     "outputs": [
@@ -1562,13 +1486,7 @@
     "tier": "community",
     "versions": [
       "v0.2.1",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.2.0"
     ]
   },
   {
@@ -1655,6 +1573,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "Output extension for Synthetic Monitoring",
     "module": "github.com/grafana/xk6-sm",
     "outputs": [
@@ -1677,12 +1596,7 @@
     "tier": "official",
     "versions": [
       "v0.2.0",
-      "v0.1.0",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.3-pre",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1693,6 +1607,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=1.0.0",
     "description": "Load-test SQL Servers",
     "imports": [
       "k6/x/sql"
@@ -1723,15 +1638,7 @@
       "v1.0.3",
       "v1.0.2",
       "v1.0.1",
-      "v1.0.0",
-      "v0.4.1",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.1"
+      "v1.0.0"
     ]
   },
   {
@@ -1742,6 +1649,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
     "imports": [
       "k6/x/sql/driver/azuresql"
@@ -1767,9 +1675,7 @@
     },
     "tier": "community",
     "versions": [
-      "v0.1.0",
-      "v0.1.0-alpha.2",
-      "v0.1.0-alpha.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1780,6 +1686,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for ClickHouse database support",
     "imports": [
       "k6/x/sql/driver/clickhouse"
@@ -1806,9 +1713,7 @@
     },
     "tier": "community",
     "versions": [
-      "v0.1.0",
-      "v0.1.0-alpha.2",
-      "v0.1.0-alpha.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1819,6 +1724,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for MySQL database support",
     "imports": [
       "k6/x/sql/driver/mysql"
@@ -1845,9 +1751,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.1.0",
-      "v0.1.0-alpha.2",
-      "v0.1.0-alpha.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1858,6 +1762,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for Postgres database support",
     "imports": [
       "k6/x/sql/driver/postgres"
@@ -1884,9 +1789,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.1.0",
-      "v0.1.0-alpha.2",
-      "v0.1.0-alpha.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1898,6 +1801,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for SQLite v3 database support",
     "imports": [
       "k6/x/sql/driver/sqlite3"
@@ -1923,9 +1827,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.1.0",
-      "v0.1.0-alpha.2",
-      "v0.1.0-alpha.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1936,6 +1838,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for Microsoft SQL Server database support",
     "imports": [
       "k6/x/sql/driver/sqlserver"
@@ -1961,9 +1864,7 @@
     },
     "tier": "community",
     "versions": [
-      "v0.1.0",
-      "v0.1.0-alpha.2",
-      "v0.1.0-alpha.1"
+      "v0.1.0"
     ]
   },
   {
@@ -1974,6 +1875,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.1.0",
     "description": "xk6-sql driver extension for RamSQL database support",
     "imports": [
       "k6/x/sql/driver/ramsql"
@@ -2015,6 +1917,7 @@
       ],
       "level": 93
     },
+    "constraints": ">=0.1.0",
     "description": "SSH",
     "imports": [
       "k6/x/ssh"
@@ -2044,8 +1947,7 @@
     "tier": "official",
     "versions": [
       "v0.1.1",
-      "v0.1.0",
-      "v0.0.1"
+      "v0.1.0"
     ]
   },
   {
@@ -2060,6 +1962,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.2.4",
     "description": "Add TypeScript support for k6",
     "imports": [
       "k6/x/ts"
@@ -2089,13 +1992,7 @@
     "versions": [
       "v0.2.6",
       "v0.2.5",
-      "v0.2.4",
-      "v0.2.3",
-      "v0.2.2",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.2.4"
     ]
   },
   {
@@ -2161,6 +2058,7 @@
       ],
       "level": 64
     },
+    "constraints": ">=0.1.10",
     "description": "Support for Tracetest test execution and tracing client",
     "module": "github.com/kubeshop/xk6-tracetest",
     "outputs": [
@@ -2186,18 +2084,7 @@
     "tier": "community",
     "versions": [
       "v1.0.0",
-      "v0.1.10",
-      "v0.1.9",
-      "v0.1.8",
-      "v0.1.7",
-      "v0.1.6",
-      "v0.1.5",
-      "v0.1.4",
-      "v0.1.4-rc.1",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.1.10"
     ]
   },
   {
@@ -2209,6 +2096,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.9.80",
     "description": "Export results to AWS Timestream",
     "module": "github.com/leonyork/xk6-output-timestream",
     "outputs": [
@@ -2240,105 +2128,7 @@
     "tier": "community",
     "versions": [
       "v0.9.81",
-      "v0.9.80",
-      "v0.9.79",
-      "v0.9.78",
-      "v0.9.77",
-      "v0.9.76",
-      "v0.9.75",
-      "v0.9.74",
-      "v0.9.73",
-      "v0.9.72",
-      "v0.9.71",
-      "v0.9.70",
-      "v0.9.69",
-      "v0.9.68",
-      "v0.9.67",
-      "v0.9.66",
-      "v0.9.65",
-      "v0.9.64",
-      "v0.9.63",
-      "v0.9.62",
-      "v0.9.61",
-      "v0.9.60",
-      "v0.9.59",
-      "v0.9.58",
-      "v0.9.57",
-      "v0.9.56",
-      "v0.9.55",
-      "v0.9.54",
-      "v0.9.53",
-      "v0.9.52",
-      "v0.9.51",
-      "v0.9.50",
-      "v0.9.49",
-      "v0.9.48",
-      "v0.9.47",
-      "v0.9.46",
-      "v0.9.45",
-      "v0.9.44",
-      "v0.9.43",
-      "v0.9.42",
-      "v0.9.41",
-      "v0.9.40",
-      "v0.9.39",
-      "v0.9.38",
-      "v0.9.37",
-      "v0.9.36",
-      "v0.9.35",
-      "v0.9.34",
-      "v0.9.33",
-      "v0.9.32",
-      "v0.9.31",
-      "v0.9.30",
-      "v0.9.29",
-      "v0.9.28",
-      "v0.9.27",
-      "v0.9.26",
-      "v0.9.25",
-      "v0.9.24",
-      "v0.9.23",
-      "v0.9.22",
-      "v0.9.21",
-      "v0.9.20",
-      "v0.9.19",
-      "v0.9.18",
-      "v0.9.17",
-      "v0.9.16",
-      "v0.9.15",
-      "v0.9.14",
-      "v0.9.13",
-      "v0.9.12",
-      "v0.9.11",
-      "v0.9.10",
-      "v0.9.9",
-      "v0.9.8",
-      "v0.9.7",
-      "v0.9.6",
-      "v0.9.5",
-      "v0.9.4",
-      "v0.9.3",
-      "v0.9.2",
-      "v0.9.1",
-      "v0.9.0",
-      "v0.8.70",
-      "v0.8.69",
-      "v0.8.68",
-      "v0.8.67",
-      "v0.8.66",
-      "v0.8.65",
-      "v0.8.64",
-      "v0.8.63",
-      "v0.8.62",
-      "v0.8.61",
-      "v0.8.60",
-      "v0.8.59",
-      "v0.8.58",
-      "v0.8.57",
-      "v0.8.56",
-      "v0.8.55",
-      "v0.8.54",
-      "v0.8.53"
+      "v0.9.80"
     ]
   },
   {
@@ -2451,6 +2241,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.30.0",
     "description": "Load test Apache Kafka. Includes support for Avro messages.",
     "imports": [
       "k6/x/kafka"
@@ -2489,59 +2280,7 @@
     "versions": [
       "v0.31.1",
       "v0.31.0",
-      "v0.30.0",
-      "v0.29.0",
-      "v0.28.0",
-      "v0.27.0",
-      "v0.26.0",
-      "v0.25.1",
-      "v0.25.0",
-      "v0.24.2",
-      "v0.24.1",
-      "v0.24.0",
-      "v0.23.1",
-      "v0.23.0",
-      "v0.22.0",
-      "v0.21.1",
-      "v0.21.0",
-      "v0.20.2",
-      "v0.20.1",
-      "v0.20.0",
-      "v0.19.1",
-      "v0.19.0",
-      "v0.18.2",
-      "v0.18.1",
-      "v0.18.0",
-      "v0.17.0",
-      "v0.16.1",
-      "v0.16.0",
-      "v0.15.1",
-      "v0.15.0",
-      "v0.14.2",
-      "v0.14.1",
-      "v0.14.0",
-      "v0.13.1",
-      "v0.13.0",
-      "v0.12.0",
-      "v0.11.0",
-      "v0.10.0",
-      "v0.9.0",
-      "v0.8.0",
-      "v0.7.0",
-      "v0.6.0",
-      "v0.5.0",
-      "v0.4.0",
-      "v0.3.1",
-      "v0.3.0",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.30.0"
     ]
   },
   {
@@ -2711,6 +2450,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.39.0",
     "description": "MQTT extension",
     "imports": [
       "k6/x/mqtt"
@@ -2741,15 +2481,7 @@
       "v0.40.0",
       "v0.39.2",
       "v0.39.1",
-      "v0.39.0",
-      "v0.38.0",
-      "v0.37.0",
-      "v0.1.1",
-      "v0.1.0",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.39.0"
     ]
   },
   {
@@ -2815,6 +2547,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.1.3",
     "description": "Encrypt and decrypt Ansible Vault",
     "imports": [
       "k6/x/ansible-vault"
@@ -2842,10 +2575,7 @@
     "tier": "community",
     "versions": [
       "v0.1.4",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.1.3"
     ]
   },
   {
@@ -2856,6 +2586,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.2.0",
     "description": "Enable vendoring remote HTTP modules to a single source-control-friendly file",
     "module": "github.com/szkiba/xk6-cache",
     "outputs": [
@@ -2884,9 +2615,7 @@
     "versions": [
       "v0.2.2",
       "v0.2.1",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.2.0"
     ]
   },
   {
@@ -2901,6 +2630,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.1.4",
     "description": "Parse CSV values",
     "imports": [
       "k6/x/csv"
@@ -2928,9 +2658,7 @@
     "tier": "community",
     "versions": [
       "v0.1.5",
-      "v0.1.4",
-      "v0.1.3",
-      "v0.1.0"
+      "v0.1.4"
     ]
   },
   {
@@ -2986,6 +2714,7 @@
       ],
       "level": 80
     },
+    "constraints": ">=0.1.5",
     "description": "Write k6 tests in golang",
     "imports": [
       "k6/x/g0"
@@ -3015,12 +2744,7 @@
       "v0.1.8",
       "v0.1.7",
       "v0.1.6",
-      "v0.1.5",
-      "v0.1.4",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.1.5"
     ]
   },
   {
@@ -3070,6 +2794,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.2.0",
     "description": "Prometheus HTTP exporter for k6",
     "module": "github.com/szkiba/xk6-prometheus",
     "outputs": [
@@ -3099,13 +2824,7 @@
     "tier": "community",
     "versions": [
       "v0.2.1",
-      "v0.2.0",
-      "v0.1.5",
-      "v0.1.4",
-      "v0.1.3",
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.2.0"
     ]
   },
   {
@@ -3160,6 +2879,7 @@
       "grade": "A",
       "level": 100
     },
+    "constraints": ">=0.2.0",
     "description": "Updating the current k6 metrics summaries on the terminal during the test run",
     "module": "github.com/szkiba/xk6-top",
     "outputs": [
@@ -3187,9 +2907,7 @@
     "tier": "community",
     "versions": [
       "v0.2.1",
-      "v0.2.0",
-      "v0.1.1",
-      "v0.1.0"
+      "v0.2.0"
     ]
   },
   {
@@ -3387,6 +3105,7 @@
       ],
       "level": 87
     },
+    "constraints": ">=0.1.0",
     "description": "Client for STOMP protocol",
     "imports": [
       "k6/x/stomp"
@@ -3418,30 +3137,7 @@
       "v0.1.3",
       "v0.1.2",
       "v0.1.1",
-      "v0.1.0",
-      "v0.0.26",
-      "v0.0.25",
-      "v0.0.23",
-      "v0.0.21",
-      "v0.0.20",
-      "v0.0.19",
-      "v0.0.18",
-      "v0.0.16",
-      "v0.0.15",
-      "v0.0.14",
-      "v0.0.13",
-      "v0.0.12",
-      "v0.0.11",
-      "v0.0.10",
-      "v0.0.9",
-      "v0.0.8",
-      "v0.0.7",
-      "v0.0.6",
-      "v0.0.5",
-      "v0.0.4",
-      "v0.0.3",
-      "v0.0.2",
-      "v0.0.1"
+      "v0.1.0"
     ]
   },
   {
@@ -3481,139 +3177,6 @@
     "tier": "community",
     "versions": [
       "v0.1.0"
-    ]
-  },
-  {
-    "categories": [
-      "misc"
-    ],
-    "description": "A modern load testing tool, using Go and JavaScript",
-    "imports": [
-      "k6"
-    ],
-    "module": "go.k6.io/k6",
-    "products": [
-      "cloud",
-      "synthetic",
-      "oss"
-    ],
-    "repo": {
-      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
-      "homepage": "https://github.com/grafana/k6",
-      "license": "AGPL-3.0",
-      "name": "k6",
-      "owner": "grafana",
-      "public": true,
-      "topics": [
-        "es6",
-        "go",
-        "golang",
-        "hacktoberfest",
-        "javascript",
-        "load-generator",
-        "load-testing",
-        "performance"
-      ],
-      "url": "https://github.com/grafana/k6"
-    },
-    "tier": "official",
-    "versions": [
-      "v0.57.0",
-      "v0.56.0",
-      "v0.55.2",
-      "v0.55.1",
-      "v0.55.0",
-      "v0.54.0",
-      "v0.53.0",
-      "v0.52.0",
-      "v0.51.0",
-      "v0.50.0",
-      "v0.49.0",
-      "v0.48.0",
-      "v0.47.0",
-      "v0.46.0",
-      "v0.45.1",
-      "v0.45.0",
-      "v0.44.1",
-      "v0.44.0",
-      "v0.43.1",
-      "v0.43.0",
-      "v0.42.0",
-      "v0.41.0",
-      "v0.40.0",
-      "v0.39.0",
-      "v0.38.3",
-      "v0.38.2",
-      "v0.38.1",
-      "v0.38.0",
-      "v0.37.0",
-      "v0.36.0",
-      "v0.35.0",
-      "v0.34.1",
-      "v0.34.0",
-      "v0.33.0",
-      "v0.32.0",
-      "v0.31.1",
-      "v0.31.0",
-      "v0.30.0",
-      "v0.29.0",
-      "v0.28.0",
-      "v0.27.1",
-      "v0.27.0",
-      "v0.26.2",
-      "v0.26.1",
-      "v0.26.0",
-      "v0.25.1",
-      "v0.25.0",
-      "v0.24.0",
-      "v0.23.1",
-      "v0.23.0",
-      "v0.22.1",
-      "v0.22.0",
-      "v0.21.1",
-      "v0.21.0",
-      "v0.20.0",
-      "v0.19.0",
-      "v0.18.2",
-      "v0.18.1",
-      "v0.18.0",
-      "v0.17.2",
-      "v0.17.1",
-      "v0.17.0",
-      "v0.16.0",
-      "v0.15.0",
-      "v0.14.0",
-      "v0.13.0",
-      "v0.12.2",
-      "v0.12.1",
-      "v0.11.0",
-      "v0.10.0",
-      "v0.9.3",
-      "v0.9.2",
-      "v0.9.1",
-      "v0.9.0",
-      "v0.8.5",
-      "v0.8.4",
-      "v0.8.3",
-      "v0.8.2",
-      "v0.8.1",
-      "v0.8.0",
-      "v0.7.0",
-      "v0.6.0",
-      "v0.5.2",
-      "v0.5.1",
-      "v0.5.0",
-      "v0.4.5",
-      "v0.4.4",
-      "v0.4.3",
-      "v0.4.2",
-      "v0.4.1",
-      "v0.4.0",
-      "v0.3.0",
-      "v0.2.1",
-      "v0.2.0",
-      "v0.0.2",
-      "v0.0.1"
     ]
   }
 ]
