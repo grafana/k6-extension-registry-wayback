@@ -1116,7 +1116,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 101,
+      "stars": 102,
       "timestamp": 1740413790,
       "topics": [
         "chaos-engineering",
@@ -1516,7 +1516,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 33,
+      "stars": 34,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1589,7 +1589,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "timestamp": 1740485888,
+      "timestamp": 1740488923,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2466,7 +2466,7 @@
       "name": "xk6-mqtt",
       "owner": "pmalhaire",
       "public": true,
-      "stars": 52,
+      "stars": 53,
       "timestamp": 1733250514,
       "topics": [
         "mqtt",
