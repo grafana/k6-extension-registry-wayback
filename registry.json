@@ -698,7 +698,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 21,
-      "timestamp": 1740180489,
+      "timestamp": 1740589412,
       "topics": [
         "xk6"
       ],
@@ -1625,7 +1625,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 137,
-      "timestamp": 1740588316,
+      "timestamp": 1740593488,
       "topics": [
         "k6",
         "sql",
@@ -1635,6 +1635,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.0.4",
       "v1.0.3",
       "v1.0.2",
       "v1.0.1",
