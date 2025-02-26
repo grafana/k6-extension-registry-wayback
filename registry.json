@@ -2390,14 +2390,12 @@
       "protocol"
     ],
     "compliance": {
-      "grade": "D",
+      "grade": "C",
       "issues": [
-        "build",
         "smoke",
-        "examples",
         "types"
       ],
-      "level": 64
+      "level": 87
     },
     "description": "Server Sent Event",
     "imports": [
@@ -2416,7 +2414,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 22,
-      "timestamp": 1739836802,
+      "timestamp": 1740601975,
       "topics": [
         "k6",
         "sse",
