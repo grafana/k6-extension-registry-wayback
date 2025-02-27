@@ -1516,7 +1516,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 34,
+      "stars": 35,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -2115,7 +2115,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1740658324,
+      "timestamp": 1740661597,
       "topics": [
         "k6",
         "k6-extension",
