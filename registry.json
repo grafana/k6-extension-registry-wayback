@@ -839,7 +839,7 @@
       "name": "xk6-coap",
       "owner": "golioth",
       "public": true,
-      "stars": 14,
+      "stars": 15,
       "timestamp": 1718012802,
       "topics": [
         "coap",
@@ -2260,7 +2260,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 168,
+      "stars": 167,
       "timestamp": 1740047057,
       "topics": [
         "apache-kafka",
