@@ -1742,7 +1742,7 @@
       "name": "xk6-sql-driver-mysql",
       "owner": "grafana",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1730817986,
       "topics": [
         "xk6",
