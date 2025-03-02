@@ -1117,7 +1117,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 102,
-      "timestamp": 1740413790,
+      "timestamp": 1740934185,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -2260,7 +2260,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 167,
+      "stars": 168,
       "timestamp": 1740047057,
       "topics": [
         "apache-kafka",
@@ -3124,7 +3124,7 @@
       "owner": "walterwanderley",
       "public": true,
       "stars": 5,
-      "timestamp": 1736770725,
+      "timestamp": 1740937127,
       "topics": [
         "k6",
         "stomp",
@@ -3134,6 +3134,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.2.1",
       "v0.2.0",
       "v0.1.3",
       "v0.1.2",
