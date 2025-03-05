@@ -1026,7 +1026,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 49,
-      "timestamp": 1741124964,
+      "timestamp": 1741128219,
       "topics": [
         "distributed-tracing",
         "k6",
