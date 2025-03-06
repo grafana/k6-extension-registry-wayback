@@ -1071,7 +1071,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 392,
+      "stars": 394,
       "timestamp": 1739457012,
       "topics": [
         "xk6",
@@ -1116,7 +1116,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 102,
+      "stars": 103,
       "timestamp": 1740992062,
       "topics": [
         "chaos-engineering",
@@ -1205,7 +1205,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 75,
+      "stars": 76,
       "timestamp": 1739721911,
       "topics": [
         "xk6"
@@ -1248,7 +1248,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 68,
+      "stars": 69,
       "timestamp": 1739442009,
       "topics": [
         "kubernetes",
@@ -1377,7 +1377,7 @@
       "name": "xk6-output-influxdb",
       "owner": "grafana",
       "public": true,
-      "stars": 70,
+      "stars": 71,
       "timestamp": 1739442467,
       "topics": [
         "grafana-dashboard",
@@ -1516,7 +1516,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 36,
+      "stars": 37,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1552,7 +1552,7 @@
       "name": "xk6-crawler",
       "owner": "grafana",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1738164417,
       "topics": [
         "xk6"
@@ -1590,7 +1590,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1741222021,
+      "timestamp": 1741270947,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1625,7 +1625,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 137,
+      "stars": 138,
       "timestamp": 1740593488,
       "topics": [
         "k6",
@@ -1937,7 +1937,7 @@
       "name": "xk6-ssh",
       "owner": "grafana",
       "public": true,
-      "stars": 10,
+      "stars": 11,
       "timestamp": 1737124537,
       "topics": [
         "ssh",
