@@ -2117,7 +2117,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1741316140,
+      "timestamp": 1741327409,
       "topics": [
         "k6",
         "k6-extension",
@@ -2130,6 +2130,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.83",
       "v0.9.82",
       "v0.9.81",
       "v0.9.80"
