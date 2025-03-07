@@ -1116,7 +1116,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 103,
+      "stars": 104,
       "timestamp": 1740992062,
       "topics": [
         "chaos-engineering",
@@ -1590,7 +1590,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1741279046,
+      "timestamp": 1741344382,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2264,7 +2264,7 @@
       "owner": "mostafa",
       "public": true,
       "stars": 169,
-      "timestamp": 1740047057,
+      "timestamp": 1741351199,
       "topics": [
         "apache-kafka",
         "avro",
@@ -2283,6 +2283,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.31.2",
       "v0.31.1",
       "v0.31.0",
       "v0.30.0"
