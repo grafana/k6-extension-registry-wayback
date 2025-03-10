@@ -999,15 +999,12 @@
       "observability"
     ],
     "compliance": {
-      "grade": "E",
+      "grade": "C",
       "issues": [
-        "replace",
-        "build",
         "smoke",
-        "examples",
         "types"
       ],
-      "level": 58
+      "level": 87
     },
     "description": "Client for load testing distributed tracing backends",
     "imports": [
@@ -1026,7 +1023,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 52,
-      "timestamp": 1741614149,
+      "timestamp": 1741645182,
       "topics": [
         "distributed-tracing",
         "k6",
