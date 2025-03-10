@@ -655,7 +655,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 5,
-      "timestamp": 1740386155,
+      "timestamp": 1741595001,
       "topics": [
         "fasthttpclient",
         "http-client",
@@ -1590,7 +1590,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1741379592,
+      "timestamp": 1741591441,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
