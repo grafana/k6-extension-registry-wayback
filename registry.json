@@ -2691,7 +2691,7 @@
       "name": "xk6-dotenv",
       "owner": "szkiba",
       "public": true,
-      "stars": 30,
+      "stars": 31,
       "timestamp": 1739889588,
       "topics": [
         "xk6"
@@ -2737,7 +2737,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 28,
+      "stars": 29,
       "timestamp": 1739889922,
       "topics": [
         "k6-extension",
