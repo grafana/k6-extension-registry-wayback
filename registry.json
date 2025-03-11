@@ -1023,7 +1023,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 52,
-      "timestamp": 1741645182,
+      "timestamp": 1741649085,
       "topics": [
         "distributed-tracing",
         "k6",
@@ -1035,6 +1035,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.0.6",
       "v0.0.5",
       "v0.0.4",
       "v0.0.3",
