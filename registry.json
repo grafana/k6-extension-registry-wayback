@@ -1292,7 +1292,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 44,
-      "timestamp": 1741341997,
+      "timestamp": 1741772660,
       "topics": [
         "k6",
         "loki",
@@ -1302,6 +1302,7 @@
     },
     "tier": "community",
     "versions": [
+      "v1.0.1",
       "v1.0.0"
     ]
   },
