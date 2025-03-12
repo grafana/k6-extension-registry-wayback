@@ -1023,7 +1023,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 52,
-      "timestamp": 1741649085,
+      "timestamp": 1741741667,
       "topics": [
         "distributed-tracing",
         "k6",
