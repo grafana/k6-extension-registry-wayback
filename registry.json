@@ -1956,51 +1956,6 @@
   },
   {
     "categories": [
-      "misc"
-    ],
-    "compliance": {
-      "grade": "C",
-      "issues": [
-        "smoke",
-        "types"
-      ],
-      "level": 87
-    },
-    "constraints": ">=0.2.4",
-    "description": "Add TypeScript support for k6",
-    "imports": [
-      "k6/x/ts"
-    ],
-    "module": "github.com/grafana/xk6-ts",
-    "products": [
-      "oss"
-    ],
-    "repo": {
-      "clone_url": "https://github.com/grafana/xk6-ts.git",
-      "description": "TypeScript support for k6",
-      "homepage": "https://github.com/grafana/xk6-ts",
-      "license": "AGPL-3.0",
-      "name": "xk6-ts",
-      "owner": "grafana",
-      "public": true,
-      "stars": 19,
-      "timestamp": 1736156242,
-      "topics": [
-        "typescript",
-        "xk6",
-        "xk6-other"
-      ],
-      "url": "https://github.com/grafana/xk6-ts"
-    },
-    "tier": "community",
-    "versions": [
-      "v0.2.6",
-      "v0.2.5",
-      "v0.2.4"
-    ]
-  },
-  {
-    "categories": [
       "messaging",
       "protocol"
     ],
