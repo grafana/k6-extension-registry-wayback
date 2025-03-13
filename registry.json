@@ -1023,7 +1023,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 52,
-      "timestamp": 1741741667,
+      "timestamp": 1741832231,
       "topics": [
         "distributed-tracing",
         "k6",
@@ -1035,6 +1035,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.0.7",
       "v0.0.6",
       "v0.0.5",
       "v0.0.4",
@@ -2420,7 +2421,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 22,
-      "timestamp": 1740603663,
+      "timestamp": 1741831503,
       "topics": [
         "k6",
         "sse",
