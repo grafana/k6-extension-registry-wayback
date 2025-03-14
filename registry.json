@@ -1205,7 +1205,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 76,
-      "timestamp": 1741956473,
+      "timestamp": 1741957440,
       "topics": [
         "xk6"
       ],
@@ -1213,6 +1213,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.4.3",
       "v0.4.2",
       "v0.4.1",
       "v0.4.0"
@@ -1590,7 +1591,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1741954097,
+      "timestamp": 1741959764,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2220,7 +2221,7 @@
       "owner": "mostafa",
       "public": true,
       "stars": 169,
-      "timestamp": 1741956210,
+      "timestamp": 1741960095,
       "topics": [
         "apache-kafka",
         "avro",
@@ -2239,6 +2240,8 @@
     },
     "tier": "community",
     "versions": [
+      "v0.31.5",
+      "v0.31.4",
       "v0.31.3",
       "v0.31.2",
       "v0.31.1",
