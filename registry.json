@@ -290,7 +290,7 @@
       "name": "xk6-proxy",
       "owner": "SYM01",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1718022106,
       "topics": [
         "xk6",
@@ -929,7 +929,7 @@
       "name": "xk6-smtp",
       "owner": "gpiechnik2",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1718012389,
       "topics": [
         "k6",
@@ -1116,7 +1116,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 104,
-      "timestamp": 1741537465,
+      "timestamp": 1742143022,
       "topics": [
         "chaos-engineering",
         "fault-injection",
