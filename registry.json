@@ -70,7 +70,7 @@
       "name": "xk6-mongo",
       "owner": "GhMartingit",
       "public": true,
-      "stars": 10,
+      "stars": 11,
       "timestamp": 1741827166,
       "topics": [
         "extension",
@@ -519,7 +519,7 @@
       "name": "xk6-gcp",
       "owner": "deejiw",
       "public": true,
-      "stars": 7,
+      "stars": 8,
       "timestamp": 1720766307,
       "topics": [
         "gcp",
@@ -1204,7 +1204,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 76,
+      "stars": 77,
       "timestamp": 1741957440,
       "topics": [
         "xk6"
@@ -1553,7 +1553,7 @@
       "name": "xk6-crawler",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1738164417,
       "topics": [
         "xk6"
@@ -1745,7 +1745,7 @@
       "name": "xk6-sql-driver-mysql",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1730817986,
       "topics": [
         "xk6",
@@ -1783,7 +1783,7 @@
       "name": "xk6-sql-driver-postgres",
       "owner": "grafana",
       "public": true,
-      "stars": 5,
+      "stars": 6,
       "timestamp": 1730817988,
       "topics": [
         "xk6",
@@ -2332,7 +2332,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 18,
+      "stars": 19,
       "timestamp": 1741948066,
       "topics": [
         "k6",
@@ -2481,6 +2481,7 @@
       "name": "xk6-git",
       "owner": "skibum55",
       "public": true,
+      "stars": 1,
       "timestamp": 1718012390,
       "topics": [
         "git",
