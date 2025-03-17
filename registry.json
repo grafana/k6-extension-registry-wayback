@@ -1517,6 +1517,7 @@
       "name": "xk6-plugin",
       "owner": "grafana",
       "public": true,
+      "stars": 1,
       "timestamp": 1742218566,
       "topics": [
         "xk6"
