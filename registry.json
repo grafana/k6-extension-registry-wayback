@@ -1501,6 +1501,46 @@
       ],
       "level": 87
     },
+    "description": "Create k6 plugins using JavaScript and Node.js",
+    "imports": [
+      "k6/x/plugin"
+    ],
+    "module": "github.com/grafana/xk6-plugin",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-plugin.git",
+      "description": "Make the Node.js ecosystem available for k6 tests",
+      "homepage": "https://github.com/grafana/xk6-plugin",
+      "license": "AGPL-3.0",
+      "name": "xk6-plugin",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1742218566,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-plugin"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.1.0",
+      "v0.0.1"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "issues": [
+        "smoke",
+        "types"
+      ],
+      "level": 87
+    },
     "description": "Write k6 tests in Python",
     "imports": [
       "k6/x/python"
@@ -2220,7 +2260,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 169,
+      "stars": 170,
       "timestamp": 1741960095,
       "topics": [
         "apache-kafka",
