@@ -960,7 +960,7 @@
       ],
       "level": 87
     },
-    "constraints": ">=0.3.0",
+    "constraints": ">=0.3.2",
     "description": "Test Prometheus Remote Write performance",
     "imports": [
       "k6/x/remotewrite"
@@ -989,9 +989,7 @@
     },
     "tier": "official",
     "versions": [
-      "v0.3.2",
-      "v0.3.1",
-      "v0.3.0"
+      "v0.3.2"
     ]
   },
   {
@@ -1204,7 +1202,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 78,
+      "stars": 79,
       "timestamp": 1741957440,
       "topics": [
         "xk6"
