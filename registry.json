@@ -1204,7 +1204,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 77,
+      "stars": 78,
       "timestamp": 1741957440,
       "topics": [
         "xk6"
@@ -2423,7 +2423,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 22,
-      "timestamp": 1741831503,
+      "timestamp": 1742867155,
       "topics": [
         "k6",
         "sse",
