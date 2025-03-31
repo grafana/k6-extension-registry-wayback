@@ -1631,11 +1631,12 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1743431580,
+      "timestamp": 1743439117,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
     "versions": [
+      "v0.5.1",
       "v0.5.0",
       "v0.4.1",
       "v0.4.0",
