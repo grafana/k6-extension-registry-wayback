@@ -962,7 +962,7 @@
       "level": 87
     },
     "constraints": ">=0.3.2",
-    "description": "Test Prometheus Remote Write performance",
+    "description": "Test Prometheus Remote Write-compatible endpoints",
     "imports": [
       "k6/x/remotewrite"
     ],
@@ -1115,7 +1115,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 104,
-      "timestamp": 1743352183,
+      "timestamp": 1743494870,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1185,7 +1185,7 @@
       "level": 100
     },
     "constraints": ">=0.4.0",
-    "description": "Generate random fake data",
+    "description": "Generate fake data in your tests",
     "imports": [
       "k6/x/faker"
     ],
@@ -1275,7 +1275,7 @@
       ],
       "level": 80
     },
-    "description": "Client for load testing Loki",
+    "description": "Test Grafana Loki log ingestion endpoints",
     "imports": [
       "k6/x/loki"
     ],
@@ -1966,7 +1966,7 @@
       "level": 93
     },
     "constraints": ">=0.1.0",
-    "description": "SSH",
+    "description": "Use SSH connections in your tests",
     "imports": [
       "k6/x/ssh"
     ],
