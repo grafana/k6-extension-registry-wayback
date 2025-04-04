@@ -979,7 +979,7 @@
       "name": "xk6-client-prometheus-remote",
       "owner": "grafana",
       "public": true,
-      "stars": 26,
+      "stars": 27,
       "timestamp": 1718976971,
       "topics": [
         "prometheus",
@@ -1021,7 +1021,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 53,
+      "stars": 54,
       "timestamp": 1741832231,
       "topics": [
         "distributed-tracing",
@@ -1069,7 +1069,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 400,
+      "stars": 401,
       "timestamp": 1739457012,
       "topics": [
         "xk6",
@@ -1114,7 +1114,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 104,
+      "stars": 105,
       "timestamp": 1743494870,
       "topics": [
         "chaos-engineering",
@@ -1162,7 +1162,7 @@
       "name": "xk6-exec",
       "owner": "grafana",
       "public": true,
-      "stars": 23,
+      "stars": 24,
       "timestamp": 1725464620,
       "topics": [
         "exec",
@@ -1203,7 +1203,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 80,
+      "stars": 81,
       "timestamp": 1741957440,
       "topics": [
         "xk6"
@@ -1247,7 +1247,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 69,
+      "stars": 70,
       "timestamp": 1742993766,
       "topics": [
         "kubernetes",
@@ -1292,7 +1292,7 @@
       "name": "xk6-loki",
       "owner": "grafana",
       "public": true,
-      "stars": 44,
+      "stars": 45,
       "timestamp": 1741772660,
       "topics": [
         "k6",
@@ -1335,7 +1335,7 @@
       "name": "xk6-notification",
       "owner": "grafana",
       "public": true,
-      "stars": 20,
+      "stars": 21,
       "timestamp": 1718008202,
       "topics": [
         "k6",
@@ -1377,7 +1377,7 @@
       "name": "xk6-output-influxdb",
       "owner": "grafana",
       "public": true,
-      "stars": 72,
+      "stars": 73,
       "timestamp": 1739442467,
       "topics": [
         "grafana-dashboard",
@@ -1426,7 +1426,7 @@
       "name": "xk6-output-kafka",
       "owner": "grafana",
       "public": true,
-      "stars": 24,
+      "stars": 25,
       "timestamp": 1718012070,
       "topics": [
         "k6",
@@ -1471,7 +1471,7 @@
       "name": "xk6-output-timescaledb",
       "owner": "grafana",
       "public": true,
-      "stars": 32,
+      "stars": 33,
       "timestamp": 1718012137,
       "topics": [
         "grafana-dashboard",
@@ -1516,7 +1516,7 @@
       "name": "xk6-plugin",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1742218566,
       "topics": [
         "xk6"
@@ -1557,7 +1557,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 47,
+      "stars": 48,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1593,7 +1593,7 @@
       "name": "xk6-crawler",
       "owner": "grafana",
       "public": true,
-      "stars": 4,
+      "stars": 5,
       "timestamp": 1738164417,
       "topics": [
         "xk6"
@@ -1630,7 +1630,7 @@
       "name": "xk6-sm",
       "owner": "grafana",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1743727629,
       "url": "https://github.com/grafana/xk6-sm"
     },
@@ -1670,7 +1670,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 140,
+      "stars": 141,
       "timestamp": 1740593488,
       "topics": [
         "k6",
@@ -1713,6 +1713,7 @@
       "name": "xk6-sql-driver-azuresql",
       "owner": "grafana",
       "public": true,
+      "stars": 1,
       "timestamp": 1730817984,
       "topics": [
         "xk6",
@@ -1750,7 +1751,7 @@
       "name": "xk6-sql-driver-clickhouse",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1730817985,
       "topics": [
         "xk6",
@@ -1788,7 +1789,7 @@
       "name": "xk6-sql-driver-mysql",
       "owner": "grafana",
       "public": true,
-      "stars": 3,
+      "stars": 4,
       "timestamp": 1730817986,
       "topics": [
         "xk6",
@@ -1826,7 +1827,7 @@
       "name": "xk6-sql-driver-postgres",
       "owner": "grafana",
       "public": true,
-      "stars": 6,
+      "stars": 7,
       "timestamp": 1730817988,
       "topics": [
         "xk6",
@@ -1865,6 +1866,7 @@
       "name": "xk6-sql-driver-sqlite3",
       "owner": "grafana",
       "public": true,
+      "stars": 1,
       "timestamp": 1730817989,
       "topics": [
         "xk6",
@@ -1902,7 +1904,7 @@
       "name": "xk6-sql-driver-sqlserver",
       "owner": "grafana",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1730817991,
       "topics": [
         "xk6",
@@ -1940,7 +1942,7 @@
       "name": "xk6-sql-driver-ramsql",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1730817900,
       "topics": [
         "xk6",
@@ -1983,7 +1985,7 @@
       "name": "xk6-ssh",
       "owner": "grafana",
       "public": true,
-      "stars": 11,
+      "stars": 12,
       "timestamp": 1737124537,
       "topics": [
         "ssh",
