@@ -1248,7 +1248,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 70,
-      "timestamp": 1742993766,
+      "timestamp": 1743753669,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -1258,6 +1258,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.10.1",
       "v0.10.0"
     ]
   },
