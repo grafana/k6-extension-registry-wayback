@@ -1115,7 +1115,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 105,
-      "timestamp": 1743494870,
+      "timestamp": 1743958063,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1204,7 +1204,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 82,
-      "timestamp": 1741957440,
+      "timestamp": 1743958212,
       "topics": [
         "xk6"
       ],
@@ -1672,7 +1672,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 141,
-      "timestamp": 1740593488,
+      "timestamp": 1743958126,
       "topics": [
         "k6",
         "sql",
