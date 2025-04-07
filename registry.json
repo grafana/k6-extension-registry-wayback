@@ -656,7 +656,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 5,
-      "timestamp": 1743410227,
+      "timestamp": 1744017501,
       "topics": [
         "fasthttpclient",
         "http-client",
@@ -1021,7 +1021,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 54,
+      "stars": 55,
       "timestamp": 1741832231,
       "topics": [
         "distributed-tracing",
