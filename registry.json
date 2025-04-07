@@ -1427,7 +1427,7 @@
       "name": "xk6-output-kafka",
       "owner": "grafana",
       "public": true,
-      "stars": 25,
+      "stars": 26,
       "timestamp": 1718012070,
       "topics": [
         "k6",
