@@ -203,7 +203,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 24,
+      "stars": 25,
       "timestamp": 1738852265,
       "topics": [
         "k6-extension",
