@@ -470,7 +470,7 @@
       "owner": "avitalique",
       "public": true,
       "stars": 28,
-      "timestamp": 1742390295,
+      "timestamp": 1744097361,
       "topics": [
         "k6",
         "k6-extension",
@@ -480,6 +480,7 @@
     },
     "tier": "community",
     "versions": [
+      "v1.5.0",
       "v1.4.2",
       "v1.4.1",
       "v1.4.0",
@@ -1247,7 +1248,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 70,
+      "stars": 71,
       "timestamp": 1743753669,
       "topics": [
         "kubernetes",
