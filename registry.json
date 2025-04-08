@@ -1337,7 +1337,7 @@
       "name": "xk6-notification",
       "owner": "grafana",
       "public": true,
-      "stars": 21,
+      "stars": 22,
       "timestamp": 1718008202,
       "topics": [
         "k6",
@@ -2915,7 +2915,7 @@
       "name": "xk6-top",
       "owner": "szkiba",
       "public": true,
-      "stars": 30,
+      "stars": 31,
       "timestamp": 1742842280,
       "topics": [
         "xk6",
