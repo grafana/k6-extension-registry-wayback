@@ -1070,7 +1070,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 401,
+      "stars": 402,
       "timestamp": 1739457012,
       "topics": [
         "xk6",
@@ -1634,7 +1634,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1744188372,
+      "timestamp": 1744202690,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
