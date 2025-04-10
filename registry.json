@@ -1116,7 +1116,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 105,
-      "timestamp": 1743958063,
+      "timestamp": 1744273051,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1675,7 +1675,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 141,
-      "timestamp": 1743958126,
+      "timestamp": 1744273805,
       "topics": [
         "k6",
         "sql",
@@ -2272,7 +2272,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 170,
+      "stars": 171,
       "timestamp": 1741960095,
       "topics": [
         "apache-kafka",
@@ -2751,7 +2751,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 31,
+      "stars": 32,
       "timestamp": 1739889922,
       "topics": [
         "k6-extension",
