@@ -1908,7 +1908,7 @@
       "name": "xk6-sql-driver-sqlserver",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1730817991,
       "topics": [
         "xk6",
