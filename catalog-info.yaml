@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: k6-extension-registry-wayback
+  title: k6-extension-registry-wayback
+  description: |
+    This repository is used to archive the generated k6 Extension Registry.
+  annotations:
+    backstage.io/techdocs-ref: dir:./doc
+    github.com/project-slug: grafana/k6-extension-registry-wayback
+spec:
+  type: documentation
+  owner: group:default/k6-extensions
+  lifecycle: production
