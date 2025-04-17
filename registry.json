@@ -2123,7 +2123,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1744885606,
+      "timestamp": 1744902326,
       "topics": [
         "k6",
         "k6-extension",
@@ -2273,7 +2273,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 172,
+      "stars": 173,
       "timestamp": 1741960095,
       "topics": [
         "apache-kafka",
