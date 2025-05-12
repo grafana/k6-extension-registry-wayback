@@ -1214,7 +1214,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 91,
-      "timestamp": 1747060435,
+      "timestamp": 1747065851,
       "topics": [
         "xk6"
       ],
@@ -1688,7 +1688,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 145,
-      "timestamp": 1746980761,
+      "timestamp": 1747065887,
       "topics": [
         "k6",
         "sql",
