@@ -1079,7 +1079,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 406,
-      "timestamp": 1746866380,
+      "timestamp": 1747035466,
       "topics": [
         "xk6",
         "xk6-output-dashboard"
@@ -2772,7 +2772,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 34,
+      "stars": 35,
       "timestamp": 1739889922,
       "topics": [
         "k6-extension",
