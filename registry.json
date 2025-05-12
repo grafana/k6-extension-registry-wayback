@@ -35,6 +35,8 @@
     },
     "tier": "official",
     "versions": [
+      "v1.0.0",
+      "v0.59.0",
       "v0.58.0",
       "v0.57.0",
       "v0.56.0",
@@ -71,7 +73,7 @@
       "name": "xk6-mongo",
       "owner": "GhMartingit",
       "public": true,
-      "stars": 11,
+      "stars": 12,
       "timestamp": 1744885617,
       "topics": [
         "extension",
@@ -203,7 +205,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 25,
+      "stars": 26,
       "timestamp": 1738852265,
       "topics": [
         "k6-extension",
@@ -228,8 +230,14 @@
       "observability"
     ],
     "compliance": {
-      "grade": "A",
-      "level": 100
+      "grade": "D",
+      "issues": [
+        "build",
+        "smoke",
+        "examples",
+        "types"
+      ],
+      "level": 64
     },
     "description": "Export results to ClickHouse",
     "module": "github.com/Maksimall89/xk6-output-clickhouse",
@@ -657,7 +665,7 @@
       "owner": "domsolutions",
       "public": true,
       "stars": 5,
-      "timestamp": 1744017501,
+      "timestamp": 1746303025,
       "topics": [
         "fasthttpclient",
         "http-client",
@@ -700,7 +708,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 21,
-      "timestamp": 1744941647,
+      "timestamp": 1746683697,
       "topics": [
         "xk6"
       ],
@@ -981,7 +989,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1718976971,
+      "timestamp": 1745939058,
       "topics": [
         "prometheus",
         "remote-write",
@@ -1023,7 +1031,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 55,
-      "timestamp": 1741832231,
+      "timestamp": 1746740169,
       "topics": [
         "distributed-tracing",
         "k6",
@@ -1070,17 +1078,17 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 403,
-      "timestamp": 1739457012,
+      "stars": 406,
+      "timestamp": 1746866380,
       "topics": [
         "xk6",
-        "xk6-official",
         "xk6-output-dashboard"
       ],
       "url": "https://github.com/grafana/xk6-dashboard"
     },
     "tier": "official",
     "versions": [
+      "v0.7.6",
       "v0.7.5",
       "v0.7.4"
     ]
@@ -1116,7 +1124,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 105,
-      "timestamp": 1745578301,
+      "timestamp": 1746982114,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1163,8 +1171,8 @@
       "name": "xk6-exec",
       "owner": "grafana",
       "public": true,
-      "stars": 24,
-      "timestamp": 1745587689,
+      "stars": 25,
+      "timestamp": 1746693251,
       "topics": [
         "exec",
         "k6",
@@ -1205,8 +1213,8 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 86,
-      "timestamp": 1743958212,
+      "stars": 91,
+      "timestamp": 1746980602,
       "topics": [
         "xk6"
       ],
@@ -1214,6 +1222,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.4.4",
       "v0.4.3",
       "v0.4.2",
       "v0.4.1",
@@ -1250,7 +1259,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 70,
-      "timestamp": 1743753669,
+      "timestamp": 1746606391,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -1295,8 +1304,8 @@
       "name": "xk6-loki",
       "owner": "grafana",
       "public": true,
-      "stars": 46,
-      "timestamp": 1741772660,
+      "stars": 48,
+      "timestamp": 1745874442,
       "topics": [
         "k6",
         "loki",
@@ -1519,8 +1528,8 @@
       "name": "xk6-plugin",
       "owner": "grafana",
       "public": true,
-      "stars": 4,
-      "timestamp": 1742218566,
+      "stars": 3,
+      "timestamp": 1746464200,
       "topics": [
         "xk6"
       ],
@@ -1537,12 +1546,14 @@
       "misc"
     ],
     "compliance": {
-      "grade": "C",
+      "grade": "D",
       "issues": [
+        "build",
         "smoke",
+        "examples",
         "types"
       ],
-      "level": 87
+      "level": 64
     },
     "description": "Write k6 tests in Python",
     "imports": [
@@ -1560,7 +1571,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 54,
+      "stars": 58,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1597,7 +1608,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 5,
-      "timestamp": 1738164417,
+      "timestamp": 1746464032,
       "topics": [
         "xk6"
       ],
@@ -1634,11 +1645,12 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1745412287,
+      "timestamp": 1746783940,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
     "versions": [
+      "v0.5.4",
       "v0.5.3",
       "v0.5.2",
       "v0.5.1",
@@ -1675,8 +1687,8 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 142,
-      "timestamp": 1744276661,
+      "stars": 145,
+      "timestamp": 1746980761,
       "topics": [
         "k6",
         "sql",
@@ -1686,6 +1698,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.0.5",
       "v1.0.4",
       "v1.0.3",
       "v1.0.2",
@@ -1719,7 +1732,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1730817984,
+      "timestamp": 1746717177,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1757,7 +1770,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 4,
-      "timestamp": 1730817985,
+      "timestamp": 1746717161,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1795,7 +1808,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 4,
-      "timestamp": 1730817986,
+      "timestamp": 1746717166,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1833,7 +1846,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 7,
-      "timestamp": 1745587166,
+      "timestamp": 1746717146,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1872,7 +1885,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 1,
-      "timestamp": 1730817989,
+      "timestamp": 1746717153,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1910,7 +1923,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 3,
-      "timestamp": 1730817991,
+      "timestamp": 1746717170,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1948,7 +1961,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 3,
-      "timestamp": 1730817900,
+      "timestamp": 1746803274,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1991,7 +2004,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1737124537,
+      "timestamp": 1746983026,
       "topics": [
         "ssh",
         "ssh-client",
@@ -2001,6 +2014,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.1.2",
       "v0.1.1",
       "v0.1.0"
     ]
@@ -2124,7 +2138,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1745614462,
+      "timestamp": 1746915027,
       "topics": [
         "k6",
         "k6-extension",
@@ -2137,6 +2151,10 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.91",
+      "v0.9.90",
+      "v0.9.89",
+      "v0.9.88",
       "v0.9.87",
       "v0.9.86",
       "v0.9.85",
@@ -2274,7 +2292,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 174,
+      "stars": 175,
       "timestamp": 1741960095,
       "topics": [
         "apache-kafka",
@@ -2331,7 +2349,7 @@
       "name": "xk6-playwright",
       "owner": "nicholasvuono",
       "public": true,
-      "stars": 53,
+      "stars": 54,
       "timestamp": 1718038324,
       "topics": [
         "browser-automation",
@@ -2386,7 +2404,7 @@
       "name": "xk6-kv",
       "owner": "oleiade",
       "public": true,
-      "stars": 20,
+      "stars": 21,
       "timestamp": 1741948066,
       "topics": [
         "k6",
@@ -2434,8 +2452,8 @@
       "name": "xk6-sse",
       "owner": "phymbert",
       "public": true,
-      "stars": 23,
-      "timestamp": 1744845021,
+      "stars": 24,
+      "timestamp": 1746491636,
       "topics": [
         "k6",
         "sse",
@@ -2488,7 +2506,7 @@
       "name": "xk6-mqtt",
       "owner": "pmalhaire",
       "public": true,
-      "stars": 54,
+      "stars": 55,
       "timestamp": 1744565082,
       "topics": [
         "mqtt",
@@ -2754,7 +2772,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 33,
+      "stars": 34,
       "timestamp": 1739889922,
       "topics": [
         "k6-extension",
@@ -2834,8 +2852,8 @@
       "name": "xk6-prometheus",
       "owner": "szkiba",
       "public": true,
-      "stars": 53,
-      "timestamp": 1739889774,
+      "stars": 52,
+      "timestamp": 1746595141,
       "topics": [
         "prometheus",
         "prometheus-exporter",
@@ -2920,7 +2938,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 31,
-      "timestamp": 1742842280,
+      "timestamp": 1746471576,
       "topics": [
         "xk6",
         "xk6-output-top"
@@ -3006,7 +3024,7 @@
       "name": "xk6-opentelemetry",
       "owner": "thmshmm",
       "public": true,
-      "stars": 28,
+      "stars": 30,
       "timestamp": 1719392155,
       "topics": [
         "k6",
@@ -3201,6 +3219,56 @@
     "tier": "community",
     "versions": [
       "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "protocol",
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "issues": [
+        "smoke",
+        "types"
+      ],
+      "level": 87
+    },
+    "description": "SFTP extension for k6",
+    "imports": [
+      "k6/x/sftp"
+    ],
+    "module": "github.com/ogarciacar/xk6-sftp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/ogarciacar/xk6-sftp.git",
+      "description": "xk6 extension for load testing SFTP servers",
+      "homepage": "https://github.com/ogarciacar/xk6-sftp",
+      "license": "Apache-2.0",
+      "name": "xk6-sftp",
+      "owner": "ogarciacar",
+      "public": true,
+      "stars": 1,
+      "timestamp": 1746803197,
+      "topics": [
+        "k6",
+        "sftp",
+        "sftp-client",
+        "sftp-download",
+        "sftp-upload",
+        "xk6"
+      ],
+      "url": "https://github.com/ogarciacar/xk6-sftp"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.1.2",
+      "v1.1.1",
+      "v1.1.0",
+      "v1.0.1",
+      "v1.0.0"
     ]
   }
 ]
