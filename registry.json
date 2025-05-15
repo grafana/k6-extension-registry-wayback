@@ -708,7 +708,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 21,
-      "timestamp": 1746683697,
+      "timestamp": 1747266498,
       "topics": [
         "xk6"
       ],
@@ -1688,7 +1688,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 145,
+      "stars": 146,
       "timestamp": 1747065887,
       "topics": [
         "k6",
@@ -2239,7 +2239,7 @@
       "name": "xk6-output-prometheus-pushgateway",
       "owner": "martymarron",
       "public": true,
-      "stars": 13,
+      "stars": 14,
       "timestamp": 1722231073,
       "topics": [
         "grafana",
