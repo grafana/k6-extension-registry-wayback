@@ -989,7 +989,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1745939058,
+      "timestamp": 1747407243,
       "topics": [
         "prometheus",
         "remote-write",
