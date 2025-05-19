@@ -1390,7 +1390,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 73,
-      "timestamp": 1747319782,
+      "timestamp": 1747670113,
       "topics": [
         "grafana-dashboard",
         "influxdb",
@@ -1645,7 +1645,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1747657002,
+      "timestamp": 1747671349,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
