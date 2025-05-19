@@ -1031,7 +1031,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 55,
-      "timestamp": 1747657808,
+      "timestamp": 1747681162,
       "topics": [
         "distributed-tracing",
         "k6",
@@ -1571,7 +1571,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 58,
+      "stars": 59,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
@@ -1645,7 +1645,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1747671349,
+      "timestamp": 1747685735,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
