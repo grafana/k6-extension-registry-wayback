@@ -340,7 +340,7 @@
       "name": "xk6-read",
       "owner": "acuenca-facephi",
       "public": true,
-      "stars": 3,
+      "stars": 4,
       "timestamp": 1721983985,
       "topics": [
         "k6",
@@ -1688,7 +1688,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 148,
+      "stars": 149,
       "timestamp": 1747631596,
       "topics": [
         "k6",
@@ -2728,7 +2728,7 @@
       "name": "xk6-dotenv",
       "owner": "szkiba",
       "public": true,
-      "stars": 32,
+      "stars": 33,
       "timestamp": 1739889588,
       "topics": [
         "xk6"
