@@ -1213,7 +1213,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 92,
+      "stars": 93,
       "timestamp": 1747651021,
       "topics": [
         "xk6"
@@ -2139,7 +2139,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1748572976,
+      "timestamp": 1748588663,
       "topics": [
         "k6",
         "k6-extension",
