@@ -1389,7 +1389,7 @@
       "name": "xk6-output-influxdb",
       "owner": "grafana",
       "public": true,
-      "stars": 74,
+      "stars": 75,
       "timestamp": 1747670113,
       "topics": [
         "grafana-dashboard",
