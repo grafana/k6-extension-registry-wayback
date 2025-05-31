@@ -708,7 +708,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 21,
-      "timestamp": 1748633587,
+      "timestamp": 1748730493,
       "topics": [
         "xk6"
       ],
@@ -1688,7 +1688,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 150,
+      "stars": 151,
       "timestamp": 1747631596,
       "topics": [
         "k6",
@@ -2139,7 +2139,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1748657313,
+      "timestamp": 1748730352,
       "topics": [
         "k6",
         "k6-extension",
