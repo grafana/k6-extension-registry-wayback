@@ -1078,7 +1078,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 413,
+      "stars": 414,
       "timestamp": 1747639025,
       "topics": [
         "xk6",
@@ -1213,7 +1213,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 94,
+      "stars": 95,
       "timestamp": 1747651021,
       "topics": [
         "xk6"
