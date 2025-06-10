@@ -205,7 +205,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 26,
+      "stars": 27,
       "timestamp": 1738852265,
       "topics": [
         "k6-extension",
@@ -1123,7 +1123,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 106,
+      "stars": 107,
       "timestamp": 1749400519,
       "topics": [
         "chaos-engineering",
@@ -3029,7 +3029,7 @@
       "name": "xk6-opentelemetry",
       "owner": "thmshmm",
       "public": true,
-      "stars": 30,
+      "stars": 31,
       "timestamp": 1719392155,
       "topics": [
         "k6",
