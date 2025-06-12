@@ -1030,7 +1030,7 @@
       "name": "xk6-client-tracing",
       "owner": "grafana",
       "public": true,
-      "stars": 55,
+      "stars": 56,
       "timestamp": 1748871862,
       "topics": [
         "distributed-tracing",
