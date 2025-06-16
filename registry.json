@@ -73,7 +73,7 @@
       "name": "xk6-mongo",
       "owner": "GhMartingit",
       "public": true,
-      "stars": 12,
+      "stars": 13,
       "timestamp": 1744885617,
       "topics": [
         "extension",
@@ -1124,7 +1124,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 108,
-      "timestamp": 1749400519,
+      "timestamp": 1750077161,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1390,7 +1390,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 75,
-      "timestamp": 1749648540,
+      "timestamp": 1750078283,
       "topics": [
         "grafana-dashboard",
         "influxdb",
@@ -1402,6 +1402,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.7.0",
       "v0.6.0",
       "v0.5.0"
     ]
@@ -1810,7 +1811,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 4,
-      "timestamp": 1750069965,
+      "timestamp": 1750077014,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -2006,7 +2007,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1750069584,
+      "timestamp": 1750076471,
       "topics": [
         "ssh",
         "ssh-client",
