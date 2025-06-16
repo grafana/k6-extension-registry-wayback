@@ -1304,7 +1304,7 @@
       "name": "xk6-loki",
       "owner": "grafana",
       "public": true,
-      "stars": 48,
+      "stars": 49,
       "timestamp": 1745874442,
       "topics": [
         "k6",
@@ -1571,7 +1571,7 @@
       "name": "xk6-python",
       "owner": "grafana",
       "public": true,
-      "stars": 65,
+      "stars": 66,
       "timestamp": 1726647316,
       "topics": [
         "xk6"
