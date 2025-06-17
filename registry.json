@@ -15,8 +15,8 @@
       "oss"
     ],
     "repo": {
-      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
-      "homepage": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript",
+      "homepage": "https://grafana.com/oss/k6/",
       "license": "AGPL-3.0",
       "name": "k6",
       "owner": "grafana",
