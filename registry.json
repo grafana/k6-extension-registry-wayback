@@ -1123,7 +1123,7 @@
       "name": "xk6-disruptor",
       "owner": "grafana",
       "public": true,
-      "stars": 108,
+      "stars": 109,
       "timestamp": 1750094175,
       "topics": [
         "chaos-engineering",
@@ -2141,7 +2141,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1750203056,
+      "timestamp": 1750209727,
       "topics": [
         "k6",
         "k6-extension",
@@ -2154,6 +2154,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.95",
       "v0.9.94",
       "v0.9.93",
       "v0.9.92",
@@ -2459,7 +2460,7 @@
       "name": "xk6-sse",
       "owner": "phymbert",
       "public": true,
-      "stars": 24,
+      "stars": 25,
       "timestamp": 1749234832,
       "topics": [
         "k6",
