@@ -1811,7 +1811,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 4,
-      "timestamp": 1750077014,
+      "timestamp": 1750309399,
       "topics": [
         "xk6",
         "xk6-sql-driver"
@@ -1820,6 +1820,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.2.0",
       "v0.1.0"
     ]
   },
