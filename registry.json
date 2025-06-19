@@ -2008,7 +2008,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1750323081,
+      "timestamp": 1750348618,
       "topics": [
         "ssh",
         "ssh-client",
@@ -2018,6 +2018,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.1.3",
       "v0.1.2",
       "v0.1.1",
       "v0.1.0"
