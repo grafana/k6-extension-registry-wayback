@@ -3281,5 +3281,47 @@
       "v1.0.1",
       "v1.0.0"
     ]
+  },
+  {
+    "categories": [
+      "protocol"
+    ],
+    "compliance": {
+      "grade": "C",
+      "issues": [
+        "smoke",
+        "types"
+      ],
+      "level": 87
+    },
+    "description": "To publish and consume messages using AMQP protocol",
+    "imports": [
+      "k6/x/amqp"
+    ],
+    "module": "github.com/prmuthu/xk6-amqp",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/prmuthu/xk6-amqp.git",
+      "description": "A k6 extension for publishing and consuming messages from queues using AMQP 1.0",
+      "homepage": "https://github.com/prmuthu/xk6-amqp",
+      "license": "Apache-2.0",
+      "name": "xk6-amqp",
+      "owner": "prmuthu",
+      "public": true,
+      "timestamp": 1744708257,
+      "topics": [
+        "xk6"
+      ],
+      "url": "https://github.com/prmuthu/xk6-amqp"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.4",
+      "v0.0.3",
+      "v0.0.2",
+      "v0.0.1"
+    ]
   }
 ]
