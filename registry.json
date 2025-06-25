@@ -35,6 +35,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.1.0",
       "v1.0.0",
       "v0.59.0",
       "v0.58.0",
@@ -2009,7 +2010,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1750845051,
+      "timestamp": 1750850059,
       "topics": [
         "ssh",
         "ssh-client",
@@ -2302,7 +2303,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 179,
+      "stars": 180,
       "timestamp": 1748449946,
       "topics": [
         "apache-kafka",
