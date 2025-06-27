@@ -1079,7 +1079,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 420,
+      "stars": 421,
       "timestamp": 1750069326,
       "topics": [
         "xk6",
@@ -2145,7 +2145,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1751051859,
+      "timestamp": 1751063819,
       "topics": [
         "k6",
         "k6-extension",
