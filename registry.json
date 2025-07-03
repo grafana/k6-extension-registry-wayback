@@ -206,7 +206,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 28,
+      "stars": 29,
       "timestamp": 1738852265,
       "topics": [
         "k6-extension",
@@ -1125,7 +1125,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 109,
-      "timestamp": 1751213562,
+      "timestamp": 1751553656,
       "topics": [
         "chaos-engineering",
         "fault-injection",
