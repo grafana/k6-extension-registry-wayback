@@ -1080,7 +1080,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 422,
-      "timestamp": 1751276872,
+      "timestamp": 1751636703,
       "topics": [
         "xk6",
         "xk6-output-dashboard"
@@ -1125,7 +1125,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 109,
-      "timestamp": 1751633674,
+      "timestamp": 1751639116,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1215,7 +1215,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 97,
-      "timestamp": 1751169276,
+      "timestamp": 1751636343,
       "topics": [
         "xk6"
       ],
@@ -1548,14 +1548,12 @@
       "misc"
     ],
     "compliance": {
-      "grade": "D",
+      "grade": "C",
       "issues": [
-        "build",
         "smoke",
-        "examples",
         "types"
       ],
-      "level": 64
+      "level": 87
     },
     "description": "Write k6 tests in Python",
     "imports": [
@@ -1574,7 +1572,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 66,
-      "timestamp": 1726647316,
+      "timestamp": 1751637173,
       "topics": [
         "xk6"
       ],
@@ -1693,7 +1691,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 154,
-      "timestamp": 1751230492,
+      "timestamp": 1751636289,
       "topics": [
         "k6",
         "sql",
@@ -2010,7 +2008,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1751217363,
+      "timestamp": 1751637352,
       "topics": [
         "ssh",
         "ssh-client",
