@@ -1080,7 +1080,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 422,
-      "timestamp": 1751636703,
+      "timestamp": 1751647481,
       "topics": [
         "xk6",
         "xk6-output-dashboard"
@@ -1089,6 +1089,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.7.7",
       "v0.7.6",
       "v0.7.5",
       "v0.7.4"
@@ -1125,7 +1126,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 109,
-      "timestamp": 1751639116,
+      "timestamp": 1751643706,
       "topics": [
         "chaos-engineering",
         "fault-injection",
