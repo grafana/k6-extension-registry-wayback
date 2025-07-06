@@ -1691,7 +1691,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 154,
+      "stars": 153,
       "timestamp": 1751636289,
       "topics": [
         "k6",
