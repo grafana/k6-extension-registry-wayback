@@ -1261,7 +1261,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 70,
-      "timestamp": 1750069371,
+      "timestamp": 1751886635,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -1646,7 +1646,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1751876183,
+      "timestamp": 1751891977,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
