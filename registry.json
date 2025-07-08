@@ -1126,7 +1126,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 109,
-      "timestamp": 1751977880,
+      "timestamp": 1751985674,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1216,7 +1216,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 97,
+      "stars": 98,
       "timestamp": 1751636343,
       "topics": [
         "xk6"
@@ -1693,7 +1693,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 153,
+      "stars": 154,
       "timestamp": 1751636289,
       "topics": [
         "k6",
@@ -1737,7 +1737,7 @@
       "name": "xk6-sql-driver-azuresql",
       "owner": "grafana",
       "public": true,
-      "stars": 1,
+      "stars": 2,
       "timestamp": 1751872653,
       "topics": [
         "xk6",
@@ -1855,7 +1855,7 @@
       "name": "xk6-sql-driver-postgres",
       "owner": "grafana",
       "public": true,
-      "stars": 7,
+      "stars": 8,
       "timestamp": 1751877952,
       "topics": [
         "xk6",
@@ -1934,7 +1934,7 @@
       "name": "xk6-sql-driver-sqlserver",
       "owner": "grafana",
       "public": true,
-      "stars": 3,
+      "stars": 4,
       "timestamp": 1751878610,
       "topics": [
         "xk6",
