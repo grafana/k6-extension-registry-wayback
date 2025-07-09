@@ -1080,7 +1080,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 425,
-      "timestamp": 1751882595,
+      "timestamp": 1752071144,
       "topics": [
         "xk6",
         "xk6-output-dashboard"
@@ -1126,7 +1126,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 109,
-      "timestamp": 1752052060,
+      "timestamp": 1752065378,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1322,51 +1322,6 @@
     "versions": [
       "v1.0.1",
       "v1.0.0"
-    ]
-  },
-  {
-    "categories": [
-      "reporting"
-    ],
-    "compliance": {
-      "grade": "C",
-      "issues": [
-        "smoke",
-        "types"
-      ],
-      "level": 87
-    },
-    "description": "Create notifications",
-    "imports": [
-      "k6/x/notification"
-    ],
-    "module": "github.com/grafana/xk6-notification",
-    "products": [
-      "oss"
-    ],
-    "repo": {
-      "clone_url": "https://github.com/grafana/xk6-notification.git",
-      "description": "A k6 extension for creating notifications. ",
-      "homepage": "https://github.com/grafana/xk6-notification",
-      "license": "Apache-2.0",
-      "name": "xk6-notification",
-      "owner": "grafana",
-      "public": true,
-      "stars": 22,
-      "timestamp": 1718008202,
-      "topics": [
-        "k6",
-        "k6-extension",
-        "shoutrrr",
-        "xk6"
-      ],
-      "url": "https://github.com/grafana/xk6-notification"
-    },
-    "tier": "community",
-    "versions": [
-      "v0.1.2",
-      "v0.1.1",
-      "v0.1.0"
     ]
   },
   {
