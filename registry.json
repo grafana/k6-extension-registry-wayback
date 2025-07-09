@@ -1695,7 +1695,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 154,
+      "stars": 155,
       "timestamp": 1751636289,
       "topics": [
         "k6",
@@ -2795,7 +2795,7 @@
       "name": "xk6-g0",
       "owner": "szkiba",
       "public": true,
-      "stars": 38,
+      "stars": 39,
       "timestamp": 1739889922,
       "topics": [
         "k6-extension",
