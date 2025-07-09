@@ -1126,7 +1126,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 109,
-      "timestamp": 1751993666,
+      "timestamp": 1752052060,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1217,7 +1217,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 98,
+      "stars": 99,
       "timestamp": 1751636343,
       "topics": [
         "xk6"
