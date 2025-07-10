@@ -1534,7 +1534,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 66,
-      "timestamp": 1751637173,
+      "timestamp": 1752165759,
       "topics": [
         "xk6"
       ],
@@ -3005,7 +3005,7 @@
       "name": "xk6-opentelemetry",
       "owner": "thmshmm",
       "public": true,
-      "stars": 31,
+      "stars": 32,
       "timestamp": 1719392155,
       "topics": [
         "k6",
