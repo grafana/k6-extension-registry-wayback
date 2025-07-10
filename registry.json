@@ -1534,7 +1534,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 66,
-      "timestamp": 1752165759,
+      "timestamp": 1752166589,
       "topics": [
         "xk6"
       ],
@@ -2112,7 +2112,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1752008351,
+      "timestamp": 1752166555,
       "topics": [
         "k6",
         "k6-extension",
