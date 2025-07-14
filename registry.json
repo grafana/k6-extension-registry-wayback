@@ -1265,7 +1265,7 @@
       "name": "xk6-kubernetes",
       "owner": "grafana",
       "public": true,
-      "stars": 70,
+      "stars": 71,
       "timestamp": 1751971802,
       "topics": [
         "kubernetes",
@@ -2112,7 +2112,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1752462453,
+      "timestamp": 1752472207,
       "topics": [
         "k6",
         "k6-extension",
