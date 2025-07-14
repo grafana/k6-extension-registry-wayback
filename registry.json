@@ -1643,7 +1643,8 @@
     ],
     "module": "github.com/grafana/xk6-sql",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql.git",
@@ -1687,7 +1688,8 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-azuresql",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-azuresql.git",
@@ -1726,7 +1728,8 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-clickhouse",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-clickhouse.git",
@@ -1765,7 +1768,8 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-mysql",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-mysql.git",
@@ -1805,7 +1809,8 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-postgres",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-postgres.git",
@@ -1884,7 +1889,8 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-sqlserver",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-sqlserver.git",
@@ -1923,7 +1929,8 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-ramsql",
     "products": [
-      "oss"
+      "oss",
+      "cloud"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-ramsql.git",
@@ -1977,7 +1984,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1752428121,
+      "timestamp": 1752476357,
       "topics": [
         "ssh",
         "ssh-client",
