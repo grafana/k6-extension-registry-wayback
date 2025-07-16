@@ -1312,7 +1312,7 @@
       "name": "xk6-loki",
       "owner": "grafana",
       "public": true,
-      "stars": 52,
+      "stars": 51,
       "timestamp": 1745874442,
       "topics": [
         "k6",
