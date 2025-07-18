@@ -1079,7 +1079,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 427,
+      "stars": 428,
       "timestamp": 1752826302,
       "topics": [
         "xk6",
@@ -1347,7 +1347,7 @@
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-output-influxdb.git",
-      "description": "k6 extension to output real-time test metrics to an InfluxDB 2.x database.",
+      "description": "k6 extension to output real-time test metrics to an InfluxDB 2.x database",
       "homepage": "https://github.com/grafana/xk6-output-influxdb",
       "license": "Apache-2.0",
       "name": "xk6-output-influxdb",
