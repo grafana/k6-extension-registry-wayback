@@ -27,6 +27,7 @@
         "golang",
         "hacktoberfest",
         "javascript",
+        "k6",
         "load-generator",
         "load-testing",
         "performance"
@@ -1658,7 +1659,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 157,
+      "stars": 158,
       "timestamp": 1753043050,
       "topics": [
         "k6",
