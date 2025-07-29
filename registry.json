@@ -3308,5 +3308,53 @@
       "v0.0.2",
       "v0.0.1"
     ]
+  },
+  {
+    "categories": [
+      "protocol",
+      "data"
+    ],
+    "compliance": {
+      "grade": "C",
+      "issues": [
+        "smoke",
+        "types"
+      ],
+      "level": 87
+    },
+    "description": "Load-testing for the LDAP protocol",
+    "imports": [
+      "k6/x/ldap"
+    ],
+    "module": "github.com/kressnick25/xk6-ldap",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/kressnick25/xk6-ldap.git",
+      "description": "K6 extension for LDAP protocol",
+      "homepage": "https://github.com/kressnick25/xk6-ldap",
+      "license": "Apache-2.0",
+      "name": "xk6-ldap",
+      "owner": "kressnick25",
+      "public": true,
+      "timestamp": 1753671949,
+      "topics": [
+        "xk6",
+        "xk6-extension"
+      ],
+      "url": "https://github.com/kressnick25/xk6-ldap"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.4.0",
+      "v0.3.1",
+      "v0.3.0",
+      "v0.2.3",
+      "v0.2.2",
+      "v0.2.1",
+      "v0.2.0",
+      "v0.1.0"
+    ]
   }
 ]
