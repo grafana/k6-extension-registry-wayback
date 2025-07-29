@@ -1081,7 +1081,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 429,
-      "timestamp": 1753728451,
+      "timestamp": 1753729396,
       "topics": [
         "xk6",
         "xk6-output-dashboard"
@@ -1090,6 +1090,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.7.11",
       "v0.7.10",
       "v0.7.9",
       "v0.7.8",
@@ -1223,7 +1224,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 102,
-      "timestamp": 1752981797,
+      "timestamp": 1753728690,
       "topics": [
         "xk6"
       ],
@@ -1660,7 +1661,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 158,
-      "timestamp": 1753043050,
+      "timestamp": 1753728734,
       "topics": [
         "k6",
         "sql",
@@ -1989,7 +1990,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1753032953,
+      "timestamp": 1753728774,
       "topics": [
         "ssh",
         "ssh-client",
@@ -2124,7 +2125,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 18,
-      "timestamp": 1753550925,
+      "timestamp": 1753742059,
       "topics": [
         "k6",
         "k6-extension",
@@ -2137,6 +2138,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.98",
       "v0.9.97",
       "v0.9.96",
       "v0.9.95",
