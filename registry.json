@@ -1033,7 +1033,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 58,
-      "timestamp": 1753716003,
+      "timestamp": 1754325723,
       "topics": [
         "distributed-tracing",
         "k6",
@@ -1610,7 +1610,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1753812200,
+      "timestamp": 1754326153,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
