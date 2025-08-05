@@ -3,7 +3,7 @@
     "categories": [
       "misc"
     ],
-    "constraints": ">=0.55.0",
+    "constraints": ">=1.0.0",
     "description": "A modern load testing tool, using Go and JavaScript",
     "imports": [
       "k6"
@@ -37,14 +37,7 @@
     "tier": "official",
     "versions": [
       "v1.1.0",
-      "v1.0.0",
-      "v0.59.0",
-      "v0.58.0",
-      "v0.57.0",
-      "v0.56.0",
-      "v0.55.2",
-      "v0.55.1",
-      "v0.55.0"
+      "v1.0.0"
     ]
   },
   {
