@@ -2445,7 +2445,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 26,
-      "timestamp": 1754383016,
+      "timestamp": 1754386926,
       "topics": [
         "k6",
         "sse",
@@ -2457,6 +2457,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.1.11",
       "v0.1.10",
       "v0.1.9",
       "v0.1.8",
