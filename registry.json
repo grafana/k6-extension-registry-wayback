@@ -1654,7 +1654,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 159,
+      "stars": 160,
       "timestamp": 1753728734,
       "topics": [
         "k6",
@@ -1900,7 +1900,7 @@
       "name": "xk6-sql-driver-sqlserver",
       "owner": "grafana",
       "public": true,
-      "stars": 4,
+      "stars": 5,
       "timestamp": 1751878610,
       "topics": [
         "xk6",
