@@ -1929,8 +1929,7 @@
     ],
     "module": "github.com/grafana/xk6-sql-driver-ramsql",
     "products": [
-      "oss",
-      "cloud"
+      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-ramsql.git",
