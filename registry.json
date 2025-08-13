@@ -202,7 +202,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 29,
+      "stars": 30,
       "timestamp": 1738852265,
       "topics": [
         "k6-extension",
@@ -2100,14 +2100,8 @@
       "data"
     ],
     "compliance": {
-      "grade": "D",
-      "issues": [
-        "build",
-        "smoke",
-        "examples",
-        "types"
-      ],
-      "level": 64
+      "grade": "A",
+      "level": 100
     },
     "constraints": ">=0.9.80",
     "description": "Export results to AWS Timestream",
@@ -2127,7 +2121,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 16,
-      "timestamp": 1755079481,
+      "timestamp": 1755100627,
       "topics": [
         "k6",
         "k6-extension",
@@ -3322,14 +3316,12 @@
       "data"
     ],
     "compliance": {
-      "grade": "D",
+      "grade": "C",
       "issues": [
-        "build",
         "smoke",
-        "examples",
         "types"
       ],
-      "level": 64
+      "level": 87
     },
     "description": "Load-testing for the LDAP protocol",
     "imports": [
@@ -3347,7 +3339,7 @@
       "name": "xk6-ldap",
       "owner": "kressnick25",
       "public": true,
-      "timestamp": 1755081173,
+      "timestamp": 1755101168,
       "topics": [
         "xk6",
         "xk6-extension"
