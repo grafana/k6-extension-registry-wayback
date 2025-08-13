@@ -36,6 +36,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.2.1",
       "v1.2.0",
       "v1.1.0",
       "v1.0.0"
@@ -1310,7 +1311,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 51,
-      "timestamp": 1745874442,
+      "timestamp": 1755086307,
       "topics": [
         "k6",
         "loki",
@@ -1604,7 +1605,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1755045570,
+      "timestamp": 1755087420,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
