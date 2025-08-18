@@ -2287,7 +2287,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 185,
+      "stars": 186,
       "timestamp": 1751383042,
       "topics": [
         "apache-kafka",
@@ -3356,6 +3356,57 @@
       "v0.2.2",
       "v0.2.1",
       "v0.2.0",
+      "v0.1.0"
+    ]
+  },
+  {
+    "categories": [
+      "data",
+      "misc"
+    ],
+    "compliance": {
+      "grade": "C",
+      "issues": [
+        "smoke",
+        "types"
+      ],
+      "level": 87
+    },
+    "description": "k6 extension for generating HIPAA X12 EDI transactions for healthcare load testing",
+    "imports": [
+      "k6/x/edi"
+    ],
+    "module": "github.com/copyleftdev/xk6-edi",
+    "products": [
+      "oss"
+    ],
+    "repo": {
+      "clone_url": "https://github.com/copyleftdev/xk6-edi.git",
+      "description": "k6 extension for generating HIPAA X12 EDI transactions for healthcare load testing. Supports 837P/837D claims, 835 payments, 270/271 eligibility, and 276/277 claim status with HIPAA 5010 compliance.",
+      "homepage": "https://github.com/copyleftdev/xk6-edi",
+      "license": "MIT",
+      "name": "xk6-edi",
+      "owner": "copyleftdev",
+      "public": true,
+      "timestamp": 1755511495,
+      "topics": [
+        "claims",
+        "edi",
+        "eligibility",
+        "extension",
+        "golang",
+        "healthcare",
+        "hipaa",
+        "k6",
+        "load-testing",
+        "synthetic-data",
+        "x12",
+        "xk6"
+      ],
+      "url": "https://github.com/copyleftdev/xk6-edi"
+    },
+    "tier": "community",
+    "versions": [
       "v0.1.0"
     ]
   }
