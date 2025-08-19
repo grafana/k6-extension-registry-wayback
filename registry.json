@@ -36,6 +36,7 @@
     },
     "tier": "official",
     "versions": [
+      "v1.2.2",
       "v1.2.1",
       "v1.2.0",
       "v1.1.0",
@@ -1177,7 +1178,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1751963009,
+      "timestamp": 1755607747,
       "topics": [
         "exec",
         "k6",
@@ -1264,7 +1265,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 72,
-      "timestamp": 1755593171,
+      "timestamp": 1755605255,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -1605,7 +1606,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1755563889,
+      "timestamp": 1755605836,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1987,7 +1988,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1755450294,
+      "timestamp": 1755604635,
       "topics": [
         "ssh",
         "ssh-client",
