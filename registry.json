@@ -705,7 +705,7 @@
       "name": "xk6-output-elasticsearch",
       "owner": "elastic",
       "public": true,
-      "stars": 21,
+      "stars": 22,
       "timestamp": 1755126198,
       "topics": [
         "xk6"
@@ -1178,7 +1178,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1755607747,
+      "timestamp": 1755612525,
       "topics": [
         "exec",
         "k6",
@@ -1606,7 +1606,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1755605836,
+      "timestamp": 1755634576,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2123,7 +2123,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 16,
-      "timestamp": 1755499616,
+      "timestamp": 1755631965,
       "topics": [
         "k6",
         "k6-extension",
@@ -2289,7 +2289,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 186,
+      "stars": 187,
       "timestamp": 1751383042,
       "topics": [
         "apache-kafka",
@@ -3342,7 +3342,7 @@
       "name": "xk6-ldap",
       "owner": "kressnick25",
       "public": true,
-      "timestamp": 1755350547,
+      "timestamp": 1755630926,
       "topics": [
         "xk6",
         "xk6-extension"
