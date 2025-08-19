@@ -1075,7 +1075,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 435,
+      "stars": 436,
       "timestamp": 1755546180,
       "topics": [
         "xk6",
@@ -1126,7 +1126,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 111,
-      "timestamp": 1755582367,
+      "timestamp": 1755592430,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1264,7 +1264,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 72,
-      "timestamp": 1755447869,
+      "timestamp": 1755593171,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -2450,7 +2450,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 27,
-      "timestamp": 1754989771,
+      "timestamp": 1755597955,
       "topics": [
         "k6",
         "sse",
