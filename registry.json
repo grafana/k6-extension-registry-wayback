@@ -706,7 +706,7 @@
       "owner": "elastic",
       "public": true,
       "stars": 22,
-      "timestamp": 1755126198,
+      "timestamp": 1755693008,
       "topics": [
         "xk6"
       ],
@@ -1178,7 +1178,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1755684084,
+      "timestamp": 1755692210,
       "topics": [
         "exec",
         "k6",
