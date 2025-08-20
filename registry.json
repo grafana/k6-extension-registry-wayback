@@ -1178,7 +1178,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1755692210,
+      "timestamp": 1755704104,
       "topics": [
         "exec",
         "k6",
@@ -1606,7 +1606,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1755650178,
+      "timestamp": 1755720948,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2853,7 +2853,7 @@
       "name": "xk6-prometheus",
       "owner": "szkiba",
       "public": true,
-      "stars": 52,
+      "stars": 53,
       "timestamp": 1746595141,
       "topics": [
         "prometheus",
