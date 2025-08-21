@@ -1076,7 +1076,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 436,
+      "stars": 437,
       "timestamp": 1755546180,
       "topics": [
         "xk6",
@@ -2452,7 +2452,7 @@
       "name": "xk6-sse",
       "owner": "phymbert",
       "public": true,
-      "stars": 27,
+      "stars": 28,
       "timestamp": 1755597955,
       "topics": [
         "k6",
