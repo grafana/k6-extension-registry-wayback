@@ -987,7 +987,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1750926977,
+      "timestamp": 1755852702,
       "topics": [
         "prometheus",
         "remote-write",
@@ -2453,7 +2453,7 @@
       "name": "xk6-sse",
       "owner": "phymbert",
       "public": true,
-      "stars": 28,
+      "stars": 29,
       "timestamp": 1755597955,
       "topics": [
         "k6",
