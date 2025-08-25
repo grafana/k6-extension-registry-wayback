@@ -986,7 +986,7 @@
       "name": "xk6-client-prometheus-remote",
       "owner": "grafana",
       "public": true,
-      "stars": 27,
+      "stars": 28,
       "timestamp": 1755852702,
       "topics": [
         "prometheus",
