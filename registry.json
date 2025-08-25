@@ -1220,7 +1220,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 105,
-      "timestamp": 1756005465,
+      "timestamp": 1756099448,
       "topics": [
         "xk6"
       ],
@@ -1265,7 +1265,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 72,
-      "timestamp": 1756053243,
+      "timestamp": 1756100510,
       "topics": [
         "kubernetes",
         "kubernetes-client",
@@ -1312,7 +1312,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 51,
-      "timestamp": 1755086307,
+      "timestamp": 1756104488,
       "topics": [
         "k6",
         "loki",
@@ -1660,7 +1660,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 163,
-      "timestamp": 1756068519,
+      "timestamp": 1756100216,
       "topics": [
         "k6",
         "sql",
@@ -1988,7 +1988,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 12,
-      "timestamp": 1756056217,
+      "timestamp": 1756099877,
       "topics": [
         "ssh",
         "ssh-client",
@@ -2123,7 +2123,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 16,
-      "timestamp": 1756097231,
+      "timestamp": 1756097640,
       "topics": [
         "k6",
         "k6-extension",
@@ -2136,6 +2136,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.107",
       "v0.9.106",
       "v0.9.105",
       "v0.9.104",
