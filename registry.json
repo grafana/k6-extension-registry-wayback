@@ -1077,7 +1077,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 437,
-      "timestamp": 1756219442,
+      "timestamp": 1756221711,
       "topics": [
         "xk6",
         "xk6-output-dashboard"
@@ -1086,6 +1086,7 @@
     },
     "tier": "official",
     "versions": [
+      "v0.7.12",
       "v0.7.11",
       "v0.7.10",
       "v0.7.9",
@@ -2455,7 +2456,7 @@
       "owner": "phymbert",
       "public": true,
       "stars": 30,
-      "timestamp": 1756068601,
+      "timestamp": 1756225509,
       "topics": [
         "k6",
         "sse",
