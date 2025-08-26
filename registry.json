@@ -203,7 +203,7 @@
       "name": "xk6-output-statsd",
       "owner": "LeonAdato",
       "public": true,
-      "stars": 30,
+      "stars": 31,
       "timestamp": 1738852265,
       "topics": [
         "k6-extension",
@@ -1606,7 +1606,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1756066548,
+      "timestamp": 1756168613,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
