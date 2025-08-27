@@ -1077,7 +1077,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 438,
+      "stars": 439,
       "timestamp": 1756221711,
       "topics": [
         "xk6",
@@ -1180,7 +1180,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1756261270,
+      "timestamp": 1756317343,
       "topics": [
         "exec",
         "k6",
@@ -3351,7 +3351,7 @@
       "name": "xk6-ldap",
       "owner": "kressnick25",
       "public": true,
-      "timestamp": 1756210664,
+      "timestamp": 1756300470,
       "topics": [
         "xk6",
         "xk6-extension"
