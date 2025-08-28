@@ -1077,7 +1077,7 @@
       "name": "xk6-dashboard",
       "owner": "grafana",
       "public": true,
-      "stars": 439,
+      "stars": 440,
       "timestamp": 1756221711,
       "topics": [
         "xk6",
@@ -1180,7 +1180,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 27,
-      "timestamp": 1756326158,
+      "timestamp": 1756342143,
       "topics": [
         "exec",
         "k6",
@@ -1608,7 +1608,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1756334631,
+      "timestamp": 1756341364,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2126,7 +2126,7 @@
       "owner": "leonyork",
       "public": true,
       "stars": 16,
-      "timestamp": 1756322940,
+      "timestamp": 1756336069,
       "topics": [
         "k6",
         "k6-extension",
@@ -2139,6 +2139,7 @@
     },
     "tier": "community",
     "versions": [
+      "v0.9.109",
       "v0.9.108",
       "v0.9.107",
       "v0.9.106",
