@@ -1611,7 +1611,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1756887409,
+      "timestamp": 1756901841,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2306,7 +2306,7 @@
       "name": "xk6-kafka",
       "owner": "mostafa",
       "public": true,
-      "stars": 191,
+      "stars": 192,
       "timestamp": 1751383042,
       "topics": [
         "apache-kafka",
