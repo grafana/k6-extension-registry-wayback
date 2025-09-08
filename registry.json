@@ -1611,7 +1611,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1757348152,
+      "timestamp": 1757362544,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -2956,7 +2956,7 @@
       "owner": "szkiba",
       "public": true,
       "stars": 31,
-      "timestamp": 1754963021,
+      "timestamp": 1757358378,
       "topics": [
         "xk6",
         "xk6-output-top"
