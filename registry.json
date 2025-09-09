@@ -1,19 +1,11 @@
 [
   {
-    "categories": [
-      "misc"
-    ],
     "constraints": ">=1.0.0",
     "description": "A modern load testing tool, using Go and JavaScript",
     "imports": [
       "k6"
     ],
     "module": "go.k6.io/k6",
-    "products": [
-      "cloud",
-      "synthetic",
-      "oss"
-    ],
     "repo": {
       "description": "A modern load testing tool, using Go and JavaScript",
       "homepage": "https://grafana.com/oss/k6/",
@@ -45,9 +37,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -62,9 +51,6 @@
       "k6/x/mongo"
     ],
     "module": "github.com/GhMartingit/xk6-mongo",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/GhMartingit/xk6-mongo.git",
       "homepage": "https://github.com/GhMartingit/xk6-mongo",
@@ -93,9 +79,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -110,9 +93,6 @@
       "k6/x/prometheusread"
     ],
     "module": "github.com/JorTurFer/xk6-input-prometheus",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/JorTurFer/xk6-input-prometheus.git",
       "description": "Read data from Prometheus",
@@ -136,9 +116,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -152,9 +129,6 @@
       "k6/x/prompt"
     ],
     "module": "github.com/Juandavi1/xk6-prompt",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/Juandavi1/xk6-prompt.git",
       "description": "k6 extension that adds support for input arguments via UI",
@@ -181,9 +155,6 @@
     ]
   },
   {
-    "categories": [
-      "observability"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -192,9 +163,6 @@
     "module": "github.com/LeonAdato/xk6-output-statsd",
     "outputs": [
       "output-statsd"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/LeonAdato/xk6-output-statsd.git",
@@ -224,10 +192,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "observability"
-    ],
     "compliance": {
       "grade": "D",
       "issues": [
@@ -242,9 +206,6 @@
     "module": "github.com/Maksimall89/xk6-output-clickhouse",
     "outputs": [
       "clickhouse"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/Maksimall89/xk6-output-clickhouse.git",
@@ -271,9 +232,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -287,9 +245,6 @@
       "k6/x/proxy"
     ],
     "module": "github.com/SYM01/xk6-proxy",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/SYM01/xk6-proxy.git",
       "description": "Allow k6 to manipulate the env",
@@ -312,9 +267,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -328,9 +280,6 @@
       "k6/x/read"
     ],
     "module": "github.com/acuenca-facephi/xk6-read",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/acuenca-facephi/xk6-read.git",
       "description": "k6 extension for reading files",
@@ -355,10 +304,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging",
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -372,9 +317,6 @@
       "k6/x/nostr"
     ],
     "module": "github.com/akiomik/xk6-nostr",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/akiomik/xk6-nostr.git",
       "description": "An xk6 extension for nostr",
@@ -400,9 +342,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -417,9 +356,6 @@
       "k6/x/cable"
     ],
     "module": "github.com/anycable/xk6-cable",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/anycable/xk6-cable.git",
       "description": "A k6 extension for testing Action Cable and AnyCable functionality",
@@ -449,9 +385,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -465,9 +398,6 @@
       "k6/x/file"
     ],
     "module": "github.com/avitalique/xk6-file",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/avitalique/xk6-file.git",
       "description": "k6 extension for writing files",
@@ -500,9 +430,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -517,9 +444,6 @@
       "k6/x/gcp"
     ],
     "module": "github.com/deejiw/xk6-gcp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/deejiw/xk6-gcp.git",
       "description": "A k6 extension for Google Cloud Platform services.",
@@ -544,9 +468,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -561,9 +482,6 @@
       "k6/x/interpret"
     ],
     "module": "github.com/deejiw/xk6-interpret",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/deejiw/xk6-interpret.git",
       "description": "A k6 extension to interpret Go code from literal string.",
@@ -590,9 +508,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -606,9 +521,6 @@
       "k6/x/ethereum"
     ],
     "module": "github.com/distribworks/xk6-ethereum",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/distribworks/xk6-ethereum.git",
       "description": "K6 extension for ethereum protocols",
@@ -636,9 +548,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -652,9 +561,6 @@
       "k6/x/fasthttp"
     ],
     "module": "github.com/domsolutions/xk6-fasthttp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/domsolutions/xk6-fasthttp.git",
       "description": "A k6 extension using fasthttp library for improved speed of HTTP/1.1 requests",
@@ -686,9 +592,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -697,9 +600,6 @@
     "module": "github.com/elastic/xk6-output-elasticsearch",
     "outputs": [
       "output-elasticsearch"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/elastic/xk6-output-elasticsearch.git",
@@ -723,9 +623,6 @@
     ]
   },
   {
-    "categories": [
-      "authentication"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -739,9 +636,6 @@
       "k6/x/oauth-pkce"
     ],
     "module": "github.com/frankhefeng/xk6-oauth-pkce",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/frankhefeng/xk6-oauth-pkce.git",
       "description": "OAuth PKCE extension for K6",
@@ -769,9 +663,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -785,9 +676,6 @@
       "k6/x/mllp"
     ],
     "module": "github.com/gjergjsheldija/xk6-mllp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/gjergjsheldija/xk6-mllp.git",
       "description": "Simple MLLP sender for K6",
@@ -820,10 +708,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging",
-      "protocol"
-    ],
     "compliance": {
       "grade": "D",
       "issues": [
@@ -839,9 +723,6 @@
       "k6/x/coap"
     ],
     "module": "github.com/golioth/xk6-coap",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/golioth/xk6-coap.git",
       "description": "A k6 extension for CoAP.",
@@ -866,9 +747,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -882,9 +760,6 @@
       "k6/x/httpagg"
     ],
     "module": "github.com/gpiechnik2/xk6-httpagg",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/gpiechnik2/xk6-httpagg.git",
       "description": "k6 extension that allows you to aggregate the results of HTTP requests and view them one by one using a generated .html report. Implemented using xk6.",
@@ -913,9 +788,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -929,9 +801,6 @@
       "k6/x/smtp"
     ],
     "module": "github.com/gpiechnik2/xk6-smtp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/gpiechnik2/xk6-smtp.git",
       "description": "k6 extension to k6 extension to use smtp protocol (sending emails). Implemented using the xk6 system.",
@@ -960,9 +829,6 @@
     ]
   },
   {
-    "categories": [
-      "observability"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -977,10 +843,6 @@
       "k6/x/remotewrite"
     ],
     "module": "github.com/grafana/xk6-client-prometheus-remote",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-client-prometheus-remote.git",
       "description": "A k6 extension for testing Prometheus Remote Write endpoints",
@@ -1004,9 +866,6 @@
     ]
   },
   {
-    "categories": [
-      "observability"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1020,9 +879,6 @@
       "k6/x/tracing"
     ],
     "module": "github.com/grafana/xk6-client-tracing",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-client-tracing.git",
       "description": "A k6 extension for testing distributed tracing backends",
@@ -1054,10 +910,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "observability"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1067,9 +919,6 @@
     "module": "github.com/grafana/xk6-dashboard",
     "outputs": [
       "dashboard"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-dashboard.git",
@@ -1101,9 +950,6 @@
     ]
   },
   {
-    "categories": [
-      "kubernetes"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1119,9 +965,6 @@
       "k6/x/disruptor"
     ],
     "module": "github.com/grafana/xk6-disruptor",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-disruptor.git",
       "description": "Extension for injecting faults into k6 tests",
@@ -1131,7 +974,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 112,
-      "timestamp": 1757261011,
+      "timestamp": 1757410900,
       "topics": [
         "chaos-engineering",
         "fault-injection",
@@ -1153,9 +996,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1170,9 +1010,6 @@
       "k6/x/exec"
     ],
     "module": "github.com/grafana/xk6-exec",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-exec.git",
       "description": "A k6 extension for running external commands. ",
@@ -1198,9 +1035,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1211,11 +1045,6 @@
       "k6/x/faker"
     ],
     "module": "github.com/grafana/xk6-faker",
-    "products": [
-      "oss",
-      "cloud",
-      "synthetic"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-faker.git",
       "description": "Random fake data generator for k6.",
@@ -1241,9 +1070,6 @@
     ]
   },
   {
-    "categories": [
-      "kubernetes"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1258,9 +1084,6 @@
       "k6/x/kubernetes"
     ],
     "module": "github.com/grafana/xk6-kubernetes",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-kubernetes.git",
       "description": "Client extension for interacting with Kubernetes clusters from your k6 tests.",
@@ -1286,10 +1109,6 @@
     ]
   },
   {
-    "categories": [
-      "observability",
-      "messaging"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1304,10 +1123,6 @@
       "k6/x/loki"
     ],
     "module": "github.com/grafana/xk6-loki",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-loki.git",
       "description": "k6 extension for Loki",
@@ -1332,9 +1147,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1344,9 +1156,6 @@
     "module": "github.com/grafana/xk6-output-influxdb",
     "outputs": [
       "xk6-influxdb"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-output-influxdb.git",
@@ -1375,10 +1184,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "messaging"
-    ],
     "compliance": {
       "grade": "D",
       "issues": [
@@ -1394,9 +1199,6 @@
     "module": "github.com/grafana/xk6-output-kafka",
     "outputs": [
       "xk6-kafka"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-output-kafka.git",
@@ -1426,10 +1228,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1439,9 +1237,6 @@
     "module": "github.com/grafana/xk6-output-timescaledb",
     "outputs": [
       "timescaledb"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-output-timescaledb.git",
@@ -1469,9 +1264,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1485,9 +1277,6 @@
       "k6/x/plugin"
     ],
     "module": "github.com/grafana/xk6-plugin",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-plugin.git",
       "description": "Make the Node.js ecosystem available for k6 tests",
@@ -1510,9 +1299,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -1526,9 +1312,6 @@
       "k6/x/python"
     ],
     "module": "github.com/grafana/xk6-python",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-python.git",
       "description": "Write k6 tests in Python",
@@ -1550,9 +1333,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1562,9 +1342,6 @@
       "k6/x/crawler"
     ],
     "module": "github.com/grafana/xk6-crawler",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-crawler.git",
       "description": "Web crawler API for k6",
@@ -1586,9 +1363,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1598,9 +1372,6 @@
     "module": "github.com/grafana/xk6-sm",
     "outputs": [
       "sm"
-    ],
-    "products": [
-      "synthetic"
     ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sm.git",
@@ -1641,9 +1412,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1654,10 +1422,6 @@
       "k6/x/sql"
     ],
     "module": "github.com/grafana/xk6-sql",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql.git",
       "description": "Use SQL databases from k6 tests.",
@@ -1686,9 +1450,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1699,10 +1460,6 @@
       "k6/x/sql/driver/azuresql"
     ],
     "module": "github.com/grafana/xk6-sql-driver-azuresql",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-azuresql.git",
       "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
@@ -1726,9 +1483,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1739,10 +1493,6 @@
       "k6/x/sql/driver/clickhouse"
     ],
     "module": "github.com/grafana/xk6-sql-driver-clickhouse",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-clickhouse.git",
       "description": "xk6-sql driver extension for ClickHouse database support",
@@ -1766,9 +1516,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1779,10 +1526,6 @@
       "k6/x/sql/driver/mysql"
     ],
     "module": "github.com/grafana/xk6-sql-driver-mysql",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-mysql.git",
       "description": "xk6-sql driver extension for MySQL database support",
@@ -1807,9 +1550,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1820,10 +1560,6 @@
       "k6/x/sql/driver/postgres"
     ],
     "module": "github.com/grafana/xk6-sql-driver-postgres",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-postgres.git",
       "description": "xk6-sql driver extension for Postgres database support",
@@ -1847,9 +1583,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "cgo": true,
     "compliance": {
       "grade": "A",
@@ -1861,9 +1594,6 @@
       "k6/x/sql/driver/sqlite3"
     ],
     "module": "github.com/grafana/xk6-sql-driver-sqlite3",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-sqlite3.git",
       "description": "xk6-sql driver extension for SQLite v3 database support",
@@ -1887,9 +1617,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1900,10 +1627,6 @@
       "k6/x/sql/driver/sqlserver"
     ],
     "module": "github.com/grafana/xk6-sql-driver-sqlserver",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-sqlserver.git",
       "description": "xk6-sql driver extension for Microsoft SQL Server database support",
@@ -1927,9 +1650,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -1940,9 +1660,6 @@
       "k6/x/sql/driver/ramsql"
     ],
     "module": "github.com/grafana/xk6-sql-driver-ramsql",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-sql-driver-ramsql.git",
       "description": "Repository template for creating xk6-sql driver repositories",
@@ -1966,9 +1683,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "B",
       "issues": [
@@ -1982,10 +1696,6 @@
       "k6/x/ssh"
     ],
     "module": "github.com/grafana/xk6-ssh",
-    "products": [
-      "oss",
-      "cloud"
-    ],
     "repo": {
       "clone_url": "https://github.com/grafana/xk6-ssh.git",
       "description": "Client extension for interacting with a host over SSH as part of your k6 test.",
@@ -2012,10 +1722,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging",
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2029,9 +1735,6 @@
       "k6/x/webtransport"
     ],
     "module": "github.com/kelseyaubrecht/xk6-webtransport",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/kelseyaubrecht/xk6-webtransport.git",
       "description": "Extension for k6 to support webtransport",
@@ -2061,9 +1764,6 @@
     ]
   },
   {
-    "categories": [
-      "observability"
-    ],
     "compliance": {
       "grade": "D",
       "issues": [
@@ -2079,9 +1779,6 @@
     "module": "github.com/kubeshop/xk6-tracetest",
     "outputs": [
       "tracetest"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/kubeshop/xk6-tracetest.git",
@@ -2104,10 +1801,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2117,9 +1810,6 @@
     "module": "github.com/leonyork/xk6-output-timestream",
     "outputs": [
       "timestream"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/leonyork/xk6-output-timestream.git",
@@ -2181,10 +1871,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "messaging"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2198,9 +1884,6 @@
       "k6/x/telegram"
     ],
     "module": "github.com/maksimall89/xk6-telegram",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/Maksimall89/xk6-telegram.git",
       "description": "A k6 extension for creating telegram notifications.",
@@ -2225,11 +1908,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "observability",
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2241,9 +1919,6 @@
     "module": "github.com/martymarron/xk6-output-prometheus-pushgateway",
     "outputs": [
       "output-prometheus-pushgateway"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/martymarron/xk6-output-prometheus-pushgateway.git",
@@ -2279,9 +1954,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2296,9 +1968,6 @@
       "k6/x/kafka"
     ],
     "module": "github.com/mostafa/xk6-kafka",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/mostafa/xk6-kafka.git",
       "description": "k6 extension to load test Apache Kafka with support for various serialization formats, SASL, TLS, compression, Schema Registry client and beyond",
@@ -2338,9 +2007,6 @@
     ]
   },
   {
-    "categories": [
-      "browser"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2354,9 +2020,6 @@
       "k6/x/playwright"
     ],
     "module": "github.com/nicholasvuono/xk6-playwright",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/nicholasvuono/xk6-playwright.git",
       "description": "k6 extension that adds support for browser automation and end-to-end web testing using playwright-go",
@@ -2393,9 +2056,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2409,9 +2069,6 @@
       "k6/x/kv"
     ],
     "module": "github.com/oleiade/xk6-kv",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/oleiade/xk6-kv.git",
       "description": "A key-value store extension for k6",
@@ -2441,9 +2098,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2457,9 +2111,6 @@
       "k6/x/sse"
     ],
     "module": "github.com/phymbert/xk6-sse",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/phymbert/xk6-sse.git",
       "description": "A k6 extension for Server-Sent Events (SSE)",
@@ -2497,9 +2148,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2514,9 +2162,6 @@
       "k6/x/mqtt"
     ],
     "module": "github.com/pmalhaire/xk6-mqtt",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/pmalhaire/xk6-mqtt.git",
       "description": "k6 mqtt extension",
@@ -2544,10 +2189,6 @@
     ]
   },
   {
-    "categories": [
-      "data",
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2562,9 +2203,6 @@
       "k6/x/git"
     ],
     "module": "github.com/skibum55/xk6-git",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/skibum55/xk6-git.git",
       "description": "Load testing extension for GIt with K6",
@@ -2596,9 +2234,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2613,9 +2248,6 @@
       "k6/x/ansible-vault"
     ],
     "module": "github.com/szkiba/xk6-ansible-vault",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-ansible-vault.git",
       "description": "A k6 extension enables to encrypt and decrypt ansible vaults",
@@ -2639,9 +2271,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2651,9 +2280,6 @@
     "module": "github.com/szkiba/xk6-cache",
     "outputs": [
       "cache"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-cache.git",
@@ -2679,9 +2305,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2696,9 +2319,6 @@
       "k6/x/csv"
     ],
     "module": "github.com/szkiba/xk6-csv",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-csv.git",
       "description": "A k6 extension enables to parse CSV values",
@@ -2722,9 +2342,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2734,9 +2351,6 @@
       "k6/x/dotenv"
     ],
     "module": "github.com/szkiba/xk6-dotenv",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-dotenv.git",
       "description": "A k6 extension that loads env vars from a .env file.",
@@ -2762,9 +2376,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2780,9 +2391,6 @@
       "k6/x/g0"
     ],
     "module": "github.com/szkiba/xk6-g0",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-g0.git",
       "description": "Write k6 tests in golang",
@@ -2808,10 +2416,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "data"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2820,9 +2424,6 @@
     "module": "github.com/szkiba/xk6-output-plugin",
     "outputs": [
       "plugin"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-output-plugin.git",
@@ -2846,10 +2447,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "observability"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2859,9 +2456,6 @@
     "module": "github.com/szkiba/xk6-prometheus",
     "outputs": [
       "prometheus"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-prometheus.git",
@@ -2888,9 +2482,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2904,9 +2495,6 @@
       "k6/x/toml"
     ],
     "module": "github.com/szkiba/xk6-toml",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-toml.git",
       "description": "A k6 extension enables to encode and decode TOML values",
@@ -2931,10 +2519,6 @@
     ]
   },
   {
-    "categories": [
-      "reporting",
-      "observability"
-    ],
     "compliance": {
       "grade": "A",
       "level": 100
@@ -2944,9 +2528,6 @@
     "module": "github.com/szkiba/xk6-top",
     "outputs": [
       "top"
-    ],
-    "products": [
-      "oss"
     ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-top.git",
@@ -2971,9 +2552,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -2987,9 +2565,6 @@
       "k6/x/yaml"
     ],
     "module": "github.com/szkiba/xk6-yaml",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/szkiba/xk6-yaml.git",
       "description": "A k6 extension enables to encode and decode YAML values",
@@ -3016,9 +2591,6 @@
     ]
   },
   {
-    "categories": [
-      "observability"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3032,9 +2604,6 @@
       "k6/x/opentelemetry"
     ],
     "module": "github.com/thmshmm/xk6-opentelemetry",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/thmshmm/xk6-opentelemetry.git",
       "description": "k6 extension to generate OpenTelemetry signals for load testing",
@@ -3062,9 +2631,6 @@
     ]
   },
   {
-    "categories": [
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3078,9 +2644,6 @@
       "k6/x/couchbase"
     ],
     "module": "github.com/thotasrinath/xk6-couchbase",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/thotasrinath/xk6-couchbase.git",
       "description": "K6 extension to test Couchbase DB",
@@ -3113,9 +2676,6 @@
     ]
   },
   {
-    "categories": [
-      "authentication"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3129,9 +2689,6 @@
       "k6/x/cognito"
     ],
     "module": "github.com/tmieulet/xk6-cognito",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/tmieulet/xk6-cognito.git",
       "description": "An example module for https://k6.io/ to get a cognito access token using USER_SRP_AUTH flow.",
@@ -3153,10 +2710,6 @@
     ]
   },
   {
-    "categories": [
-      "messaging",
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3171,9 +2724,6 @@
       "k6/x/stomp"
     ],
     "module": "github.com/walterwanderley/xk6-stomp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/walterwanderley/xk6-stomp.git",
       "description": "A STOMP protocol client library for k6",
@@ -3202,9 +2752,6 @@
     ]
   },
   {
-    "categories": [
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3218,9 +2765,6 @@
       "k6/x/banner"
     ],
     "module": "gitlab.com/szkiba/xk6-banner",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://gitlab.com/szkiba/xk6-banner.git",
       "description": "Print ASCII art banner from k6 test.",
@@ -3241,10 +2785,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol",
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3258,9 +2798,6 @@
       "k6/x/sftp"
     ],
     "module": "github.com/ogarciacar/xk6-sftp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/ogarciacar/xk6-sftp.git",
       "description": "xk6 extension for load testing SFTP servers",
@@ -3291,9 +2828,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3307,9 +2841,6 @@
       "k6/x/amqp"
     ],
     "module": "github.com/prmuthu/xk6-amqp",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/prmuthu/xk6-amqp.git",
       "description": "A k6 extension for publishing and consuming messages from queues using AMQP 1.0",
@@ -3333,10 +2864,6 @@
     ]
   },
   {
-    "categories": [
-      "protocol",
-      "data"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3350,9 +2877,6 @@
       "k6/x/ldap"
     ],
     "module": "github.com/kressnick25/xk6-ldap",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/kressnick25/xk6-ldap.git",
       "description": "K6 extension for LDAP protocol",
@@ -3381,10 +2905,6 @@
     ]
   },
   {
-    "categories": [
-      "data",
-      "misc"
-    ],
     "compliance": {
       "grade": "C",
       "issues": [
@@ -3398,9 +2918,6 @@
       "k6/x/edi"
     ],
     "module": "github.com/copyleftdev/xk6-edi",
-    "products": [
-      "oss"
-    ],
     "repo": {
       "clone_url": "https://github.com/copyleftdev/xk6-edi.git",
       "description": "k6 extension for generating HIPAA X12 EDI transactions for healthcare load testing. Supports 837P/837D claims, 835 payments, 270/271 eligibility, and 276/277 claim status with HIPAA 5010 compliance.",
