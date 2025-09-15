@@ -888,7 +888,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 58,
-      "timestamp": 1757940957,
+      "timestamp": 1757944367,
       "topics": [
         "distributed-tracing",
         "k6",
@@ -1054,7 +1054,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 106,
-      "timestamp": 1757934263,
+      "timestamp": 1757942411,
       "topics": [
         "xk6"
       ],
@@ -1432,7 +1432,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 164,
-      "timestamp": 1757939134,
+      "timestamp": 1757942415,
       "topics": [
         "k6",
         "sql",
