@@ -1165,7 +1165,7 @@
       "name": "xk6-output-influxdb",
       "owner": "grafana",
       "public": true,
-      "stars": 77,
+      "stars": 78,
       "timestamp": 1750078283,
       "topics": [
         "grafana-dashboard",
@@ -1382,7 +1382,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1758010830,
+      "timestamp": 1758025035,
       "url": "https://github.com/grafana/xk6-sm"
     },
     "tier": "official",
@@ -1432,7 +1432,7 @@
       "name": "xk6-sql",
       "owner": "grafana",
       "public": true,
-      "stars": 164,
+      "stars": 165,
       "timestamp": 1757951654,
       "topics": [
         "k6",
