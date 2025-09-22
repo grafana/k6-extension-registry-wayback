@@ -111,9 +111,10 @@
       "issues": [
         "replace",
         "smoke",
-        "types"
+        "types",
+        "codeowners"
       ],
-      "level": 80
+      "level": 75
     },
     "description": "Test Grafana Loki log ingestion endpoints",
     "imports": [
