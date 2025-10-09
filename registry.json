@@ -313,6 +313,7 @@
         "apache-kafka",
         "avro",
         "extension",
+        "hacktoberfest",
         "json-schema",
         "jsonschema",
         "k6",
