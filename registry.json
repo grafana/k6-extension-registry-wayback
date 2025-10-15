@@ -90,7 +90,7 @@
       "name": "xk6-faker",
       "owner": "grafana",
       "public": true,
-      "stars": 109,
+      "stars": 110,
       "timestamp": 1760238290,
       "topics": [
         "xk6"
@@ -131,7 +131,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 52,
-      "timestamp": 1756104488,
+      "timestamp": 1760519775,
       "topics": [
         "k6",
         "loki",
@@ -449,7 +449,7 @@
       "name": "xk6-sse",
       "owner": "phymbert",
       "public": true,
-      "stars": 35,
+      "stars": 36,
       "timestamp": 1759290926,
       "topics": [
         "k6",
