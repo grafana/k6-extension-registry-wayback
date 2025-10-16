@@ -38,12 +38,10 @@
   },
   {
     "compliance": {
-      "grade": "C",
       "issues": [
         "smoke",
         "types"
-      ],
-      "level": 87
+      ]
     },
     "description": "Test Prometheus Remote Write-compatible endpoints",
     "imports": [
@@ -73,10 +71,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "Generate fake data in your tests",
     "imports": [
       "k6/x/faker"
@@ -108,14 +103,12 @@
   },
   {
     "compliance": {
-      "grade": "C",
       "issues": [
         "replace",
         "smoke",
         "types",
         "codeowners"
-      ],
-      "level": 75
+      ]
     },
     "description": "Test Grafana Loki log ingestion endpoints",
     "imports": [
@@ -146,10 +139,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "Load-test SQL Servers",
     "imports": [
       "k6/x/sql"
@@ -183,10 +173,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "xk6-sql driver extension for MySQL database support",
     "imports": [
       "k6/x/sql/driver/mysql"
@@ -216,10 +203,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "xk6-sql driver extension for Postgres database support",
     "imports": [
       "k6/x/sql/driver/postgres"
@@ -249,11 +233,9 @@
   },
   {
     "compliance": {
-      "grade": "B",
       "issues": [
         "types"
-      ],
-      "level": 93
+      ]
     },
     "description": "Use SSH connections in your tests",
     "imports": [
@@ -287,12 +269,10 @@
   },
   {
     "compliance": {
-      "grade": "C",
       "issues": [
         "smoke",
         "examples"
-      ],
-      "level": 87
+      ]
     },
     "description": "Load test Apache Kafka. Includes support for Avro messages.",
     "imports": [
@@ -332,10 +312,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "xk6-sql driver extension for Microsoft Azure SQL database support",
     "imports": [
       "k6/x/sql/driver/azuresql"
@@ -364,10 +341,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "xk6-sql driver extension for ClickHouse database support",
     "imports": [
       "k6/x/sql/driver/clickhouse"
@@ -396,10 +370,7 @@
     ]
   },
   {
-    "compliance": {
-      "grade": "A",
-      "level": 100
-    },
+    "compliance": {},
     "description": "xk6-sql driver extension for Microsoft SQL Server database support",
     "imports": [
       "k6/x/sql/driver/sqlserver"
@@ -429,12 +400,10 @@
   },
   {
     "compliance": {
-      "grade": "C",
       "issues": [
         "smoke",
         "types"
-      ],
-      "level": 87
+      ]
     },
     "description": "Server Sent Event",
     "imports": [
