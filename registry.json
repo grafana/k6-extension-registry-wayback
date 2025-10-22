@@ -84,6 +84,43 @@
         "build"
       ]
     },
+    "description": "DNS resolution and lookups in your tests",
+    "imports": [
+      "k6/x/dns"
+    ],
+    "module": "github.com/grafana/xk6-dns",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-dns.git",
+      "description": "A k6 extension to resolve DNS names to IP addresses",
+      "homepage": "https://github.com/grafana/xk6-dns",
+      "license": "AGPL-3.0",
+      "name": "xk6-dns",
+      "owner": "grafana",
+      "public": true,
+      "stars": 6,
+      "timestamp": 1760551782,
+      "topics": [
+        "dns",
+        "k6",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-dns"
+    },
+    "tier": "official",
+    "versions": [
+      "v1.0.0"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security",
+        "vulnerability",
+        "module",
+        "versions",
+        "build"
+      ]
+    },
     "description": "Generate fake data in your tests",
     "imports": [
       "k6/x/faker"
