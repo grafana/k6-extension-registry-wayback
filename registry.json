@@ -161,6 +161,43 @@
         "build"
       ]
     },
+    "description": "ICMP protocol support for k6",
+    "imports": [
+      "k6/x/icmp"
+    ],
+    "module": "github.com/grafana/xk6-icmp",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-icmp.git",
+      "description": "ICMP protocol support for k6",
+      "homepage": "http://icmp.x.k6.io/",
+      "license": "AGPL-3.0",
+      "name": "xk6-icmp",
+      "owner": "grafana",
+      "public": true,
+      "timestamp": 1760900818,
+      "topics": [
+        "icmp",
+        "k6",
+        "ping",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-icmp"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.0"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security",
+        "vulnerability",
+        "module",
+        "versions",
+        "build"
+      ]
+    },
     "description": "Test Grafana Loki log ingestion endpoints",
     "imports": [
       "k6/x/loki"
