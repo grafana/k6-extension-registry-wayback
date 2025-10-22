@@ -236,6 +236,43 @@
         "build"
       ]
     },
+    "description": "MQTT protocol support for k6",
+    "imports": [
+      "k6/x/mqtt"
+    ],
+    "module": "github.com/grafana/xk6-mqtt",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-mqtt.git",
+      "description": "MQTT protocol support for k6",
+      "homepage": "http://mqtt.x.k6.io/",
+      "license": "AGPL-3.0",
+      "name": "xk6-mqtt",
+      "owner": "grafana",
+      "public": true,
+      "stars": 2,
+      "timestamp": 1761115419,
+      "topics": [
+        "k6",
+        "mqtt",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-mqtt"
+    },
+    "tier": "official",
+    "versions": [
+      "v0.1.1"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security",
+        "vulnerability",
+        "module",
+        "versions",
+        "build"
+      ]
+    },
     "description": "Load-test SQL Servers",
     "imports": [
       "k6/x/sql"
