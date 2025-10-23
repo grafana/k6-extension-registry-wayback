@@ -250,7 +250,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1761115419,
+      "timestamp": 1761222413,
       "topics": [
         "k6",
         "mqtt",
@@ -429,8 +429,11 @@
   {
     "compliance": {
       "issues": [
-        "smoke",
-        "examples"
+        "security",
+        "vulnerability",
+        "module",
+        "versions",
+        "build"
       ]
     },
     "description": "Load test Apache Kafka. Includes support for Avro messages.",
