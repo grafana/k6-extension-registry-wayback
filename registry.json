@@ -212,7 +212,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 52,
-      "timestamp": 1761821130,
+      "timestamp": 1761821146,
       "topics": [
         "k6",
         "loki",
@@ -250,7 +250,7 @@
       "owner": "grafana",
       "public": true,
       "stars": 2,
-      "timestamp": 1761556807,
+      "timestamp": 1761821185,
       "topics": [
         "k6",
         "mqtt",
