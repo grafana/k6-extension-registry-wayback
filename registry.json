@@ -328,7 +328,7 @@
       "name": "xk6-sql-driver-mysql",
       "owner": "grafana",
       "public": true,
-      "stars": 4,
+      "stars": 5,
       "timestamp": 1751873375,
       "topics": [
         "k6",
@@ -496,7 +496,7 @@
       "name": "xk6-sql-driver-azuresql",
       "owner": "grafana",
       "public": true,
-      "stars": 2,
+      "stars": 3,
       "timestamp": 1751872653,
       "topics": [
         "azuresql",
