@@ -152,15 +152,7 @@
     ]
   },
   {
-    "compliance": {
-      "issues": [
-        "security",
-        "vulnerability",
-        "module",
-        "versions",
-        "build"
-      ]
-    },
+    "compliance": {},
     "description": "ICMP protocol support for k6",
     "imports": [
       "k6/x/icmp"
