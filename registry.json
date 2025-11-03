@@ -46,44 +46,6 @@
         "build"
       ]
     },
-    "description": "Test Prometheus Remote Write-compatible endpoints",
-    "imports": [
-      "k6/x/remotewrite"
-    ],
-    "module": "github.com/grafana/xk6-client-prometheus-remote",
-    "repo": {
-      "clone_url": "https://github.com/grafana/xk6-client-prometheus-remote.git",
-      "description": "A k6 extension for testing Prometheus Remote Write endpoints",
-      "homepage": "https://github.com/grafana/xk6-client-prometheus-remote",
-      "license": "Apache-2.0",
-      "name": "xk6-client-prometheus-remote",
-      "owner": "grafana",
-      "public": true,
-      "stars": 28,
-      "timestamp": 1755852702,
-      "topics": [
-        "k6",
-        "prometheus",
-        "remote-write",
-        "xk6"
-      ],
-      "url": "https://github.com/grafana/xk6-client-prometheus-remote"
-    },
-    "tier": "official",
-    "versions": [
-      "v0.3.2"
-    ]
-  },
-  {
-    "compliance": {
-      "issues": [
-        "security",
-        "vulnerability",
-        "module",
-        "versions",
-        "build"
-      ]
-    },
     "description": "DNS resolution and lookups in your tests",
     "imports": [
       "k6/x/dns"
@@ -178,44 +140,6 @@
     "tier": "official",
     "versions": [
       "v0.1.0"
-    ]
-  },
-  {
-    "compliance": {
-      "issues": [
-        "security",
-        "vulnerability",
-        "module",
-        "versions",
-        "build"
-      ]
-    },
-    "description": "Test Grafana Loki log ingestion endpoints",
-    "imports": [
-      "k6/x/loki"
-    ],
-    "module": "github.com/grafana/xk6-loki",
-    "repo": {
-      "clone_url": "https://github.com/grafana/xk6-loki.git",
-      "description": "k6 extension for Loki",
-      "homepage": "https://github.com/grafana/xk6-loki",
-      "license": "Apache-2.0",
-      "name": "xk6-loki",
-      "owner": "grafana",
-      "public": true,
-      "stars": 52,
-      "timestamp": 1761837754,
-      "topics": [
-        "k6",
-        "loki",
-        "xk6"
-      ],
-      "url": "https://github.com/grafana/xk6-loki"
-    },
-    "tier": "official",
-    "versions": [
-      "v1.0.1",
-      "v1.0.0"
     ]
   },
   {
@@ -428,6 +352,114 @@
         "build"
       ]
     },
+    "description": "Test Prometheus Remote Write-compatible endpoints",
+    "imports": [
+      "k6/x/remotewrite"
+    ],
+    "module": "github.com/grafana/xk6-client-prometheus-remote",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-client-prometheus-remote.git",
+      "description": "A k6 extension for testing Prometheus Remote Write endpoints",
+      "homepage": "https://github.com/grafana/xk6-client-prometheus-remote",
+      "license": "Apache-2.0",
+      "name": "xk6-client-prometheus-remote",
+      "owner": "grafana",
+      "public": true,
+      "stars": 28,
+      "timestamp": 1755852702,
+      "topics": [
+        "k6",
+        "prometheus",
+        "remote-write",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-client-prometheus-remote"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.3.2"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security",
+        "vulnerability"
+      ]
+    },
+    "description": "This extension provides k6 with the required functionality required to load test distributed tracing backends.",
+    "imports": [
+      "k6/x/tracing"
+    ],
+    "module": "github.com/grafana/xk6-client-tracing",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-client-tracing.git",
+      "description": "A k6 extension for testing distributed tracing backends",
+      "homepage": "https://github.com/grafana/xk6-client-tracing",
+      "license": "AGPL-3.0",
+      "name": "xk6-client-tracing",
+      "owner": "grafana",
+      "public": true,
+      "stars": 60,
+      "timestamp": 1761571868,
+      "topics": [
+        "distributed-tracing",
+        "k6",
+        "opentelemetry",
+        "tracing",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-client-tracing"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.0.9"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security"
+      ]
+    },
+    "description": "Add fault injection capabilities to k6, following the chaos engineering principles.",
+    "imports": [
+      "k6/x/disruptor"
+    ],
+    "module": "github.com/grafana/xk6-disruptor",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-disruptor.git",
+      "description": "Extension for injecting faults into k6 tests",
+      "homepage": "https://grafana.com/docs/k6/latest/testing-guides/injecting-faults-with-xk6-disruptor/",
+      "license": "AGPL-3.0",
+      "name": "xk6-disruptor",
+      "owner": "grafana",
+      "public": true,
+      "stars": 114,
+      "timestamp": 1762099448,
+      "topics": [
+        "chaos-engineering",
+        "fault-injection",
+        "k6",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-disruptor"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.3.17"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security",
+        "vulnerability",
+        "module",
+        "versions",
+        "build"
+      ]
+    },
     "description": "Load test Apache Kafka. Includes support for Avro messages.",
     "imports": [
       "k6/x/kafka"
@@ -462,6 +494,75 @@
     },
     "tier": "community",
     "versions": [
+      "v1.0.0"
+    ]
+  },
+  {
+    "compliance": {},
+    "description": "A k6 extension for interacting with Kubernetes clusters while testing.",
+    "imports": [
+      "k6/x/kubernetes"
+    ],
+    "module": "github.com/grafana/xk6-kubernetes",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-kubernetes.git",
+      "description": "Client extension for interacting with Kubernetes clusters from your k6 tests.",
+      "homepage": "https://github.com/grafana/xk6-kubernetes",
+      "license": "Apache-2.0",
+      "name": "xk6-kubernetes",
+      "owner": "grafana",
+      "public": true,
+      "stars": 74,
+      "timestamp": 1761494815,
+      "topics": [
+        "k6",
+        "k8s",
+        "kubernetes",
+        "kubernetes-client",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-kubernetes"
+    },
+    "tier": "community",
+    "versions": [
+      "v0.10.3"
+    ]
+  },
+  {
+    "compliance": {
+      "issues": [
+        "security",
+        "vulnerability",
+        "module",
+        "versions",
+        "build"
+      ]
+    },
+    "description": "Test Grafana Loki log ingestion endpoints",
+    "imports": [
+      "k6/x/loki"
+    ],
+    "module": "github.com/grafana/xk6-loki",
+    "repo": {
+      "clone_url": "https://github.com/grafana/xk6-loki.git",
+      "description": "k6 extension for Loki",
+      "homepage": "https://github.com/grafana/xk6-loki",
+      "license": "Apache-2.0",
+      "name": "xk6-loki",
+      "owner": "grafana",
+      "public": true,
+      "stars": 52,
+      "timestamp": 1761837754,
+      "topics": [
+        "k6",
+        "loki",
+        "xk6"
+      ],
+      "url": "https://github.com/grafana/xk6-loki"
+    },
+    "tier": "community",
+    "versions": [
+      "v1.0.1",
       "v1.0.0"
     ]
   },
